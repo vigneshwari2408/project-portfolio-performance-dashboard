@@ -1,0 +1,1001 @@
+﻿Project_ID,Project_Name,Region,Start_Date,Project_Status,Actual_End_Date,Planned_Budget,Actual_Spend,Project_Manager,Currency,Department,Priority,Planned_End_Date,Delay_Days,Budget_Variance,Budget_Variance_Pct,Milestone_Total,Milestone_Completed,Milestone_Completion_Pct
+1,Strosin-Jacobs,Kano,10-03-2019,In Progress,,228748,1578,Emeka Emeka,GHS,IT,Low,27-04-2019,,-227170,-99.31,5,1,20
+2,Braun Group,Abuja,05-08-2019,Completed,06-12-2019,103668,6798,Emmanuel Chude,KES,Marketing,Medium,05-10-2019,62,-96870,-93.44,4,1,25
+3,Smith-Lind,Port Harcourt,16-05-2019,In Progress,,422499,11005,Nancy Oluomachi,NGN,HR,High,29-07-2019,,-411494,-97.4,3,1,33.33
+4,"Gottlieb, McClure and Wyman",Benin City,22-12-2018,In Progress,,320213,8165,Temitope Angela,USD,Finance,Critical,19-03-2019,,-312048,-97.45,10,5,50
+5,Gutmann Inc,Lagos,30-08-2019,In Progress,,301732,6670,Emmanuel Chude,GHS,Operations,Low,08-12-2019,,-295062,-97.79,9,5,55.56
+6,Dibbert LLC,Abuja,24-01-2020,Completed,09-12-2021,95623,12545,Edmund,USD,IT,Medium,16-05-2020,572,-83078,-86.88,8,6,75
+7,"McLaughlin, Hoppe and Volkman",Benin City,27-09-2019,In Progress,,42990,2843,,NGN,Marketing,High,31-01-2020,,-40147,-93.39,7,6,85.71
+8,"Lehner, Runolfsson and Schultz",Enugu,15-03-2019,Completed,01-01-2021,38020,2664,Emmanuel Chude,USD,HR,Critical,01-08-2019,519,-35356,-92.99,6,6,100
+9,Blick-Labadie,Head Office,12-01-2018,Not Started,,268093,8941,,EURO,Finance,Low,13-06-2018,,-259152,-96.66,5,0,0
+10,Powlowski-Ryan,Kano,27-06-2019,Delayed,,274714,13536,Patric NwaezeUbong,KES,Operations,Medium,09-12-2019,,-261178,-95.07,4,1,25
+11,Beahan LLC,Benin City,30-04-2019,Not Started,,60616,3535,Nancy Oluomachi,USD,IT,High,25-10-2019,,-57081,-94.17,3,1,33.33
+12,Auer Group,Head Office,04-09-2020,Completed,09-09-2020,79558,1817,Emmanuel Chude,KES,Marketing,Critical,14-03-2021,-186,-77741,-97.72,10,4,40
+13,Von-Kohler,Onitsha,02-01-2019,Delayed,,480216,4638,,KES,HR,Low,25-07-2019,,-475578,-99.03,9,4,44.44
+14,Langworth-Schmidt,Lagos,20-09-2018,Not Started,,274564,1239,Emmanuel Chude,USD,Finance,Medium,27-10-2018,,-273325,-99.55,8,5,62.5
+15,Kulas LLC,Jos,20-02-2019,Delayed,,390219,6199,,KES,Operations,High,11-04-2019,,-384020,-98.41,7,5,71.43
+16,"Welch, Torp and Witting",Kano,02-04-2019,Not Started,,277988,14791,Patric NwaezeUbong,GHS,IT,Critical,04-06-2019,,-263197,-94.68,6,5,83.33
+17,Waelchi-Stehr,Abuja,26-05-2020,Delayed,,397047,5268,Emeka Emeka,KES,Marketing,Low,10-08-2020,,-391779,-98.67,5,5,100
+18,"Douglas, Bartoletti and Wiegand",Benin City,26-02-2020,In Progress,,436541,14774,Edmund,NGN,HR,Medium,25-05-2020,,-421767,-96.62,4,0,0
+19,Collins Inc,Aba,04-01-2019,In Progress,,191871,8527,Patric NwaezeUbong,EURO,Finance,High,16-04-2019,,-183344,-95.56,3,0,0
+20,Smith-Boehm,Ila,04-02-2019,Not Started,,136877,10747,,GHS,Operations,Critical,30-05-2019,,-126130,-92.15,10,2,20
+21,Quigley Group,Lagos,27-05-2019,Completed,11-12-2019,387459,9315,Nancy Oluomachi,USD,IT,Low,02-10-2019,70,-378144,-97.6,9,3,33.33
+22,"Goodwin, Goyette and Pacocha",Enugu,21-06-2019,Completed,09-08-2019,442296,9868,Temitope Angela,KES,Marketing,Medium,09-11-2019,-92,-432428,-97.77,8,4,50
+23,"Hermiston, Hand and Torphy",Lagos,08-06-2019,Not Started,,283656,12299,Temitope Angela,NGN,HR,High,09-11-2019,,-271357,-95.66,7,4,57.14
+24,Steuber LLC,Lagos,24-09-2020,In Progress,,66102,4313,Emeka Emeka,KES,Finance,Critical,10-03-2021,,-61789,-93.48,6,4,66.67
+25,Ernser-Kuvalis,Enugu,07-10-2020,Not Started,,243053,2404,Patric NwaezeUbong,GHS,Operations,Low,05-04-2021,,-240649,-99.01,5,4,80
+26,"Hoppe, Goyette and Heaney",Kano,22-11-2019,Delayed,,195522,2259,Emmanuel Chude,EURO,IT,Medium,02-06-2020,,-193263,-98.84,4,4,100
+27,Swaniawski-Little,Onitsha,30-08-2020,Completed,09-12-2020,480944,13280,Temitope Angela,NGN,Marketing,High,24-03-2021,-105,-467664,-97.24,3,0,0
+28,"Senger, Gusikowski and Hintz",Lagos,26-04-2019,Delayed,,251745,2283,Emeka Emeka,EURO,HR,Critical,04-06-2019,,-249462,-99.09,10,1,10
+29,"Skiles, Kunze and Lakin",Kano,21-02-2020,Completed,03-12-2020,235392,8859,Temitope Angela,USD,Finance,Low,13-04-2020,234,-226533,-96.24,9,2,22.22
+30,Bogan and Sons,Benin City,09-12-2019,Not Started,,118922,13834,,GHS,Operations,Medium,12-02-2020,,-105088,-88.37,8,3,37.5
+31,"Buckridge, Kozey and Barrows",Head Office,17-12-2018,Not Started,,221506,3078,Emmanuel Chude,NGN,IT,High,05-03-2019,,-218428,-98.61,7,3,42.86
+32,Hirthe LLC,Aba,23-10-2019,Delayed,,493658,3914,,KES,Marketing,Critical,22-01-2020,,-489744,-99.21,6,3,50
+33,"Orn, Streich and Carroll",Jos,12-08-2018,Completed,12-09-2018,483382,3220,Patric NwaezeUbong,GHS,HR,Low,24-11-2018,-73,-480162,-99.33,5,3,60
+34,Dicki and Sons,Enugu,02-12-2020,In Progress,,5493,8803,,NGN,Finance,Medium,29-03-2021,,3310,60.26,4,3,75
+35,"Hammes, Lind and Skiles",Kano,17-04-2019,Not Started,,403123,12901,,EURO,Operations,High,25-08-2019,,-390222,-96.8,3,3,100
+36,Gleason-Hamill,Aba,16-12-2018,Delayed,,460704,9484,Edmund,KES,IT,Critical,08-05-2019,,-451220,-97.94,10,0,0
+37,"Swaniawski, Jenkins and Ruecker",Port Harcourt,14-05-2019,In Progress,,467948,431,Emmanuel Chude,USD,Marketing,Low,17-10-2019,,-467517,-99.91,9,1,11.11
+38,Stiedemann Inc,Lagos,05-10-2020,Completed,06-10-2020,-394910,11557,,USD,HR,Medium,23-03-2021,-168,406467,-102.93,8,2,25
+39,Abshire-Berge,Onitsha,12-02-2018,Delayed,,40138,7783,Patric NwaezeUbong,KES,Finance,High,13-08-2018,,-32355,-80.61,7,2,28.57
+40,Koch LLC,Head Office,03-10-2020,Completed,04-12-2020,454886,11251,Patric NwaezeUbong,USD,Operations,Critical,16-04-2021,-133,-443635,-97.53,6,3,50
+41,"Bernier, Schumm and Yundt",Jos,12-07-2018,Completed,,261573,8900,Emmanuel Chude,USD,IT,Low,05-02-2019,,-252673,-96.6,5,3,60
+42,Dibbert-Zemlak,Aba,09-11-2020,In Progress,,405076,14730,,GHS,Marketing,Medium,20-12-2020,,-390346,-96.36,4,3,75
+43,Fahey-Schuppe,Ila,14-12-2018,In Progress,,373150,9786,Emmanuel Chude,USD,HR,High,06-02-2019,,-363364,-97.38,3,2,66.67
+44,Denesik Group,Ila,25-10-2018,Delayed,,161399,4452,,NGN,Finance,Critical,31-12-2018,,-156947,-97.24,10,9,90
+45,Schaden and Sons,Aba,19-01-2019,Delayed,,240967,8379,Edmund,GHS,Operations,Low,09-04-2019,,-232588,-96.52,9,0,0
+46,Swift Group,Lagos,25-07-2019,Delayed,,399037,7468,Nancy Oluomachi,USD,IT,Medium,26-10-2019,,-391569,-98.13,8,1,12.5
+47,Skiles Group,Lagos,19-05-2019,Completed,01-01-2021,440533,14147,Nancy Oluomachi,USD,Marketing,High,02-09-2019,487,-426386,-96.79,7,2,28.57
+48,Kirlin Inc,Head Office,07-11-2019,Delayed,,125585,11725,Nancy Oluomachi,GHS,HR,Critical,05-03-2020,,-113860,-90.66,6,2,33.33
+49,Lakin LLC,Kano,21-03-2019,In Progress,,389333,7662,Temitope Angela,KES,Finance,Low,31-07-2019,,-381671,-98.03,5,2,40
+50,"Sawayn, Abbott and Toy",Kano,21-07-2020,Delayed,,217266,10658,Emeka Emeka,EURO,Operations,Medium,13-12-2020,,-206608,-95.09,4,2,50
+51,"Waters, Morissette and Quitzon",Onitsha,09-10-2019,In Progress,,224689,4721,Nancy Oluomachi,GHS,IT,High,15-03-2020,,-219968,-97.9,3,2,66.67
+52,Ryan-Olson,Aba,08-01-2020,Delayed,,33943,9267,Patric NwaezeUbong,NGN,Marketing,Critical,27-06-2020,,-24676,-72.7,10,8,80
+53,Mills-Deckow,Port Harcourt,13-02-2019,Not Started,,446690,14203,Nancy Oluomachi,NGN,HR,Low,16-08-2019,,-432487,-96.82,9,8,88.89
+54,Hettinger-Funk,Jos,04-05-2019,Delayed,,408806,3522,Nancy Oluomachi,NGN,Finance,Medium,17-11-2019,,-405284,-99.14,8,8,100
+55,Mohr-Hayes,Aba,07-10-2020,Completed,09-12-2020,146272,4897,Temitope Angela,EURO,Operations,High,06-11-2020,33,-141375,-96.65,7,1,14.29
+56,"Osinski, McLaughlin and Hodkiewicz",Benin City,29-02-2020,Completed,01-01-2021,112673,13206,Emeka Emeka,KES,IT,Critical,12-04-2020,264,-99467,-88.28,6,1,16.67
+57,"Ortiz, Dare and Schowalter",Abuja,19-04-2019,Completed,01-01-2021,351519,4090,Patric NwaezeUbong,USD,Marketing,Low,14-06-2019,567,-347429,-98.84,5,2,40
+58,Beier Inc,Enugu,05-01-2019,Completed,09-12-2019,7726,3463,,EURO,HR,Medium,15-03-2019,269,-4263,-55.18,4,2,50
+59,Torp LLC,Ila,03-08-2020,In Progress,,217961,626,Nancy Oluomachi,NGN,Finance,High,24-10-2020,,-217335,-99.71,3,2,66.67
+60,Becker-Doyle,Benin City,21-02-2020,In Progress,,314347,3067,Emeka Emeka,EURO,Operations,Critical,26-05-2020,,-311280,-99.02,10,6,60
+61,Blanda Group,Jos,20-07-2020,Delayed,,124131,14233,,EURO,IT,Low,05-11-2020,,-109898,-88.53,9,7,77.78
+62,Hamill-Greenholt,Ila,25-07-2019,Completed,01-01-2021,483516,4202,Emeka Emeka,NGN,Marketing,Medium,23-11-2019,405,-479314,-99.13,8,7,87.5
+63,"Cole, Williamson and Thiel",Aba,16-07-2019,Completed,09-12-2019,341485,12348,Patric NwaezeUbong,USD,HR,High,27-11-2019,12,-329137,-96.38,7,7,100
+64,Spinka-Yundt,Port Harcourt,08-09-2020,Not Started,,427204,7076,Emmanuel Chude,NGN,Finance,Critical,02-02-2021,,-420128,-98.34,6,1,16.67
+65,Oberbrunner Group,Onitsha,16-09-2018,Not Started,,190948,5983,,USD,Operations,Low,23-02-2019,,-184965,-96.87,5,1,20
+66,"Mante, Reichel and Schuster",Onitsha,15-06-2020,In Progress,,153407,3535,Patric NwaezeUbong,GHS,IT,Medium,05-12-2020,,-149872,-97.7,4,1,25
+67,Deckow and Sons,Benin City,06-02-2020,Not Started,,441233,3077,Patric NwaezeUbong,NGN,Marketing,High,10-08-2020,,-438156,-99.3,3,1,33.33
+68,Fritsch Group,Benin City,30-05-2019,Delayed,,10650,14521,Edmund,USD,HR,Critical,15-12-2019,,3871,36.35,10,5,50
+69,Schroeder-Terry,Kano,08-05-2019,Not Started,,386720,11143,Nancy Oluomachi,NGN,Finance,Low,09-06-2019,,-375577,-97.12,9,6,66.67
+70,"Doyle, Kertzmann and Luettgen",Aba,13-09-2020,Not Started,,124006,6847,,USD,Operations,Medium,28-10-2020,,-117159,-94.48,8,6,75
+71,"Mayert, Schultz and Hartmann",Enugu,21-11-2019,Delayed,,483750,10123,,USD,IT,High,18-01-2020,,-473627,-97.91,7,6,85.71
+72,Bradtke-Heidenreich,Enugu,27-02-2019,Not Started,,301156,5305,,EURO,Marketing,Critical,09-05-2019,,-295851,-98.24,6,6,100
+73,"Crist, Jenkins and Gottlieb",Head Office,23-12-2019,In Progress,,172829,5321,Edmund,GHS,HR,Low,16-03-2020,,-167508,-96.92,5,0,0
+74,"Nolan, Waters and Crist",Jos,02-03-2019,Delayed,,197094,7293,Emmanuel Chude,KES,Finance,Medium,07-06-2019,,-189801,-96.3,4,1,25
+75,"Cormier, Schaden and Krajcik",Enugu,30-09-2019,Completed,01-01-2021,61089,6537,Emmanuel Chude,EURO,Operations,High,18-01-2020,349,-54552,-89.3,3,1,33.33
+76,Keebler-Keebler,Port Harcourt,29-11-2018,Delayed,,179153,14705,Emmanuel Chude,KES,IT,Critical,01-04-2019,,-164448,-91.79,10,4,40
+77,Osinski Group,Kano,20-11-2019,Delayed,,493473,10483,Emeka Emeka,USD,Marketing,Low,04-04-2020,,-482990,-97.88,9,5,55.56
+78,Casper-Dickens,Ila,24-05-2019,Not Started,,291315,514,,KES,HR,Medium,20-10-2019,,-290801,-99.82,8,5,62.5
+79,Moen-Metz,Kano,06-11-2020,Completed,18-07-2020,102453,11458,Emeka Emeka,NGN,Finance,High,17-04-2021,-273,-90995,-88.82,7,5,71.43
+80,"Steuber, McClure and Orn",Head Office,26-11-2019,Delayed,,341829,10225,Temitope Angela,NGN,Operations,Critical,19-05-2020,,-331604,-97.01,6,5,83.33
+81,"Reilly, Johnson and Beatty",Enugu,11-09-2018,Completed,12-12-2018,75020,5636,,KES,IT,Low,18-03-2019,-96,-69384,-92.49,5,5,100
+82,"Kassulke, Koepp and Stanton",Lagos,02-10-2020,Not Started,,395362,11907,Edmund,USD,Marketing,Medium,21-04-2021,,-383455,-96.99,4,0,0
+83,McCullough-Connelly,Lagos,21-06-2020,Completed,01-01-2021,194543,13436,Emeka Emeka,EURO,HR,High,25-07-2020,160,-181107,-93.09,3,1,33.33
+84,Lakin-Marvin,Port Harcourt,13-08-2019,Completed,09-12-2019,217268,12066,Emmanuel Chude,GHS,Finance,Critical,29-09-2019,71,-205202,-94.45,10,3,30
+85,Dietrich-Bartoletti,Port Harcourt,21-09-2020,Completed,,90523,5183,Patric NwaezeUbong,NGN,Operations,Low,20-11-2020,,-85340,-94.27,9,4,44.44
+86,"Hickle, Mosciski and Abshire",Ila,03-09-2020,In Progress,,488949,13120,Edmund,GHS,IT,Medium,15-11-2020,,-475829,-97.32,8,4,50
+87,"Wehner, Botsford and Kutch",Benin City,25-03-2019,Delayed,,72741,12519,Temitope Angela,USD,Marketing,High,19-06-2019,,-60222,-82.79,7,4,57.14
+88,"Borer, Strosin and Rogahn",Onitsha,24-04-2019,In Progress,,14784,14709,,USD,HR,Critical,01-08-2019,,-75,-0.51,6,4,66.67
+89,"Hilpert, Gleichner and Jakubowski",Benin City,31-10-2018,Delayed,,187863,14176,Patric NwaezeUbong,USD,Finance,Low,20-02-2019,,-173687,-92.45,5,4,80
+90,"McLaughlin, Schiller and Walter",Ila,24-03-2019,Delayed,,227708,8206,Emmanuel Chude,KES,Operations,Medium,27-07-2019,,-219502,-96.4,4,4,100
+91,Herzog-Hayes,Aba,27-01-2019,Delayed,,52159,12777,Patric NwaezeUbong,USD,IT,High,14-06-2019,,-39382,-75.5,3,0,0
+92,"Mills, Stark and Langworth",Abuja,18-07-2020,In Progress,,188614,4772,Emmanuel Chude,NGN,Marketing,Critical,16-12-2020,,-183842,-97.47,10,2,20
+93,Torphy LLC,Ila,10-03-2018,Delayed,,324964,13898,Emmanuel Chude,GHS,HR,Low,21-08-2018,,-311066,-95.72,9,3,33.33
+94,"Kiehn, Cremin and Bruen",Aba,25-08-2020,Delayed,,411615,9801,Emmanuel Chude,GHS,Finance,Medium,18-02-2021,,-401814,-97.62,8,3,37.5
+95,Stracke Inc,Benin City,22-02-2019,In Progress,,102319,6837,Nancy Oluomachi,NGN,Operations,High,31-08-2019,,-95482,-93.32,7,4,57.14
+96,Windler-Lind,Benin City,22-11-2019,Completed,12-12-2019,410506,1220,Emeka Emeka,EURO,IT,Critical,12-06-2020,-183,-409286,-99.7,6,4,66.67
+97,Leuschke LLC,Lagos,23-07-2019,Delayed,,205543,10873,Emeka Emeka,NGN,Marketing,Low,28-08-2019,,-194670,-94.71,5,4,80
+98,"Kuphal, Becker and Kilback",Abuja,13-07-2019,In Progress,,298634,9704,Emeka Emeka,USD,HR,Medium,31-08-2019,,-288930,-96.75,4,3,75
+99,Pouros LLC,Port Harcourt,31-07-2019,In Progress,,66633,3365,Nancy Oluomachi,KES,Finance,High,01-10-2019,,-63268,-94.95,3,3,100
+100,Jaskolski-Herzog,Port Harcourt,19-06-2020,Delayed,,227905,7473,Patric NwaezeUbong,GHS,Operations,Critical,02-09-2020,,-220432,-96.72,10,0,0
+101,Blick and Sons,Abuja,16-04-2019,Completed,09-12-2019,381644,14736,Emmanuel Chude,GHS,IT,Low,13-07-2019,149,-366908,-96.14,9,1,11.11
+102,"Cremin, Corkery and Hintz",Aba,13-04-2020,Completed,23-04-2020,101475,1758,Emmanuel Chude,GHS,Marketing,Medium,23-07-2020,-91,-99717,-98.27,8,2,25
+103,"Deckow, Padberg and Thiel",Jos,04-05-2020,Completed,01-01-2021,285360,11145,Nancy Oluomachi,GHS,HR,High,26-08-2020,128,-274215,-96.09,7,3,42.86
+104,Jones LLC,Port Harcourt,16-01-2019,Delayed,,236169,4779,Emeka Emeka,GHS,Finance,Critical,23-05-2019,,-231390,-97.98,6,3,50
+105,"Kerluke, Hane and Prosacco",Ila,26-01-2020,In Progress,,188839,8040,Emeka Emeka,KES,Operations,Low,14-06-2020,,-180799,-95.74,5,3,60
+106,Vandervort-Harris,Jos,12-04-2018,Not Started,,441532,2603,Patric NwaezeUbong,EURO,IT,Medium,12-09-2018,,-438929,-99.41,4,3,75
+107,Schneider and Sons,Head Office,24-02-2019,Not Started,,290639,3317,Nancy Oluomachi,EURO,Marketing,High,09-08-2019,,-287322,-98.86,3,2,66.67
+108,"Skiles, O'Kon and Lynch",Aba,17-08-2019,In Progress,,443319,1518,Nancy Oluomachi,NGN,HR,Critical,12-02-2020,,-441801,-99.66,10,9,90
+109,"Willms, Ward and Osinski",Port Harcourt,21-02-2019,Completed,09-12-2020,237954,14279,Nancy Oluomachi,NGN,Finance,Low,01-09-2019,465,-223675,-94,9,0,0
+110,Cartwright-Weber,Lagos,24-09-2019,Not Started,,359715,11668,Emmanuel Chude,GHS,Operations,Medium,16-04-2020,,-348047,-96.76,8,1,12.5
+111,Wuckert-Wiegand,Head Office,02-05-2020,Completed,09-12-2020,430733,13044,,EURO,IT,High,09-06-2020,183,-417689,-96.97,7,2,28.57
+112,"Murray, Mitchell and Wilderman",Head Office,20-05-2019,Completed,09-12-2020,20216,13308,Patric NwaezeUbong,USD,Marketing,Critical,10-07-2019,518,-6908,-34.17,6,2,33.33
+113,Turner Inc,Onitsha,03-10-2020,Delayed,,287471,1527,Emeka Emeka,EURO,HR,Low,06-12-2020,,-285944,-99.47,5,2,40
+114,Becker Inc,Benin City,24-08-2020,Completed,09-12-2020,468994,1480,,EURO,Finance,Medium,09-11-2020,30,-467514,-99.68,4,2,50
+115,Sporer LLC,Aba,13-06-2019,In Progress,,305108,10802,Emmanuel Chude,KES,Operations,High,11-09-2019,,-294306,-96.46,3,2,66.67
+116,Medhurst LLC,Port Harcourt,24-09-2018,Completed,01-01-2021,242895,10350,Temitope Angela,NGN,IT,Critical,05-01-2019,727,-232545,-95.74,10,8,80
+117,Ondricka-Cummings,Kano,12-10-2018,Completed,09-12-2020,100386,11367,Edmund,EURO,Marketing,Low,05-02-2019,673,-89019,-88.68,9,8,88.89
+118,Corwin LLC,Abuja,28-09-2019,In Progress,,323640,6603,Patric NwaezeUbong,EURO,HR,Medium,04-02-2020,,-317037,-97.96,8,0,0
+119,Brekke-Paucek,Lagos,08-11-2019,Not Started,,285582,3993,,GHS,Finance,High,29-03-2020,,-281589,-98.6,7,1,14.29
+120,"Hermann, Doyle and Emmerich",Aba,18-01-2020,In Progress,,95054,4123,Patric NwaezeUbong,KES,Operations,Critical,21-06-2020,,-90931,-95.66,6,2,33.33
+121,"Kub, Jerde and Hauck",Ila,01-06-2019,Not Started,,351030,5639,,NGN,IT,Low,16-11-2019,,-345391,-98.39,5,2,40
+122,McLaughlin-Koelpin,Enugu,28-05-2020,Completed,09-12-2020,147758,10118,Emeka Emeka,KES,Marketing,Medium,25-11-2020,14,-137640,-93.15,4,2,50
+123,Zulauf-Wisozk,Ila,28-08-2020,In Progress,,176041,11718,Nancy Oluomachi,NGN,HR,High,10-03-2021,,-164323,-93.34,3,2,66.67
+124,"Blick, Towne and McDermott",Kano,25-08-2019,Delayed,,125151,4913,Emeka Emeka,EURO,Finance,Critical,19-03-2020,,-120238,-96.07,10,7,70
+125,Orn-O'Keefe,Lagos,06-04-2020,Not Started,,173276,13753,Nancy Oluomachi,USD,Operations,Low,16-05-2020,,-159523,-92.06,9,7,77.78
+126,Friesen and Sons,Enugu,07-12-2020,Completed,01-01-2021,168431,9473,,NGN,IT,Medium,29-01-2021,-28,-158958,-94.38,8,7,87.5
+127,Satterfield-Schaefer,Aba,08-10-2019,Completed,01-01-2021,234523,721,Emmanuel Chude,GHS,Marketing,High,13-12-2019,385,-233802,-99.69,7,0,0
+128,Baumbach Inc,Jos,09-07-2018,Delayed,,50552,8380,Edmund,GHS,HR,Critical,26-09-2018,,-42172,-83.42,6,1,16.67
+129,"Bogan, Muller and Rowe",Enugu,14-03-2019,Completed,01-01-2021,20285,8953,Edmund,EURO,Finance,Low,14-06-2019,567,-11332,-55.86,5,1,20
+130,Schiller Group,Abuja,09-07-2020,Completed,01-01-2021,4925,10267,,USD,Operations,Medium,22-10-2020,71,5342,108.47,4,1,25
+131,Hills-Schneider,Lagos,19-06-2019,In Progress,,31038,12919,Edmund,KES,IT,High,15-10-2019,,-18119,-58.38,3,1,33.33
+132,Parker LLC,Aba,07-09-2019,Completed,01-01-2021,467008,4557,,USD,Marketing,Critical,16-01-2020,351,-462451,-99.02,10,6,60
+133,Kunde Inc,Head Office,11-07-2018,Not Started,,200331,3805,Patric NwaezeUbong,NGN,HR,Low,02-12-2018,,-196526,-98.1,9,6,66.67
+134,"Kreiger, Thompson and Gutkowski",Port Harcourt,13-03-2019,Not Started,,287652,5489,Emeka Emeka,GHS,Finance,Medium,17-08-2019,,-282163,-98.09,8,6,75
+135,Lebsack-McLaughlin,Lagos,20-12-2018,Completed,01-01-2021,118692,9212,Emmanuel Chude,EURO,Operations,High,08-06-2019,573,-109480,-92.24,7,6,85.71
+136,Heathcote LLC,Abuja,06-12-2019,In Progress,,223096,4439,,GHS,IT,Critical,06-06-2020,,-218657,-98.01,6,0,0
+137,Bauch Inc,Jos,21-11-2018,In Progress,,108503,8500,Patric NwaezeUbong,USD,Marketing,Low,05-06-2019,,-100003,-92.17,5,1,20
+138,Corwin LLC,Ila,17-12-2018,In Progress,,427215,6010,Temitope Angela,GHS,HR,Medium,14-07-2019,,-421205,-98.59,4,1,25
+139,Davis-Lindgren,Port Harcourt,27-12-2019,Delayed,,26111,9989,,EURO,Finance,High,07-02-2020,,-16122,-61.74,3,1,33.33
+140,Altenwerth LLC,Onitsha,16-10-2019,In Progress,,271718,6979,Patric NwaezeUbong,KES,Operations,Critical,10-12-2019,,-264739,-97.43,10,4,40
+141,O'Hara Group,Enugu,09-12-2019,In Progress,,156739,8404,Nancy Oluomachi,KES,IT,Low,15-02-2020,,-148335,-94.64,9,5,55.56
+142,Von LLC,Aba,24-12-2018,Delayed,,427727,12981,,USD,Marketing,Medium,15-03-2019,,-414746,-96.97,8,5,62.5
+143,"Runolfsson, Konopelski and Dicki",Aba,28-11-2018,Not Started,,140284,7295,Edmund,NGN,HR,High,02-03-2019,,-132989,-94.8,7,5,71.43
+144,Okuneva-Murphy,Lagos,01-04-2019,Completed,01-01-2021,109862,11455,Temitope Angela,USD,Finance,Critical,17-07-2019,534,-98407,-89.57,6,5,83.33
+145,Dicki-Murazik,Port Harcourt,03-03-2020,Completed,01-01-2021,220171,359,Temitope Angela,EURO,Operations,Low,01-07-2020,184,-219812,-99.84,5,0,0
+146,Pacocha and Sons,Lagos,26-01-2020,Delayed,,346327,12944,Patric NwaezeUbong,KES,IT,Medium,07-06-2020,,-333383,-96.26,4,0,0
+147,"Hilll, McClure and Larkin",Port Harcourt,19-04-2019,Delayed,,58370,14969,Emmanuel Chude,GHS,Marketing,High,12-09-2019,,-43401,-74.35,3,1,33.33
+148,"Kreiger, Connelly and Spinka",Abuja,08-03-2020,Completed,01-01-2021,408620,1716,Emmanuel Chude,USD,HR,Critical,14-08-2020,140,-406904,-99.58,10,3,30
+149,Hackett-Maggio,Port Harcourt,09-11-2018,Not Started,,434878,2360,Emmanuel Chude,EURO,Finance,Low,30-04-2019,,-432518,-99.46,9,4,44.44
+150,Schumm Group,Jos,29-03-2019,Completed,01-01-2021,353384,4786,Emmanuel Chude,USD,Operations,Medium,30-09-2019,459,-348598,-98.65,8,4,50
+151,Will LLC,Jos,25-10-2018,Completed,01-01-2021,277504,9199,Emeka Emeka,NGN,IT,High,11-05-2019,601,-268305,-96.69,7,5,71.43
+152,Runolfsson-Considine,Head Office,17-09-2018,Completed,01-01-2021,359806,6284,Temitope Angela,NGN,Marketing,Critical,18-10-2018,806,-353522,-98.25,6,5,83.33
+153,Gleichner Group,Kano,21-06-2019,Completed,01-01-2021,74330,2588,Emmanuel Chude,USD,HR,Low,04-08-2019,516,-71742,-96.52,5,4,80
+154,Runolfsson-Lubowitz,Enugu,20-05-2020,Completed,01-01-2021,15884,945,Edmund,KES,Finance,Medium,16-07-2020,169,-14939,-94.05,4,4,100
+155,Wiegand LLC,Head Office,15-02-2019,In Progress,,101128,12682,,USD,Operations,High,26-04-2019,,-88446,-87.46,3,0,0
+156,Roob-Windler,Lagos,27-12-2019,Completed,01-01-2021,144961,3735,,EURO,IT,Critical,19-03-2020,288,-141226,-97.42,10,2,20
+157,Kilback and Sons,Onitsha,05-05-2019,Completed,01-01-2021,265771,14361,Patric NwaezeUbong,KES,Marketing,Low,09-08-2019,511,-251410,-94.6,9,3,33.33
+158,Koch-Olson,Onitsha,01-12-2020,In Progress,,62410,12150,Nancy Oluomachi,KES,HR,Medium,20-03-2021,,-50260,-80.53,8,3,37.5
+159,Fritsch Group,Jos,07-05-2020,Completed,01-01-2021,377816,6083,Temitope Angela,NGN,Finance,High,06-09-2020,117,-371733,-98.39,7,4,57.14
+160,"Kohler, Rosenbaum and Koepp",Kano,15-09-2018,In Progress,,472552,10289,Emeka Emeka,GHS,Operations,Critical,28-01-2019,,-462263,-97.82,6,4,66.67
+161,Goodwin and Sons,Lagos,04-11-2020,Completed,01-01-2021,44110,2012,Patric NwaezeUbong,EURO,IT,Low,01-04-2021,-90,-42098,-95.44,5,4,80
+162,"Batz, Wyman and O'Keefe",Aba,15-03-2020,Not Started,,20505,11184,Emmanuel Chude,EURO,Marketing,Medium,23-08-2020,,-9321,-45.46,4,3,75
+163,"Strosin, King and McCullough",Jos,17-12-2019,Not Started,,46623,3483,Emmanuel Chude,NGN,HR,High,08-06-2020,,-43140,-92.53,3,3,100
+164,Cronin and Sons,Aba,08-02-2019,Not Started,,268664,9640,Temitope Angela,GHS,Finance,Critical,14-08-2019,,-259024,-96.41,10,1,10
+165,Huel and Sons,Benin City,31-05-2020,Not Started,,380058,12635,Emmanuel Chude,KES,Operations,Low,17-12-2020,,-367423,-96.68,9,2,22.22
+166,"O'Kon, Cummings and Rolfson",Onitsha,15-04-2020,Not Started,,172953,14096,Edmund,USD,IT,Medium,18-05-2020,,-158857,-91.85,8,2,25
+167,Gottlieb Inc,Benin City,13-12-2018,In Progress,,89938,3271,Temitope Angela,USD,Marketing,High,28-01-2019,,-86667,-96.36,7,3,42.86
+168,"Reichert, Collins and Huels",Enugu,28-02-2019,Not Started,,6233,6091,Edmund,KES,HR,Critical,28-04-2019,,-142,-2.28,6,3,50
+169,Collier-Jaskolski,Jos,27-01-2019,Delayed,,354376,13121,Edmund,NGN,Finance,Low,09-04-2019,,-341255,-96.3,5,3,60
+170,Collins Inc,Kano,09-08-2018,Completed,01-01-2021,491031,11777,Emmanuel Chude,GHS,Operations,Medium,02-11-2018,791,-479254,-97.6,4,3,75
+171,Kassulke-Batz,Onitsha,28-08-2019,Delayed,,384579,10981,Nancy Oluomachi,EURO,IT,High,04-12-2019,,-373598,-97.14,3,3,100
+172,"Zulauf, Monahan and Hilll",Onitsha,11-04-2018,Delayed,,33552,12221,Emeka Emeka,KES,Marketing,Critical,31-07-2018,,-21331,-63.58,10,10,100
+173,"Muller, Barton and Klocko",Head Office,09-12-2018,Not Started,,328764,11470,Edmund,USD,HR,Low,12-04-2019,,-317294,-96.51,9,1,11.11
+174,Lueilwitz-Grant,Abuja,13-04-2019,Delayed,,351254,8813,Temitope Angela,USD,Finance,Medium,28-08-2019,,-342441,-97.49,8,2,25
+175,Fisher LLC,Ila,11-12-2019,Completed,01-01-2021,437488,3355,,EURO,Operations,High,09-05-2020,237,-434133,-99.23,7,2,28.57
+176,Prosacco and Sons,Abuja,31-03-2019,Completed,01-01-2021,285756,2811,,GHS,IT,Critical,10-09-2019,479,-282945,-99.02,6,2,33.33
+177,VonRueden-Oberbrunner,Head Office,24-08-2020,Delayed,,297382,8973,,EURO,Marketing,Low,16-02-2021,,-288409,-96.98,5,3,60
+178,Conroy Group,Lagos,21-10-2019,Delayed,,136787,1256,Nancy Oluomachi,KES,HR,Medium,27-04-2020,,-135531,-99.08,4,3,75
+179,Gerhold-Hodkiewicz,Port Harcourt,17-09-2019,In Progress,,37010,4026,Edmund,EURO,Finance,High,06-04-2020,,-32984,-89.12,3,2,66.67
+180,Cole Inc,Aba,15-04-2019,In Progress,,228745,1546,,USD,Operations,Critical,20-05-2019,,-227199,-99.32,10,8,80
+181,Bartell-Bogisich,Ila,26-03-2019,In Progress,,128858,4192,,KES,IT,Low,13-05-2019,,-124666,-96.75,9,9,100
+182,Erdman LLC,Ila,20-11-2019,Delayed,,343779,9504,Emmanuel Chude,KES,Marketing,Medium,20-01-2020,,-334275,-97.24,8,1,12.5
+183,Strosin-Ritchie,Kano,13-08-2020,Delayed,,252567,14663,Patric NwaezeUbong,EURO,HR,High,26-10-2020,,-237904,-94.19,7,1,14.29
+184,Marvin-Kuhn,Lagos,18-12-2018,Not Started,,371856,11586,Patric NwaezeUbong,KES,Finance,Critical,15-03-2019,,-360270,-96.88,6,2,33.33
+185,"Hoeger, Lueilwitz and Bednar",Enugu,06-04-2019,Delayed,,27907,6877,Edmund,KES,Operations,Low,15-07-2019,,-21030,-75.36,5,2,40
+186,Ankunding and Sons,Ila,21-06-2019,Completed,01-01-2021,495550,12338,Nancy Oluomachi,USD,IT,Medium,12-10-2019,447,-483212,-97.51,4,2,50
+187,Johns LLC,Lagos,26-04-2019,In Progress,,409635,8338,Nancy Oluomachi,EURO,Marketing,High,30-08-2019,,-401297,-97.96,3,2,66.67
+188,Bruen-Boyer,Head Office,28-10-2019,In Progress,,122196,1195,Patric NwaezeUbong,KES,HR,Critical,15-03-2020,,-121001,-99.02,10,7,70
+189,Lesch LLC,Enugu,15-12-2018,In Progress,,156139,8028,Nancy Oluomachi,GHS,Finance,Low,16-05-2019,,-148111,-94.86,9,8,88.89
+190,Langosh Group,Kano,21-09-2019,Not Started,,338894,12386,Edmund,USD,Operations,Medium,04-03-2020,,-326508,-96.35,8,8,100
+191,Zemlak-Altenwerth,Port Harcourt,15-12-2018,Completed,01-01-2021,480498,2360,,NGN,IT,High,11-06-2019,570,-478138,-99.51,7,0,0
+192,Abbott and Sons,Ila,08-04-2019,Completed,01-01-2021,439638,4622,,EURO,Marketing,Critical,16-10-2019,443,-435016,-98.95,6,1,16.67
+193,"Sauer, Hintz and Pfeffer",Lagos,25-05-2019,Not Started,,266939,343,Emmanuel Chude,GHS,HR,Low,15-12-2019,,-266596,-99.87,5,1,20
+194,"Hoeger, Satterfield and Erdman",Enugu,20-04-2020,In Progress,,421584,13209,,USD,Finance,Medium,27-05-2020,,-408375,-96.87,4,2,50
+195,Kris Group,Abuja,24-01-2019,Delayed,,62722,2591,Edmund,EURO,Operations,High,15-03-2019,,-60131,-95.87,3,2,66.67
+196,Kemmer Group,Onitsha,01-11-2020,Delayed,,25668,13761,Temitope Angela,EURO,IT,Critical,03-01-2021,,-11907,-46.39,10,6,60
+197,Hackett-Morar,Ila,08-03-2019,Delayed,,350965,3736,Nancy Oluomachi,USD,Marketing,Low,23-05-2019,,-347229,-98.94,9,6,66.67
+198,Effertz-Klocko,Ila,08-09-2019,In Progress,,345327,1813,Emeka Emeka,USD,HR,Medium,06-12-2019,,-343514,-99.47,8,7,87.5
+199,Kshlerin and Sons,Ila,27-08-2020,Delayed,,407701,12823,Emeka Emeka,USD,Finance,High,07-12-2020,,-394878,-96.85,7,7,100
+200,Gutmann-Mitchell,Ila,22-09-2019,Delayed,,41501,8695,Emmanuel Chude,USD,Operations,Critical,15-01-2020,,-32806,-79.05,6,0,0
+201,Wilderman Inc,Enugu,01-04-2019,Delayed,,480143,14311,Edmund,GHS,IT,Low,07-08-2019,,-465832,-97.02,5,1,20
+202,Davis Inc,Aba,03-08-2019,In Progress,,464475,9806,Edmund,USD,Marketing,Medium,22-12-2019,,-454669,-97.89,4,1,25
+203,Langosh Inc,Kano,07-05-2020,Not Started,,437503,4581,Edmund,NGN,HR,High,08-10-2020,,-432922,-98.95,3,1,33.33
+204,Wisoky-Bergstrom,Benin City,30-08-2020,Completed,09-12-2020,220471,12042,Emeka Emeka,NGN,Finance,Critical,13-02-2021,-66,-208429,-94.54,10,5,50
+205,Goyette LLC,Benin City,10-01-2018,Not Started,,432004,4174,Emmanuel Chude,USD,Operations,Low,09-07-2018,,-427830,-99.03,9,5,55.56
+206,Hauck LLC,Port Harcourt,26-06-2019,Delayed,,127557,7416,,GHS,IT,Medium,05-01-2020,,-120141,-94.19,8,6,75
+207,"O'Connell, Von and Larson",Abuja,29-07-2019,Completed,09-12-2019,172479,10868,Nancy Oluomachi,USD,Marketing,High,20-02-2020,-73,-161611,-93.7,7,6,85.71
+208,Glover-Kuhlman,Port Harcourt,08-02-2020,Delayed,,249438,6725,Nancy Oluomachi,USD,HR,Critical,18-03-2020,,-242713,-97.3,6,6,100
+209,"Runolfsdottir, Bashirian and Lebsack",Enugu,22-06-2019,Delayed,,346649,3128,Nancy Oluomachi,KES,Finance,Low,13-08-2019,,-343521,-99.1,5,0,0
+210,"Kozey, Crist and Hickle",Enugu,06-09-2020,Completed,09-12-2020,134266,4526,Edmund,KES,Operations,Medium,10-11-2020,29,-129740,-96.63,4,1,25
+211,Walker-Klein,Head Office,15-12-2019,Not Started,,494176,4407,Emmanuel Chude,GHS,IT,High,02-03-2020,,-489769,-99.11,3,1,33.33
+212,Farrell-Baumbach,Lagos,19-11-2018,Delayed,,438649,14812,Patric NwaezeUbong,NGN,Marketing,Critical,18-02-2019,,-423837,-96.62,10,4,40
+213,"Kilback, Jacobi and Wuckert",Lagos,08-04-2019,Delayed,,384555,8925,,NGN,HR,Low,21-07-2019,,-375630,-97.68,9,4,44.44
+214,Schimmel Inc,Jos,20-01-2019,Delayed,,125785,6102,Nancy Oluomachi,KES,Finance,Medium,17-05-2019,,-119683,-95.15,8,5,62.5
+215,Ullrich Inc,Ila,04-12-2019,In Progress,,218220,4008,Emeka Emeka,GHS,Operations,High,12-04-2020,,-214212,-98.16,7,5,71.43
+216,Rau-Kuphal,Jos,01-06-2019,Not Started,,464909,13679,Emmanuel Chude,GHS,IT,Critical,22-10-2019,,-451230,-97.06,6,5,83.33
+217,Hickle-Harber,Kano,12-06-2019,In Progress,,258338,6265,Edmund,GHS,Marketing,Low,15-11-2019,,-252073,-97.57,5,5,100
+218,Runolfsdottir Inc,Aba,23-07-2020,Completed,01-01-2021,-7265676,14234,Patric NwaezeUbong,EURO,HR,Medium,08-01-2021,-7,7279910,-100.2,4,0,0
+219,Jones-Weber,Jos,18-09-2018,Not Started,,66948,1600,Edmund,KES,Finance,High,19-03-2019,,-65348,-97.61,3,0,0
+220,Goyette and Sons,Jos,06-06-2019,Delayed,,112860,7497,Nancy Oluomachi,GHS,Operations,Critical,18-12-2019,,-105363,-93.36,10,2,20
+221,Hodkiewicz-Ledner,Benin City,07-06-2019,Delayed,,377603,9551,,USD,IT,Low,01-01-2020,,-368052,-97.47,9,3,33.33
+222,Dietrich-Littel,Lagos,10-03-2018,Completed,09-12-2019,250752,12642,Emeka Emeka,USD,Marketing,Medium,20-04-2018,598,-238110,-94.96,8,4,50
+223,"Dooley, Dietrich and Block",Onitsha,22-07-2020,Delayed,,398534,13667,Temitope Angela,EURO,HR,High,14-09-2020,,-384867,-96.57,7,4,57.14
+224,Moen Group,Head Office,01-06-2020,In Progress,,377377,6422,,USD,Finance,Critical,07-08-2020,,-370955,-98.3,6,4,66.67
+225,Wintheiser Group,Ila,20-02-2019,Not Started,,425485,13016,,KES,Operations,Low,11-05-2019,,-412469,-96.94,5,4,80
+226,Bergstrom and Sons,Port Harcourt,23-11-2019,Completed,09-12-2020,93143,9335,Nancy Oluomachi,KES,IT,Medium,24-02-2020,289,-83808,-89.98,4,4,100
+227,Zemlak Group,Ila,14-12-2018,Completed,09-12-2019,41608,12329,Patric NwaezeUbong,NGN,Marketing,High,30-03-2019,254,-29279,-70.37,3,0,0
+228,Ortiz Inc,Jos,09-06-2018,Not Started,,370234,535,Nancy Oluomachi,USD,HR,Critical,06-10-2018,,-369699,-99.86,10,1,10
+229,"Skiles, Thiel and Green",Benin City,30-06-2020,Completed,09-12-2021,418336,13459,Edmund,GHS,Finance,Low,09-11-2020,395,-404877,-96.78,9,2,22.22
+230,"Schimmel, Doyle and Bauch",Kano,28-09-2018,Completed,09-12-2019,320022,2269,,USD,Operations,Medium,20-02-2019,292,-317753,-99.29,8,3,37.5
+231,Bartell-Kling,Ila,23-11-2018,Delayed,,453200,3146,Patric NwaezeUbong,GHS,IT,High,30-04-2019,,-450054,-99.31,7,3,42.86
+232,Cassin and Sons,Aba,22-06-2019,Not Started,,397930,9271,Emmanuel Chude,GHS,Marketing,Critical,10-12-2019,,-388659,-97.67,6,3,50
+233,"Runte, Koepp and Murphy",Kano,31-01-2019,Delayed,,166800,12518,Emmanuel Chude,KES,HR,Low,03-08-2019,,-154282,-92.5,5,3,60
+234,"Haag, Hyatt and Hirthe",Onitsha,16-10-2018,Completed,01-01-2021,360837,9340,Patric NwaezeUbong,NGN,Finance,Medium,01-05-2019,611,-351497,-97.41,4,3,75
+235,"Ruecker, Greenholt and DuBuque",Ila,27-11-2018,Delayed,,434486,13952,Patric NwaezeUbong,USD,Operations,High,27-12-2018,,-420534,-96.79,3,3,100
+236,Buckridge-Klocko,Lagos,09-06-2019,In Progress,,451899,13719,Edmund,GHS,IT,Critical,22-07-2019,,-438180,-96.96,10,0,0
+237,"Stehr, Hansen and Buckridge",Port Harcourt,08-08-2020,In Progress,,400845,12030,,GHS,Marketing,Low,03-10-2020,,-388815,-97,9,1,11.11
+238,Rice LLC,Abuja,07-02-2019,Completed,09-12-2020,477975,5734,Edmund,KES,HR,Medium,17-04-2019,602,-472241,-98.8,8,2,25
+239,Schneider-Hackett,Enugu,08-09-2020,Not Started,,233987,2726,Edmund,KES,Finance,High,29-11-2020,,-231261,-98.83,7,2,28.57
+240,"Quitzon, Murphy and Kuhic",Abuja,25-10-2019,Completed,09-12-2020,95406,10307,Emeka Emeka,USD,Operations,Critical,28-01-2020,316,-85099,-89.2,6,3,50
+241,"Kreiger, Terry and Schuppe",Abuja,09-11-2018,Delayed,,169869,6948,Temitope Angela,USD,IT,Low,25-02-2019,,-162921,-95.91,5,3,60
+242,Schneider Inc,Abuja,11-07-2019,Delayed,,444975,4118,Emmanuel Chude,USD,Marketing,Medium,09-11-2019,,-440857,-99.07,4,3,75
+243,Shanahan Group,Abuja,04-08-2020,Not Started,,66486,10078,Temitope Angela,KES,HR,High,16-12-2020,,-56408,-84.84,3,2,66.67
+244,"Hickle, Fritsch and Klein",Enugu,30-11-2019,Completed,09-12-2020,45218,8231,Temitope Angela,KES,Finance,Critical,25-04-2020,228,-36987,-81.8,10,9,90
+245,"VonRueden, Bartell and McKenzie",Kano,08-10-2020,Not Started,,282376,7134,Patric NwaezeUbong,GHS,Operations,Low,17-03-2021,,-275242,-97.47,9,0,0
+246,Lebsack-Ullrich,Jos,03-11-2019,Delayed,,29168,13709,Emmanuel Chude,USD,IT,Medium,24-04-2020,,-15459,-53,8,1,12.5
+247,"Upton, Lebsack and Stamm",Onitsha,14-05-2020,Completed,09-12-2021,129700,9256,Emmanuel Chude,NGN,Marketing,High,16-11-2020,388,-120444,-92.86,7,2,28.57
+248,Durgan and Sons,Port Harcourt,13-12-2019,Not Started,,490120,10533,Patric NwaezeUbong,KES,HR,Critical,29-06-2020,,-479587,-97.85,6,2,33.33
+249,Stracke LLC,Port Harcourt,13-12-2019,Delayed,,280654,1741,Temitope Angela,USD,Finance,Low,14-01-2020,,-278913,-99.38,5,2,40
+250,"Goodwin, Maggio and Conn",Lagos,08-07-2020,In Progress,,439171,2360,Nancy Oluomachi,USD,Operations,Medium,22-08-2020,,-436811,-99.46,4,2,50
+251,Pagac and Sons,Kano,09-09-2018,Delayed,,7179,423,Patric NwaezeUbong,EURO,IT,High,06-11-2018,,-6756,-94.11,3,2,66.67
+252,Koepp-Purdy,Ila,27-05-2019,Completed,01-01-2021,143549,11038,Nancy Oluomachi,EURO,Marketing,Critical,06-08-2019,514,-132511,-92.31,10,8,80
+253,Hane Inc,Onitsha,07-05-2019,Delayed,,452620,12652,Patric NwaezeUbong,GHS,HR,Low,30-07-2019,,-439968,-97.2,9,8,88.89
+254,"Ebert, Trantow and Ritchie",Head Office,17-11-2019,Delayed,,170398,8328,Edmund,KES,Finance,Medium,22-02-2020,,-162070,-95.11,8,8,100
+255,Ruecker-Flatley,Benin City,25-11-2019,In Progress,,65020,835,,GHS,Operations,High,14-03-2020,,-64185,-98.72,7,1,14.29
+256,Torp-Dooley,Head Office,10-05-2018,Not Started,,74742,7144,,EURO,IT,Critical,10-09-2018,,-67598,-90.44,6,1,16.67
+257,Smith Group,Enugu,12-12-2018,Not Started,,368506,4693,Patric NwaezeUbong,EURO,Marketing,Low,27-04-2019,,-363813,-98.73,5,2,40
+258,Hamill-Schaden,Ila,09-06-2019,Delayed,,164316,13638,Patric NwaezeUbong,GHS,HR,Medium,05-11-2019,,-150678,-91.7,4,2,50
+259,"Pagac, Gutmann and Cassin",Enugu,30-09-2019,In Progress,,75409,3198,Patric NwaezeUbong,USD,Finance,High,10-03-2020,,-72211,-95.76,3,2,66.67
+260,Kuhic and Sons,Kano,29-01-2020,Not Started,,364161,6567,Patric NwaezeUbong,EURO,Operations,Critical,22-07-2020,,-357594,-98.2,10,6,60
+261,Streich-Terry,Ila,09-02-2018,Completed,09-12-2019,229246,4092,,NGN,IT,Low,16-08-2018,480,-225154,-98.22,9,7,77.78
+262,Dare-Abshire,Benin City,03-02-2020,Completed,07-12-2020,23107,13029,Emeka Emeka,NGN,Marketing,Medium,22-08-2020,107,-10078,-43.61,8,7,87.5
+263,"Towne, Fritsch and Mohr",Head Office,17-05-2020,In Progress,,331912,7652,Emeka Emeka,NGN,HR,High,20-06-2020,,-324260,-97.69,7,7,100
+264,Kshlerin and Sons,Lagos,07-11-2019,Delayed,,383825,536,Emeka Emeka,EURO,Finance,Critical,24-12-2019,,-383289,-99.86,6,1,16.67
+265,Nader-Auer,Jos,27-09-2018,In Progress,,197787,8293,,KES,Operations,Low,26-11-2018,,-189494,-95.81,5,1,20
+266,"Terry, Blick and Schmidt",Lagos,07-05-2019,Delayed,,331570,9998,Emeka Emeka,USD,IT,Medium,19-07-2019,,-321572,-96.98,4,1,25
+267,Flatley Group,Lagos,23-10-2018,Not Started,,366263,5789,,NGN,Marketing,High,17-01-2019,,-360474,-98.42,3,1,33.33
+268,Heaney-Dicki,Enugu,29-01-2020,In Progress,,233689,4991,Edmund,USD,HR,Critical,07-05-2020,,-228698,-97.86,10,5,50
+269,Zulauf LLC,Jos,19-10-2018,Not Started,,80185,12125,,EURO,Finance,Low,08-02-2019,,-68060,-84.88,9,6,66.67
+270,Williamson Inc,Port Harcourt,05-11-2020,Delayed,,280459,13861,Emmanuel Chude,NGN,Operations,Medium,10-03-2021,,-266598,-95.06,8,6,75
+271,Metz and Sons,Lagos,16-12-2019,In Progress,,136150,14249,Emmanuel Chude,USD,IT,High,02-05-2020,,-121901,-89.53,7,6,85.71
+272,"Daugherty, Donnelly and Durgan",Aba,02-02-2019,Delayed,,425874,2237,Nancy Oluomachi,GHS,Marketing,Critical,03-07-2019,,-423637,-99.47,6,6,100
+273,Baumbach and Sons,Onitsha,20-03-2019,Not Started,,361490,3491,Edmund,NGN,HR,Low,31-08-2019,,-357999,-99.03,5,0,0
+274,"Gleason, Cartwright and Douglas",Lagos,07-07-2020,In Progress,,291492,2313,Emmanuel Chude,KES,Finance,Medium,31-12-2020,,-289179,-99.21,4,1,25
+275,Gleason-Berge,Enugu,02-02-2019,Delayed,,395134,4035,,USD,Operations,High,11-08-2019,,-391099,-98.98,3,1,33.33
+276,"Kertzmann, Maggio and Considine",Lagos,28-05-2019,Completed,01-01-2021,131803,3797,Nancy Oluomachi,NGN,IT,Critical,17-12-2019,381,-128006,-97.12,10,4,40
+277,Huels Inc,Aba,15-03-2019,Delayed,,200527,9278,Temitope Angela,GHS,Marketing,Low,20-04-2019,,-191249,-95.37,9,5,55.56
+278,Breitenberg-Ullrich,Port Harcourt,11-10-2019,Completed,12-12-2019,113836,14217,Nancy Oluomachi,USD,HR,Medium,29-11-2019,13,-99619,-87.51,8,5,62.5
+279,Considine Group,Kano,24-03-2019,Delayed,,225299,10108,Edmund,GHS,Finance,High,25-05-2019,,-215191,-95.51,7,5,71.43
+280,"Senger, Wintheiser and Brown",Jos,18-02-2020,Delayed,,68886,4607,Nancy Oluomachi,USD,Operations,Critical,03-05-2020,,-64279,-93.31,6,5,83.33
+281,Predovic and Sons,Head Office,26-10-2019,Not Started,,193413,5184,Emmanuel Chude,USD,IT,Low,22-01-2020,,-188229,-97.32,5,5,100
+282,"Kris, Donnelly and Zulauf",Abuja,02-10-2020,Completed,01-01-2021,160638,8916,Patric NwaezeUbong,EURO,Marketing,Medium,11-01-2021,-10,-151722,-94.45,4,0,0
+283,"Sawayn, Lemke and Gleason",Abuja,12-07-2019,Completed,###############################################################################################################################################################################################################################################################,366357,10415,Patric NwaezeUbong,KES,HR,High,03-11-2019,-663698,-355942,-97.16,3,1,33.33
+284,"Olson, Metz and Jacobson",Lagos,25-10-2019,Completed,01-01-2021,300469,14149,,EURO,Finance,Critical,29-02-2020,307,-286320,-95.29,10,3,30
+285,Botsford LLC,Port Harcourt,10-03-2019,Not Started,,274023,7738,,USD,Operations,Low,28-07-2019,,-266285,-97.18,9,4,44.44
+286,"Smitham, Mayer and Bruen",Benin City,31-05-2019,In Progress,,362896,6072,Temitope Angela,NGN,IT,Medium,31-10-2019,,-356824,-98.33,8,4,50
+287,Stroman-Koss,Lagos,20-03-2020,Not Started,,127938,10298,Temitope Angela,KES,Marketing,High,02-09-2020,,-117640,-91.95,7,4,57.14
+288,Heathcote-Miller,Enugu,01-08-2019,Delayed,,389838,12213,Patric NwaezeUbong,GHS,HR,Critical,27-01-2020,,-377625,-96.87,6,4,66.67
+289,Schiller-Kuhlman,Kano,21-06-2019,Completed,01-01-2021,274940,2943,Emmanuel Chude,EURO,Finance,Low,30-12-2019,368,-271997,-98.93,5,4,80
+290,"Sipes, Corwin and Christiansen",Jos,10-06-2018,Completed,01-01-2021,423125,14173,Nancy Oluomachi,GHS,Operations,Medium,01-01-2019,731,-408952,-96.65,4,4,100
+291,"Spinka, Smith and Kutch",Aba,10-10-2019,Not Started,,385080,4802,Patric NwaezeUbong,USD,IT,High,17-11-2019,,-380278,-98.75,3,0,0
+292,"Witting, Hickle and Donnelly",Head Office,20-05-2019,Not Started,,313761,485,Temitope Angela,KES,Marketing,Critical,10-07-2019,,-313276,-99.85,10,2,20
+293,Jones-Brekke,Head Office,06-07-2019,Delayed,,61327,14496,Nancy Oluomachi,GHS,HR,Low,08-09-2019,,-46831,-76.36,9,3,33.33
+294,Paucek Inc,Aba,02-06-2019,Completed,01-01-2021,128090,1540,,NGN,Finance,Medium,18-08-2019,502,-126550,-98.8,8,3,37.5
+295,Quigley-Raynor,Jos,06-08-2019,Completed,01-01-2021,229105,8084,Temitope Angela,USD,Operations,High,04-11-2019,424,-221021,-96.47,7,4,57.14
+296,Will LLC,Port Harcourt,17-02-2019,Completed,01-01-2021,51016,591,Nancy Oluomachi,USD,IT,Critical,31-05-2019,581,-50425,-98.84,6,4,66.67
+297,Hansen and Sons,Port Harcourt,14-05-2019,Not Started,,410807,14508,Emeka Emeka,NGN,Marketing,Low,07-09-2019,,-396299,-96.47,5,4,80
+298,Tromp-Hoppe,Port Harcourt,08-12-2019,Completed,01-01-2021,491297,11959,Emeka Emeka,USD,HR,Medium,15-04-2020,261,-479338,-97.57,4,3,75
+299,Heaney Group,Abuja,11-07-2018,In Progress,,296715,778,Temitope Angela,USD,Finance,High,30-11-2018,,-295937,-99.74,3,3,100
+300,Cremin-O'Hara,Aba,15-07-2019,Delayed,,442712,5470,,KES,Operations,Critical,17-12-2019,,-437242,-98.76,10,0,0
+301,Williamson and Sons,Onitsha,01-04-2019,Not Started,,170440,10168,Emeka Emeka,NGN,IT,Low,16-09-2019,,-160272,-94.03,9,1,11.11
+302,"Howe, Connelly and Von",Lagos,01-11-2020,Not Started,,380344,5054,,USD,Marketing,Medium,01-05-2021,,-375290,-98.67,8,2,25
+303,Walter and Sons,Lagos,02-06-2019,Completed,01-01-2021,14643,14331,,EURO,HR,High,13-12-2019,385,-312,-2.13,7,3,42.86
+304,Mohr-Waters,Onitsha,29-09-2019,Delayed,,136274,4401,Emmanuel Chude,NGN,Finance,Critical,23-04-2020,,-131873,-96.77,6,3,50
+305,Murphy LLC,Lagos,01-01-2019,Delayed,,171136,9134,Edmund,NGN,Operations,Low,10-02-2019,,-162002,-94.66,5,3,60
+306,Conroy LLC,Head Office,13-11-2019,Not Started,,92009,3314,Nancy Oluomachi,NGN,IT,Medium,05-01-2020,,-88695,-96.4,4,3,75
+307,Adams LLC,Port Harcourt,13-07-2020,In Progress,,436016,5921,Emeka Emeka,NGN,Marketing,High,17-09-2020,,-430095,-98.64,3,2,66.67
+308,Schmidt-Rodriguez,Head Office,11-08-2019,In Progress,,69727,10129,Emmanuel Chude,GHS,HR,Critical,29-10-2019,,-59598,-85.47,10,9,90
+309,Smitham-Abernathy,Ila,29-01-2019,Not Started,,372968,14539,Emmanuel Chude,EURO,Finance,Low,01-05-2019,,-358429,-96.1,9,0,0
+310,Heller-Rolfson,Head Office,24-06-2020,Not Started,,358263,8633,,KES,Operations,Medium,07-10-2020,,-349630,-97.59,8,1,12.5
+311,Johns-Tromp,Jos,02-04-2019,Not Started,,310586,2864,Emeka Emeka,USD,IT,High,29-07-2019,,-307722,-99.08,7,2,28.57
+312,"Gleason, Johnston and Metz",Enugu,08-06-2019,Delayed,,391885,3719,Temitope Angela,GHS,Marketing,Critical,17-10-2019,,-388166,-99.05,6,2,33.33
+313,VonRueden Inc,Jos,09-06-2018,Delayed,,310531,9864,Emmanuel Chude,USD,HR,Low,31-10-2018,,-300667,-96.82,5,2,40
+314,Harvey-Hackett,Lagos,11-03-2019,Completed,01-01-2021,201519,13798,Emmanuel Chude,GHS,Finance,Medium,15-08-2019,505,-187721,-93.15,4,2,50
+315,"Rippin, Sipes and Bednar",Ila,14-01-2020,Completed,01-01-2021,12708,7751,Emmanuel Chude,USD,Operations,High,02-07-2020,183,-4957,-39.01,3,2,66.67
+316,"Bartoletti, Heller and Lemke",Abuja,30-12-2019,Delayed,,458413,3602,Nancy Oluomachi,NGN,IT,Critical,30-06-2020,,-454811,-99.21,10,8,80
+317,Olson Inc,Head Office,13-10-2018,Completed,01-01-2021,259204,5819,Patric NwaezeUbong,USD,Marketing,Low,27-04-2019,615,-253385,-97.76,9,8,88.89
+318,"Jerde, Pfannerstill and Weissnat",Onitsha,26-05-2019,Completed,01-01-2021,333997,12846,Emeka Emeka,KES,HR,Medium,21-12-2019,377,-321151,-96.15,8,0,0
+319,"Will, Weber and Johnson",Benin City,20-04-2020,Delayed,,174456,9768,Temitope Angela,KES,Finance,High,01-06-2020,,-164688,-94.4,7,1,14.29
+320,Cronin Inc,Head Office,06-06-2019,Completed,01-01-2021,188561,9503,Temitope Angela,USD,Operations,Critical,31-07-2019,520,-179058,-94.96,6,2,33.33
+321,Marquardt-Hilll,Jos,04-06-2020,In Progress,,126498,7477,,GHS,IT,Low,11-08-2020,,-119021,-94.09,5,2,40
+322,"Haag, Huels and Tillman",Lagos,03-05-2020,In Progress,,106040,4099,,EURO,Marketing,Medium,23-07-2020,,-101941,-96.13,4,2,50
+323,Wehner and Sons,Abuja,10-02-2019,In Progress,,83839,9648,Nancy Oluomachi,EURO,HR,High,15-05-2019,,-74191,-88.49,3,2,66.67
+324,"Toy, Legros and Hills",Aba,01-10-2020,Completed,01-01-2021,452616,9512,Emeka Emeka,EURO,Finance,Critical,16-01-2021,-15,-443104,-97.9,10,7,70
+325,Wisoky-Durgan,Lagos,14-03-2019,In Progress,,247966,2209,,NGN,Operations,Low,12-07-2019,,-245757,-99.11,9,7,77.78
+326,Koss LLC,Port Harcourt,08-09-2020,Not Started,,46712,6701,Emeka Emeka,NGN,IT,Medium,19-01-2021,,-40011,-85.65,8,7,87.5
+327,"Gerhold, King and Hammes",Lagos,30-06-2019,Completed,01-01-2021,315603,14403,,GHS,Marketing,High,23-11-2019,405,-301200,-95.44,7,0,0
+328,"Kulas, Maggio and Sawayn",Lagos,09-12-2018,Completed,01-01-2021,75596,3178,Emmanuel Chude,EURO,HR,Critical,17-05-2019,595,-72418,-95.8,6,1,16.67
+329,Wolff-Pouros,Aba,23-03-2019,Delayed,,151183,5287,Emmanuel Chude,GHS,Finance,Low,11-09-2019,,-145896,-96.5,5,1,20
+330,Kerluke Group,Port Harcourt,29-06-2019,Completed,01-01-2021,277536,504,Emmanuel Chude,NGN,Operations,Medium,31-12-2019,367,-277032,-99.82,4,1,25
+331,Boyer-Ritchie,Benin City,28-01-2020,Delayed,,382378,13034,Nancy Oluomachi,EURO,IT,High,13-08-2020,,-369344,-96.59,3,1,33.33
+332,"Kling, Bayer and Kuhic",Ila,08-02-2020,Completed,01-01-2021,455590,8391,Nancy Oluomachi,KES,Marketing,Critical,10-03-2020,297,-447199,-98.16,10,6,60
+333,"Romaguera, Schinner and Lindgren",Abuja,14-02-2020,In Progress,,48915,5974,Patric NwaezeUbong,GHS,HR,Low,29-03-2020,,-42941,-87.79,9,6,66.67
+334,Lubowitz LLC,Port Harcourt,21-04-2019,In Progress,,223153,3406,Edmund,NGN,Finance,Medium,17-06-2019,,-219747,-98.47,8,6,75
+335,Cole and Sons,Jos,15-01-2019,Completed,01-01-2021,10783,14280,Emeka Emeka,GHS,Operations,High,26-03-2019,647,3497,32.43,7,6,85.71
+336,"Muller, Runolfsson and Romaguera",Aba,05-11-2020,In Progress,,128156,8855,Patric NwaezeUbong,KES,IT,Critical,27-01-2021,,-119301,-93.09,6,0,0
+337,DuBuque Inc,Aba,12-12-2018,Completed,01-01-2021,33474,3827,Temitope Angela,GHS,Marketing,Low,18-03-2019,655,-29647,-88.57,5,1,20
+338,Prohaska-Dickens,Lagos,12-08-2019,Delayed,,318959,7628,,GHS,HR,Medium,29-11-2019,,-311331,-97.61,4,1,25
+339,Swaniawski Inc,Kano,19-01-2020,Completed,01-01-2021,336069,3904,Emmanuel Chude,USD,Finance,High,20-05-2020,226,-332165,-98.84,3,1,33.33
+340,Turcotte Group,Onitsha,02-05-2019,Not Started,,91313,14167,Nancy Oluomachi,EURO,Operations,Critical,14-09-2019,,-77146,-84.49,10,4,40
+341,Schulist Group,Benin City,22-03-2019,In Progress,,35052,5430,Patric NwaezeUbong,NGN,IT,Low,17-08-2019,,-29622,-84.51,9,5,55.56
+342,Hayes-Dickens,Lagos,23-10-2019,In Progress,,145881,2059,Patric NwaezeUbong,KES,Marketing,Medium,01-04-2020,,-143822,-98.59,8,5,62.5
+343,Beahan and Sons,Port Harcourt,15-02-2019,Completed,01-01-2021,396872,7852,Emeka Emeka,NGN,HR,High,08-08-2019,512,-389020,-98.02,7,5,71.43
+344,Metz-Rowe,Port Harcourt,12-02-2019,Not Started,,286534,10613,Edmund,EURO,Finance,Critical,18-08-2019,,-275921,-96.3,6,5,83.33
+345,Waelchi-Graham,Lagos,17-10-2019,Completed,01-01-2021,413741,13765,,NGN,Operations,Low,04-05-2020,242,-399976,-96.67,5,0,0
+346,"Bernhard, Stoltenberg and Emmerich",Aba,03-09-2020,Delayed,,455523,14572,Emmanuel Chude,USD,IT,Medium,06-10-2020,,-440951,-96.8,4,0,0
+347,"King, Lehner and Cremin",Onitsha,13-12-2018,Delayed,,484890,13651,Emeka Emeka,KES,Marketing,High,28-01-2019,,-471239,-97.18,3,1,33.33
+348,Aufderhar-O'Hara,Kano,18-06-2019,Completed,01-01-2021,435941,4431,Patric NwaezeUbong,GHS,HR,Critical,16-08-2019,504,-431510,-98.98,10,3,30
+349,Weimann and Sons,Lagos,10-01-2018,In Progress,,298962,11651,Emmanuel Chude,NGN,Finance,Low,23-03-2018,,-287311,-96.1,9,4,44.44
+350,"Streich, Ledner and Hauck",Enugu,26-09-2019,In Progress,,32268,7234,Emeka Emeka,NGN,Operations,Medium,20-12-2019,,-25034,-77.58,8,4,50
+351,"Raynor, Dickens and Senger",Jos,30-04-2019,Completed,01-01-2021,-205931,9660,Emmanuel Chude,GHS,IT,High,06-08-2019,514,215591,-104.69,7,5,71.43
+352,Blick-Barton,Head Office,18-08-2020,In Progress,,339125,1222,Edmund,GHS,Marketing,Critical,07-12-2020,,-337903,-99.64,6,5,83.33
+353,Effertz-Schuppe,Ila,29-04-2019,In Progress,,91658,11182,Edmund,NGN,HR,Low,31-08-2019,,-80476,-87.8,5,4,80
+354,"Jenkins, Toy and Fahey",Jos,29-05-2020,In Progress,,192578,910,,NGN,Finance,Medium,13-10-2020,,-191668,-99.53,4,4,100
+355,Graham Inc,Enugu,15-09-2020,Not Started,,14749,1443,Emmanuel Chude,EURO,Operations,High,12-02-2021,,-13306,-90.22,3,0,0
+356,"Kilback, Smith and Tillman",Lagos,26-06-2019,Completed,01-01-2021,192262,6594,Temitope Angela,NGN,IT,Critical,06-12-2019,392,-185668,-96.57,10,2,20
+357,Harber-Veum,Jos,21-01-2020,Completed,01-01-2021,385344,6452,,USD,Marketing,Low,15-07-2020,170,-378892,-98.33,9,3,33.33
+358,"Krajcik, Blanda and Hessel",Benin City,24-05-2019,In Progress,,419588,4808,Patric NwaezeUbong,GHS,HR,Medium,29-11-2019,,-414780,-98.85,8,3,37.5
+359,Hansen and Sons,Ila,31-03-2019,Completed,01-01-2021,47501,9873,Emeka Emeka,GHS,Finance,High,19-10-2019,440,-37628,-79.22,7,4,57.14
+360,Runolfsson-Schaden,Jos,07-12-2019,Delayed,,410826,10378,Emeka Emeka,EURO,Operations,Critical,11-01-2020,,-400448,-97.47,6,4,66.67
+361,Corwin Group,Onitsha,22-12-2019,In Progress,,72909,8473,Temitope Angela,NGN,IT,Low,08-02-2020,,-64436,-88.38,5,4,80
+362,Gottlieb-Graham,Aba,09-06-2018,Delayed,,154882,12942,,KES,Marketing,Medium,09-08-2018,,-141940,-91.64,4,3,75
+363,Pacocha Inc,Benin City,12-04-2019,In Progress,,209716,13389,Edmund,EURO,HR,High,25-06-2019,,-196327,-93.62,3,3,100
+364,Russel-Hartmann,Port Harcourt,08-03-2019,Completed,01-01-2021,301234,3720,,GHS,Finance,Critical,03-06-2019,578,-297514,-98.77,10,1,10
+365,Hudson-Mayer,Onitsha,18-06-2019,In Progress,,88349,14493,Temitope Angela,KES,Operations,Low,26-09-2019,,-73856,-83.6,9,2,22.22
+366,Shields LLC,Ila,08-02-2019,Completed,01-01-2021,490687,1639,Edmund,GHS,IT,Medium,01-06-2019,580,-489048,-99.67,8,2,25
+367,Rice Group,Jos,14-02-2019,Completed,01-01-2021,332892,4567,Temitope Angela,GHS,Marketing,High,20-06-2019,561,-328325,-98.63,7,3,42.86
+368,Boehm LLC,Port Harcourt,09-02-2018,Delayed,,33883,8159,Nancy Oluomachi,GHS,HR,Critical,28-06-2018,,-25724,-75.92,6,3,50
+369,"Jones, Watsica and Barrows",Jos,20-12-2019,Delayed,,480446,659,Emeka Emeka,GHS,Finance,Low,20-05-2020,,-479787,-99.86,5,3,60
+370,"Cassin, Marvin and Lowe",Jos,22-04-2020,Completed,01-01-2021,356758,2914,Temitope Angela,USD,Operations,Medium,04-10-2020,89,-353844,-99.18,4,3,75
+371,"Jones, Pollich and Adams",Kano,24-06-2019,Not Started,,212292,4269,,KES,IT,High,19-12-2019,,-208023,-97.99,3,3,100
+372,Koss-DuBuque,Onitsha,23-09-2018,Completed,01-01-2021,300107,10733,Emeka Emeka,KES,Marketing,Critical,02-04-2019,640,-289374,-96.42,10,10,100
+373,"Schuppe, Erdman and Marquardt",Enugu,20-11-2019,Completed,01-01-2021,335345,7419,,EURO,HR,Low,11-06-2020,204,-327926,-97.79,9,1,11.11
+374,Stokes-Deckow,Abuja,23-08-2020,Delayed,,53827,5746,Emeka Emeka,NGN,Finance,Medium,29-09-2020,,-48081,-89.33,8,2,25
+375,Gibson-Becker,Aba,06-05-2019,Delayed,,161626,2111,Emeka Emeka,NGN,Operations,High,25-06-2019,,-159515,-98.69,7,2,28.57
+376,"Botsford, Becker and Boyle",Aba,13-12-2018,Not Started,,163418,2299,Nancy Oluomachi,KES,IT,Critical,14-02-2019,,-161119,-98.59,6,2,33.33
+377,Nolan-Ritchie,Ila,12-02-2018,Delayed,,6060,10861,Temitope Angela,USD,Marketing,Low,29-04-2018,,4801,79.22,5,3,60
+378,Emard-Hackett,Lagos,12-02-2019,Delayed,,141926,11659,Patric NwaezeUbong,USD,HR,Medium,12-05-2019,,-130267,-91.79,4,3,75
+379,Dietrich and Sons,Onitsha,12-07-2019,In Progress,,419575,429,Temitope Angela,GHS,Finance,High,22-10-2019,,-419146,-99.9,3,2,66.67
+380,"Ruecker, Heaney and O'Conner",Jos,05-02-2019,Completed,01-01-2021,370797,2071,Emmanuel Chude,USD,Operations,Critical,31-05-2019,581,-368726,-99.44,10,8,80
+381,Bosco Inc,Jos,06-10-2019,In Progress,,134804,6237,Temitope Angela,NGN,IT,Low,11-02-2020,,-128567,-95.37,9,9,100
+382,"Frami, Farrell and Anderson",Port Harcourt,22-11-2019,Delayed,,98856,815,,USD,Marketing,Medium,11-04-2020,,-98041,-99.18,8,1,12.5
+383,Balistreri and Sons,Port Harcourt,22-12-2018,Delayed,,8083,2538,,NGN,HR,High,25-05-2019,,-5545,-68.6,7,1,14.29
+384,Connelly Group,Kano,04-06-2019,Completed,01-01-2021,268118,12768,Emeka Emeka,USD,Finance,Critical,18-11-2019,410,-255350,-95.24,6,2,33.33
+385,Champlin-Bartell,Head Office,31-01-2019,Delayed,,98521,9492,Emmanuel Chude,GHS,Operations,Low,30-07-2019,,-89029,-90.37,5,2,40
+386,"Bruen, Goyette and Hudson",Ila,02-01-2020,In Progress,,306319,5283,Temitope Angela,KES,IT,Medium,13-07-2020,,-301036,-98.28,4,2,50
+387,Zboncak Group,Onitsha,03-12-2020,Completed,01-01-2021,200674,9504,Edmund,USD,Marketing,High,27-06-2021,-177,-191170,-95.26,3,2,66.67
+388,"Dickinson, Kohler and Gleichner",Abuja,10-09-2019,Completed,01-01-2021,271694,6239,,NGN,HR,Critical,19-10-2019,440,-265455,-97.7,10,7,70
+389,Strosin LLC,Head Office,07-04-2020,Not Started,,455900,8920,Emeka Emeka,GHS,Finance,Low,29-05-2020,,-446980,-98.04,9,8,88.89
+390,Rempel-Hintz,Benin City,19-02-2019,Not Started,,352536,13597,Temitope Angela,USD,Operations,Medium,25-04-2019,,-338939,-96.14,8,8,100
+391,Simonis LLC,Abuja,04-12-2020,Completed,01-01-2021,354204,2500,,NGN,IT,High,20-02-2021,-50,-351704,-99.29,7,0,0
+392,Stark-Morissette,Aba,17-12-2018,Completed,01-01-2021,263941,840,Nancy Oluomachi,KES,Marketing,Critical,18-03-2019,655,-263101,-99.68,6,1,16.67
+393,Bednar Group,Port Harcourt,14-12-2018,Not Started,,166787,8753,Patric NwaezeUbong,USD,HR,Low,28-03-2019,,-158034,-94.75,5,1,20
+394,West Group,Enugu,09-10-2020,In Progress,,324320,13292,Edmund,KES,Finance,Medium,03-02-2021,,-311028,-95.9,4,2,50
+395,"Kessler, Jast and Dickinson",Port Harcourt,07-08-2020,Completed,01-01-2021,374551,1688,Emeka Emeka,NGN,Operations,High,15-12-2020,17,-372863,-99.55,3,2,66.67
+396,Padberg Inc,Enugu,27-09-2019,In Progress,,200218,14927,Edmund,EURO,IT,Critical,17-02-2020,,-185291,-92.54,10,6,60
+397,"Miller, Padberg and Klocko",Kano,29-03-2020,Delayed,,436262,1427,Emeka Emeka,USD,Marketing,Low,01-09-2020,,-434835,-99.67,9,6,66.67
+398,Volkman-Kautzer,Lagos,30-03-2019,Not Started,,240595,12882,Emeka Emeka,USD,HR,Medium,15-09-2019,,-227713,-94.65,8,7,87.5
+399,"Quigley, Cormier and Mertz",Abuja,24-09-2019,In Progress,,213953,6028,Nancy Oluomachi,EURO,Finance,High,24-03-2020,,-207925,-97.18,7,7,100
+400,Miller and Sons,Aba,29-05-2020,Not Started,,41435,11142,Temitope Angela,NGN,Operations,Critical,10-12-2020,,-30293,-73.11,6,0,0
+401,Gulgowski LLC,Abuja,18-06-2020,Not Started,,111713,7234,Emmanuel Chude,GHS,IT,Low,12-01-2021,,-104479,-93.52,5,1,20
+402,Hilll Group,Jos,12-04-2019,In Progress,,225302,4520,Edmund,GHS,Marketing,Medium,23-05-2019,,-220782,-97.99,4,1,25
+403,Denesik-Blick,Ila,07-02-2020,In Progress,,404288,9006,,NGN,HR,High,01-04-2020,,-395282,-97.77,3,1,33.33
+404,Hudson and Sons,Enugu,07-03-2019,Not Started,,149918,3234,Temitope Angela,GHS,Finance,Critical,13-05-2019,,-146684,-97.84,10,5,50
+405,Towne and Sons,Aba,04-06-2019,Not Started,,44313,8558,Patric NwaezeUbong,NGN,Operations,Low,23-08-2019,,-35755,-80.69,9,5,55.56
+406,Klocko Group,Onitsha,04-01-2019,Not Started,,399772,14493,Emeka Emeka,KES,IT,Medium,07-04-2019,,-385279,-96.37,8,6,75
+407,"Gulgowski, Bechtelar and Carter",Aba,15-03-2019,In Progress,,486914,3527,Nancy Oluomachi,NGN,Marketing,High,29-06-2019,,-483387,-99.28,7,6,85.71
+408,Gutkowski Group,Aba,03-02-2020,Not Started,,227797,7540,Emmanuel Chude,NGN,HR,Critical,01-06-2020,,-220257,-96.69,6,6,100
+409,Brakus-Conroy,Enugu,30-10-2019,In Progress,,414059,9858,Patric NwaezeUbong,GHS,Finance,Low,10-03-2020,,-404201,-97.62,5,0,0
+410,Kling-Brekke,Abuja,19-03-2019,Not Started,,55193,664,Edmund,GHS,Operations,Medium,11-08-2019,,-54529,-98.8,4,1,25
+411,Braun-Quitzon,Port Harcourt,13-10-2018,Completed,01-01-2021,331413,7553,Edmund,NGN,IT,High,20-03-2019,653,-323860,-97.72,3,1,33.33
+412,Trantow LLC,Aba,08-05-2019,Completed,01-01-2021,280958,10967,Edmund,GHS,Marketing,Critical,26-10-2019,433,-269991,-96.1,10,4,40
+413,"MacGyver, Ledner and Heidenreich",Aba,21-06-2020,Delayed,,94883,885,Edmund,EURO,HR,Low,22-12-2020,,-93998,-99.07,9,4,44.44
+414,Kessler-McClure,Head Office,28-10-2019,Delayed,,52170,4295,Edmund,USD,Finance,Medium,12-05-2020,,-47875,-91.77,8,5,62.5
+415,Adams Group,Kano,28-02-2019,In Progress,,126674,8689,Emeka Emeka,KES,Operations,High,30-03-2019,,-117985,-93.14,7,5,71.43
+416,Hills Inc,Jos,13-03-2020,In Progress,,221176,13547,Temitope Angela,USD,IT,Critical,25-04-2020,,-207629,-93.88,6,5,83.33
+417,"Zboncak, Casper and McLaughlin",Abuja,08-03-2020,Not Started,,287245,2812,Temitope Angela,GHS,Marketing,Low,03-05-2020,,-284433,-99.02,5,5,100
+418,"Casper, Hodkiewicz and Kautzer",Enugu,22-03-2020,In Progress,,30431,2336,,EURO,HR,Medium,30-05-2020,,-28095,-92.32,4,0,0
+419,Denesik-Reinger,Abuja,23-12-2018,Delayed,,172640,13666,Edmund,EURO,Finance,High,15-03-2019,,-158974,-92.08,3,0,0
+420,Osinski-Kub,Jos,11-08-2019,Delayed,,169881,9232,Emmanuel Chude,EURO,Operations,Critical,14-11-2019,,-160649,-94.57,10,2,20
+421,Hane-Kozey,Abuja,23-04-2019,Completed,01-01-2021,439945,5334,Patric NwaezeUbong,USD,IT,Low,09-08-2019,511,-434611,-98.79,9,3,33.33
+422,Veum LLC,Onitsha,13-02-2020,Completed,01-01-2021,128046,9524,Patric NwaezeUbong,NGN,Marketing,Medium,13-06-2020,202,-118522,-92.56,8,4,50
+423,Jacobson LLC,Aba,22-05-2019,In Progress,,288734,1509,Edmund,EURO,HR,High,03-10-2019,,-287225,-99.48,7,4,57.14
+424,Zboncak Inc,Aba,22-11-2018,Delayed,,174245,12343,Emmanuel Chude,KES,Finance,Critical,18-04-2019,,-161902,-92.92,6,4,66.67
+425,Bernhard LLC,Jos,18-09-2020,In Progress,,369086,12513,Nancy Oluomachi,KES,Operations,Low,25-02-2021,,-356573,-96.61,5,4,80
+426,"Hansen, Zemlak and Hessel",Ila,28-07-2020,Not Started,,287561,2612,Edmund,USD,IT,Medium,17-01-2021,,-284949,-99.09,4,4,100
+427,Reilly Inc,Head Office,13-12-2018,In Progress,,455403,14320,Patric NwaezeUbong,NGN,Marketing,High,17-06-2019,,-441083,-96.86,3,0,0
+428,Langosh Inc,Aba,11-11-2018,In Progress,,80039,976,Temitope Angela,GHS,HR,Critical,29-05-2019,,-79063,-98.78,10,1,10
+429,Adams-Macejkovic,Aba,27-07-2020,In Progress,,497220,7719,Nancy Oluomachi,GHS,Finance,Low,28-08-2020,,-489501,-98.45,9,2,22.22
+430,"Emmerich, Homenick and Funk",Port Harcourt,02-05-2019,Delayed,,454624,4541,Emeka Emeka,GHS,Operations,Medium,16-06-2019,,-450083,-99,8,3,37.5
+431,Powlowski-Cassin,Lagos,06-05-2020,Delayed,,408740,11296,Emmanuel Chude,NGN,IT,High,03-07-2020,,-397444,-97.24,7,3,42.86
+432,Langworth LLC,Kano,12-04-2019,Completed,01-01-2021,325034,5399,Edmund,KES,Marketing,Critical,22-06-2019,559,-319635,-98.34,6,3,50
+433,"Sawayn, Dickinson and Balistreri",Aba,14-01-2019,In Progress,,306579,13565,Emmanuel Chude,EURO,HR,Low,08-04-2019,,-293014,-95.58,5,3,60
+434,"Mueller, Langosh and Haag",Lagos,30-10-2019,Delayed,,95967,9309,Patric NwaezeUbong,KES,Finance,Medium,04-02-2020,,-86658,-90.3,4,3,75
+435,"Wisozk, White and Smith",Onitsha,13-02-2020,In Progress,,278307,1426,Edmund,KES,Operations,High,02-06-2020,,-276881,-99.49,3,3,100
+436,Batz Inc,Abuja,01-12-2019,In Progress,,143087,1907,Nancy Oluomachi,NGN,IT,Critical,02-04-2020,,-141180,-98.67,10,0,0
+437,"Torp, Rath and Hettinger",Port Harcourt,21-11-2019,Not Started,,193869,4054,Patric NwaezeUbong,NGN,Marketing,Low,05-04-2020,,-189815,-97.91,9,1,11.11
+438,"Donnelly, Brown and Renner",Aba,19-02-2020,Not Started,,237349,11382,Temitope Angela,NGN,HR,Medium,17-07-2020,,-225967,-95.2,8,2,25
+439,"Veum, Fisher and Casper",Aba,01-11-2019,Delayed,,339565,9264,Emeka Emeka,GHS,Finance,High,11-04-2020,,-330301,-97.27,7,2,28.57
+440,"Osinski, Corkery and Rath",Abuja,12-04-2018,Completed,01-01-2021,30884,13700,,KES,Operations,Critical,04-10-2018,820,-17184,-55.64,6,3,50
+441,Krajcik and Sons,Benin City,20-06-2020,In Progress,,316753,765,Temitope Angela,GHS,IT,Low,25-12-2020,,-315988,-99.76,5,3,60
+442,"Hackett, Koepp and Kihn",Kano,16-09-2020,Not Started,,455015,657,Edmund,USD,Marketing,Medium,05-04-2021,,-454358,-99.86,4,3,75
+443,Turner-Daugherty,Lagos,18-01-2020,In Progress,,31864,7020,Emeka Emeka,KES,HR,High,21-02-2020,,-24844,-77.97,3,2,66.67
+444,"Stanton, Beier and Reilly",Lagos,23-12-2019,Completed,01-01-2021,255666,6321,Edmund,KES,Finance,Critical,08-02-2020,328,-249345,-97.53,10,9,90
+445,"Osinski, Renner and Witting",Aba,14-10-2018,Delayed,,223642,9955,Emeka Emeka,KES,Operations,Low,13-12-2018,,-213687,-95.55,9,0,0
+446,Hirthe-Nitzsche,Ila,17-12-2019,Completed,01-01-2021,107088,5947,Patric NwaezeUbong,NGN,IT,Medium,28-02-2020,308,-101141,-94.45,8,1,12.5
+447,Bechtelar-Ortiz,Ila,19-09-2018,Completed,01-01-2021,374183,2611,Nancy Oluomachi,EURO,Marketing,High,14-12-2018,749,-371572,-99.3,7,2,28.57
+448,Metz and Sons,Head Office,10-12-2019,Delayed,,350760,14656,Edmund,EURO,HR,Critical,18-03-2020,,-336104,-95.82,6,2,33.33
+449,"Stracke, Ferry and Aufderhar",Head Office,07-07-2019,Completed,01-01-2021,495924,4356,Nancy Oluomachi,USD,Finance,Low,27-10-2019,432,-491568,-99.12,5,2,40
+450,Stiedemann Group,Lagos,16-04-2019,Completed,01-01-2021,477398,4279,Nancy Oluomachi,NGN,Operations,Medium,19-08-2019,501,-473119,-99.1,4,2,50
+451,"Kuhn, McClure and Prohaska",Port Harcourt,11-08-2019,Completed,01-01-2021,201078,9947,Emmanuel Chude,EURO,IT,High,27-12-2019,371,-191131,-95.05,3,2,66.67
+452,Welch and Sons,Onitsha,17-09-2019,Completed,01-01-2021,367609,4408,Temitope Angela,USD,Marketing,Critical,15-02-2020,321,-363201,-98.8,10,8,80
+453,"Lind, Auer and Schuster",Lagos,07-03-2019,Delayed,,102900,9057,Emeka Emeka,GHS,HR,Low,18-08-2019,,-93843,-91.2,9,8,88.89
+454,"Keebler, Wisoky and Bins",Onitsha,10-01-2019,Completed,01-01-2021,92893,838,,NGN,Finance,Medium,06-07-2019,545,-92055,-99.1,8,8,100
+455,Nicolas-Hirthe,Enugu,30-01-2020,Completed,01-01-2021,403541,12154,Emeka Emeka,GHS,Operations,High,07-08-2020,147,-391387,-96.99,7,1,14.29
+456,"Satterfield, Schowalter and Roberts",Lagos,09-12-2019,Not Started,,7388,14766,Temitope Angela,NGN,IT,Critical,29-06-2020,,7378,99.86,6,1,16.67
+457,Stroman Inc,Head Office,02-09-2019,Completed,01-01-2021,18004,9319,Patric NwaezeUbong,KES,Marketing,Low,08-10-2019,451,-8685,-48.24,5,2,40
+458,Bradtke and Sons,Abuja,12-05-2019,Not Started,,390598,3242,Emeka Emeka,EURO,HR,Medium,30-06-2019,,-387356,-99.17,4,2,50
+459,Yost LLC,Lagos,26-04-2019,Not Started,,231791,4294,,GHS,Finance,High,27-06-2019,,-227497,-98.15,3,2,66.67
+460,"Oberbrunner, Fisher and Toy",Abuja,23-01-2020,Delayed,,477101,5150,,USD,Operations,Critical,07-04-2020,,-471951,-98.92,10,6,60
+461,Bartoletti Inc,Onitsha,13-06-2020,Completed,01-01-2021,478320,14990,Emeka Emeka,EURO,IT,Low,09-09-2020,114,-463330,-96.87,9,7,77.78
+462,"Sauer, Welch and Bayer",Abuja,25-06-2020,Delayed,,348124,5409,Nancy Oluomachi,USD,Marketing,Medium,04-10-2020,,-342715,-98.45,8,7,87.5
+463,Bogan-Reilly,Aba,13-10-2019,In Progress,,482289,6114,Temitope Angela,NGN,HR,High,04-02-2020,,-476175,-98.73,7,7,100
+464,Cronin Group,Abuja,09-11-2019,In Progress,,238207,12503,Emmanuel Chude,GHS,Finance,Critical,15-03-2020,,-225704,-94.75,6,1,16.67
+465,O'Hara LLC,Head Office,13-06-2019,Completed,01-01-2021,185522,6562,Emmanuel Chude,EURO,Operations,Low,31-10-2019,428,-178960,-96.46,5,1,20
+466,Conroy Inc,Benin City,23-03-2019,Not Started,,261596,11071,Temitope Angela,USD,IT,Medium,23-08-2019,,-250525,-95.77,4,1,25
+467,"Walker, Sipes and Howe",Aba,14-12-2018,In Progress,,452248,1357,Temitope Angela,GHS,Marketing,High,29-05-2019,,-450891,-99.7,3,1,33.33
+468,Renner Inc,Aba,02-03-2020,Completed,01-01-2021,238729,13257,,GHS,HR,Critical,28-08-2020,126,-225472,-94.45,10,5,50
+469,Turcotte Group,Port Harcourt,20-05-2019,In Progress,,455633,9940,Emeka Emeka,GHS,Finance,Low,28-11-2019,,-445693,-97.82,9,6,66.67
+470,Rogahn-Toy,Head Office,19-03-2019,Not Started,,339441,11345,Temitope Angela,USD,Operations,Medium,10-10-2019,,-328096,-96.66,8,6,75
+471,"Schroeder, Wolff and Muller",Ila,01-09-2019,Not Started,,386526,378,Temitope Angela,GHS,IT,High,09-10-2019,,-386148,-99.9,7,6,85.71
+472,Hauck-Cassin,Onitsha,10-10-2019,Completed,01-01-2021,198808,14800,,EURO,Marketing,Critical,30-11-2019,398,-184008,-92.56,6,6,100
+473,"Little, Feil and King",Head Office,28-01-2020,Not Started,,426290,415,,USD,HR,Low,01-04-2020,,-425875,-99.9,5,0,0
+474,"Rosenbaum, Vandervort and Mraz",Aba,28-04-2019,In Progress,,420814,9515,Nancy Oluomachi,NGN,Finance,Medium,14-07-2019,,-411299,-97.74,4,1,25
+475,Osinski-Jones,Head Office,05-11-2020,In Progress,,484818,792,Edmund,GHS,Operations,High,03-02-2021,,-484026,-99.84,3,1,33.33
+476,Cole and Sons,Kano,21-04-2020,Completed,01-01-2021,291787,7011,,NGN,IT,Critical,02-08-2020,152,-284776,-97.6,10,4,40
+477,Grant Inc,Port Harcourt,29-04-2020,Delayed,,333271,13313,Nancy Oluomachi,KES,Marketing,Low,23-08-2020,,-319958,-96.01,9,5,55.56
+478,"Littel, Feest and Collier",Onitsha,04-03-2020,In Progress,,143322,3113,,USD,HR,Medium,11-07-2020,,-140209,-97.83,8,5,62.5
+479,"Labadie, Carter and Senger",Lagos,04-10-2019,In Progress,,464889,4781,,USD,Finance,High,23-02-2020,,-460108,-98.97,7,5,71.43
+480,Ziemann Group,Aba,01-11-2019,In Progress,,241955,946,Emmanuel Chude,GHS,Operations,Critical,04-04-2020,,-241009,-99.61,6,5,83.33
+481,Veum and Sons,Abuja,23-08-2019,Completed,01-01-2021,87145,9701,Edmund,USD,IT,Low,07-02-2020,329,-77444,-88.87,5,5,100
+482,Satterfield-Kuphal,Aba,06-03-2019,Delayed,,348720,4638,Emeka Emeka,NGN,Marketing,Medium,03-09-2019,,-344082,-98.67,4,0,0
+483,Legros-Veum,Enugu,23-03-2020,Completed,01-01-2021,488267,6549,Patric NwaezeUbong,KES,HR,High,03-10-2020,90,-481718,-98.66,3,1,33.33
+484,Harber-Balistreri,Head Office,27-10-2019,Not Started,,25982,11203,Patric NwaezeUbong,EURO,Finance,Critical,21-05-2020,,-14779,-56.88,10,3,30
+485,Balistreri-Effertz,Jos,21-11-2018,Not Started,,36504,5545,Patric NwaezeUbong,EURO,Operations,Low,31-12-2018,,-30959,-84.81,9,4,44.44
+486,"Aufderhar, Reilly and Bruen",Lagos,12-05-2018,In Progress,,470812,4253,Emmanuel Chude,USD,IT,Medium,04-07-2018,,-466559,-99.1,8,4,50
+487,Lemke-Gorczany,Abuja,04-05-2020,Delayed,,281869,12770,,USD,Marketing,High,09-07-2020,,-269099,-95.47,7,4,57.14
+488,Jacobs-Lynch,Port Harcourt,26-05-2019,Completed,01-01-2021,468766,8655,Patric NwaezeUbong,USD,HR,Critical,13-08-2019,507,-460111,-98.15,6,4,66.67
+489,"Hyatt, Schaden and Luettgen",Onitsha,12-07-2019,Completed,01-01-2021,49393,13254,Temitope Angela,EURO,Finance,Low,12-10-2019,447,-36139,-73.17,5,4,80
+490,Schmeler LLC,Port Harcourt,25-05-2019,Completed,01-01-2021,100702,3049,Patric NwaezeUbong,NGN,Operations,Medium,07-09-2019,482,-97653,-96.97,4,4,100
+491,Bradtke-Volkman,Abuja,11-07-2019,Delayed,,494835,9907,Emmanuel Chude,USD,IT,High,06-11-2019,,-484928,-98,3,0,0
+492,"Schamberger, Flatley and Lubowitz",Abuja,17-11-2019,Delayed,,68388,5097,Emeka Emeka,GHS,Marketing,Critical,27-03-2020,,-63291,-92.55,10,2,20
+493,Muller-Weber,Aba,09-09-2019,Not Started,,81952,341,Patric NwaezeUbong,GHS,HR,Low,31-01-2020,,-81611,-99.58,9,3,33.33
+494,Schroeder-Brekke,Ila,30-09-2020,Not Started,,213383,672,Temitope Angela,USD,Finance,Medium,06-03-2021,,-212711,-99.69,8,3,37.5
+495,Heathcote-Turcotte,Jos,24-08-2020,Completed,01-01-2021,14661,12983,,GHS,Operations,High,10-02-2021,-40,-1678,-11.45,7,4,57.14
+496,Funk-Bartell,Lagos,12-12-2019,In Progress,,339356,3904,Patric NwaezeUbong,EURO,IT,Critical,12-06-2020,,-335452,-98.85,6,4,66.67
+497,Schneider-Mueller,Port Harcourt,26-12-2018,Completed,01-01-2021,416919,2089,Nancy Oluomachi,USD,Marketing,Low,10-07-2019,541,-414830,-99.5,5,4,80
+498,McGlynn and Sons,Ila,13-12-2018,In Progress,,293840,9103,Nancy Oluomachi,NGN,HR,Medium,10-07-2019,,-284737,-96.9,4,3,75
+499,"Runolfsson, Rau and Kerluke",Enugu,11-12-2018,Delayed,,169444,7040,Patric NwaezeUbong,KES,Finance,High,22-01-2019,,-162404,-95.85,3,3,100
+500,Feil-Kub,Lagos,05-08-2019,Not Started,,424004,1808,Emmanuel Chude,NGN,Operations,Critical,29-09-2019,,-422196,-99.57,10,0,0
+501,"White, Osinski and Gleichner",Ila,31-07-2019,Not Started,,411615,3875,Nancy Oluomachi,NGN,IT,Low,07-10-2019,,-407740,-99.06,9,1,11.11
+502,King Inc,Benin City,20-11-2018,Delayed,,422614,7578,Edmund,KES,Marketing,Medium,09-02-2019,,-415036,-98.21,8,2,25
+503,"Cremin, DuBuque and Schaden",Kano,03-05-2019,Delayed,,419768,2760,Nancy Oluomachi,KES,HR,High,05-08-2019,,-417008,-99.34,7,3,42.86
+504,Feest-Frami,Port Harcourt,27-12-2019,Completed,01-01-2021,474249,6840,,GHS,Finance,Critical,12-04-2020,264,-467409,-98.56,6,3,50
+505,Balistreri Group,Kano,02-02-2019,Delayed,,312857,12615,,EURO,Operations,Low,02-06-2019,,-300242,-95.97,5,3,60
+506,Robel and Sons,Lagos,28-09-2018,Completed,01-01-2021,256732,5844,Temitope Angela,USD,IT,Medium,08-02-2019,693,-250888,-97.72,4,3,75
+507,Gusikowski Group,Kano,09-02-2019,Completed,01-01-2021,15271,11512,,EURO,Marketing,High,05-07-2019,546,-3759,-24.62,3,2,66.67
+508,Cummings LLC,Head Office,28-07-2019,In Progress,,72067,5777,,GHS,HR,Critical,03-01-2020,,-66290,-91.98,10,9,90
+509,Collier-D'Amore,Onitsha,14-08-2019,Delayed,,481721,12664,,KES,Finance,Low,02-02-2020,,-469057,-97.37,9,0,0
+510,Kulas and Sons,Enugu,16-03-2020,Not Started,,58753,7058,,NGN,Operations,Medium,17-09-2020,,-51695,-87.99,8,1,12.5
+511,Cummerata Inc,Onitsha,03-07-2019,Delayed,,499134,2821,Patric NwaezeUbong,GHS,IT,High,17-01-2020,,-496313,-99.43,7,2,28.57
+512,Williamson-Aufderhar,Kano,28-04-2019,Not Started,,62957,6714,Patric NwaezeUbong,NGN,Marketing,Critical,29-05-2019,,-56243,-89.34,6,2,33.33
+513,"Gibson, Jacobson and Torphy",Jos,11-04-2019,Not Started,,433009,6993,Nancy Oluomachi,GHS,HR,Low,25-05-2019,,-426016,-98.39,5,2,40
+514,Runolfsdottir LLC,Abuja,27-03-2020,Delayed,,311245,12715,Nancy Oluomachi,EURO,Finance,Medium,23-05-2020,,-298530,-95.91,4,2,50
+515,Renner Group,Aba,17-11-2018,Delayed,,373186,7673,,USD,Operations,High,26-01-2019,,-365513,-97.94,3,2,66.67
+516,Hilpert Group,Enugu,05-07-2020,Not Started,,463618,13776,,GHS,IT,Critical,26-09-2020,,-449842,-97.03,10,8,80
+517,O'Reilly and Sons,Jos,07-04-2019,Completed,01-01-2021,335996,12956,Edmund,NGN,Marketing,Low,12-07-2019,539,-323040,-96.14,9,8,88.89
+518,"Swift, Kessler and Rath",Lagos,01-10-2020,Completed,01-01-2021,286676,3111,,KES,HR,Medium,18-01-2021,-17,-283565,-98.91,8,0,0
+519,Bergnaum-Runolfsson,Abuja,08-05-2020,In Progress,,461169,5005,Emmanuel Chude,KES,Finance,High,07-09-2020,,-456164,-98.91,7,1,14.29
+520,Luettgen Group,Ila,02-02-2020,Completed,01-01-2021,294419,14935,Nancy Oluomachi,EURO,Operations,Critical,16-06-2020,199,-279484,-94.93,6,2,33.33
+521,Botsford-Mraz,Lagos,14-09-2020,In Progress,,253406,303,Temitope Angela,EURO,IT,Low,09-02-2021,,-253103,-99.88,5,2,40
+522,"Heaney, Kessler and Volkman",Kano,30-05-2020,Completed,01-01-2021,471931,1635,Nancy Oluomachi,NGN,Marketing,Medium,07-11-2020,55,-470296,-99.65,4,2,50
+523,Rowe-Muller,Port Harcourt,13-03-2020,In Progress,,102253,5748,,EURO,HR,High,03-09-2020,,-96505,-94.38,3,2,66.67
+524,"Gerhold, Huel and Schmeler",Enugu,07-03-2019,Not Started,,161683,8745,Temitope Angela,USD,Finance,Critical,10-09-2019,,-152938,-94.59,10,7,70
+525,Fritsch and Sons,Lagos,06-06-2020,Completed,01-01-2021,16788,8250,Emeka Emeka,GHS,Operations,Low,23-12-2020,9,-8538,-50.86,9,7,77.78
+526,Connelly and Sons,Onitsha,22-11-2019,Completed,01-01-2021,144159,3939,Temitope Angela,USD,IT,Medium,25-12-2019,373,-140220,-97.27,8,7,87.5
+527,Anderson Group,Lagos,01-06-2019,Not Started,,365290,3974,,USD,Marketing,High,17-07-2019,,-361316,-98.91,7,0,0
+528,Oberbrunner-Mueller,Jos,11-03-2018,Delayed,,399681,5938,Patric NwaezeUbong,GHS,HR,Critical,09-05-2018,,-393743,-98.51,6,1,16.67
+529,"Sauer, Moen and Yost",Aba,28-12-2019,In Progress,,104693,2200,Emmanuel Chude,USD,Finance,Low,09-03-2020,,-102493,-97.9,5,1,20
+530,Cremin and Sons,Head Office,06-11-2019,In Progress,,202775,6164,Edmund,NGN,Operations,Medium,30-01-2020,,-196611,-96.96,4,1,25
+531,"Hartmann, Schuppe and Hand",Lagos,30-08-2019,In Progress,,303465,6853,Emmanuel Chude,NGN,IT,High,06-12-2019,,-296612,-97.74,3,1,33.33
+532,Watsica-Kessler,Ila,24-08-2019,Completed,01-01-2021,445042,9583,Edmund,EURO,Marketing,Critical,13-12-2019,385,-435459,-97.85,10,6,60
+533,Bailey Inc,Jos,18-02-2019,Not Started,,416225,7656,Emeka Emeka,KES,HR,Low,22-06-2019,,-408569,-98.16,9,6,66.67
+534,Boyer-Botsford,Benin City,06-12-2020,Not Started,,99045,8665,Temitope Angela,EURO,Finance,Medium,22-04-2021,,-90380,-91.25,8,6,75
+535,"Toy, Paucek and Murray",Jos,25-03-2020,Not Started,,122533,5032,Temitope Angela,KES,Operations,High,22-08-2020,,-117501,-95.89,7,6,85.71
+536,Kulas LLC,Enugu,06-12-2019,In Progress,,107075,5433,Edmund,KES,IT,Critical,17-05-2020,,-101642,-94.93,6,0,0
+537,"Hauck, Cruickshank and Ondricka",Ila,16-09-2018,Not Started,,426222,10998,,EURO,Marketing,Low,11-03-2019,,-415224,-97.42,5,1,20
+538,Kuvalis-Wuckert,Kano,14-01-2019,Completed,01-01-2021,340286,11652,Edmund,USD,HR,Medium,22-07-2019,529,-328634,-96.58,4,1,25
+539,"Block, Casper and Tremblay",Enugu,22-10-2019,Completed,01-01-2021,249865,11505,Emmanuel Chude,GHS,Finance,High,11-05-2020,235,-238360,-95.4,3,1,33.33
+540,Bashirian LLC,Enugu,28-06-2019,In Progress,,359356,2968,Patric NwaezeUbong,USD,Operations,Critical,02-08-2019,,-356388,-99.17,10,4,40
+541,Crooks and Sons,Enugu,04-08-2020,Not Started,,417203,3210,Edmund,GHS,IT,Low,21-09-2020,,-413993,-99.23,9,5,55.56
+542,Labadie-Beahan,Abuja,17-11-2018,In Progress,,143749,3955,Temitope Angela,KES,Marketing,Medium,17-01-2019,,-139794,-97.25,8,5,62.5
+543,Kassulke LLC,Jos,19-10-2018,In Progress,,404182,7119,Edmund,KES,HR,High,01-01-2019,,-397063,-98.24,7,5,71.43
+544,Ondricka-Ritchie,Abuja,27-03-2020,Completed,01-01-2021,352613,2802,,EURO,Finance,Critical,22-06-2020,193,-349811,-99.21,6,5,83.33
+545,Sporer-Miller,Ila,10-07-2018,Completed,01-01-2021,445040,8044,Emmanuel Chude,KES,Operations,Low,18-10-2018,806,-436996,-98.19,5,0,0
+546,"Skiles, Schumm and Mueller",Head Office,21-01-2020,Delayed,,144168,5277,,USD,IT,Medium,13-05-2020,,-138891,-96.34,4,0,0
+547,Nienow-Schamberger,Onitsha,06-07-2020,In Progress,,230390,5512,Patric NwaezeUbong,USD,Marketing,High,09-11-2020,,-224878,-97.61,3,1,33.33
+548,"Lindgren, Morar and Mraz",Jos,25-09-2019,Completed,01-01-2021,127609,14214,Edmund,GHS,HR,Critical,11-02-2020,325,-113395,-88.86,10,3,30
+549,Walker-Little,Kano,27-02-2020,In Progress,,234579,951,Edmund,EURO,Finance,Low,28-07-2020,,-233628,-99.59,9,4,44.44
+550,Dibbert and Sons,Port Harcourt,13-12-2019,Not Started,,232417,1343,Nancy Oluomachi,USD,Operations,Medium,26-05-2020,,-231074,-99.42,8,4,50
+551,Okuneva-Lockman,Ila,12-05-2019,Delayed,,23077,2546,,NGN,IT,High,06-11-2019,,-20531,-88.97,7,5,71.43
+552,Barrows Inc,Onitsha,09-02-2018,Not Started,,119560,1499,Nancy Oluomachi,GHS,Marketing,Critical,19-08-2018,,-118061,-98.75,6,5,83.33
+553,Kautzer LLC,Onitsha,20-10-2019,Completed,01-01-2021,93237,11404,Edmund,GHS,HR,Low,11-05-2020,235,-81833,-87.77,5,4,80
+554,Fadel Group,Lagos,31-05-2020,Not Started,,260839,5215,Temitope Angela,KES,Finance,Medium,07-07-2020,,-255624,-98,4,4,100
+555,"Ullrich, Shanahan and Stoltenberg",Kano,27-05-2019,Not Started,,457706,5448,Nancy Oluomachi,USD,Operations,High,16-07-2019,,-452258,-98.81,3,0,0
+556,Beer Inc,Port Harcourt,26-12-2018,Not Started,,383675,8779,Patric NwaezeUbong,GHS,IT,Critical,27-02-2019,,-374896,-97.71,10,2,20
+557,"Monahan, Mayer and Gleason",Head Office,01-12-2019,Not Started,,495185,1471,Edmund,NGN,Marketing,Low,15-02-2020,,-493714,-99.7,9,3,33.33
+558,Lueilwitz LLC,Enugu,13-05-2019,Delayed,,168821,1092,Nancy Oluomachi,NGN,HR,Medium,10-08-2019,,-167729,-99.35,8,3,37.5
+559,"Lemke, Heathcote and Durgan",Benin City,28-09-2020,Completed,01-01-2021,7022,9967,Emmanuel Chude,USD,Finance,High,08-01-2021,-7,2945,41.94,7,4,57.14
+560,Bayer-Homenick,Ila,12-10-2019,Delayed,,354102,14094,Emeka Emeka,EURO,Operations,Critical,04-02-2020,,-340008,-96.02,6,4,66.67
+561,Powlowski Inc,Ila,15-06-2019,Completed,01-01-2021,257279,11485,Edmund,NGN,IT,Low,21-10-2019,438,-245794,-95.54,5,4,80
+562,Hand-Osinski,Aba,04-06-2020,Completed,01-01-2021,86561,10183,,GHS,Marketing,Medium,23-10-2020,70,-76378,-88.24,4,3,75
+563,"Borer, Zboncak and Morar",Ila,10-05-2018,In Progress,,402663,8987,Edmund,NGN,HR,High,11-10-2018,,-393676,-97.77,3,3,100
+564,"O'Keefe, Gottlieb and Flatley",Benin City,14-03-2019,Not Started,,455623,5708,Edmund,EURO,Finance,Critical,28-08-2019,,-449915,-98.75,10,1,10
+565,Hintz-Sporer,Kano,27-12-2018,Completed,01-01-2021,175779,11434,,USD,Operations,Low,25-06-2019,556,-164345,-93.5,9,2,22.22
+566,Lakin-Kulas,Aba,21-06-2020,Not Started,,345062,1257,Nancy Oluomachi,GHS,IT,Medium,31-12-2020,,-343805,-99.64,8,2,25
+567,"Grant, Walter and Grady",Lagos,25-01-2020,In Progress,,418507,3283,,GHS,Marketing,High,18-08-2020,,-415224,-99.22,7,3,42.86
+568,"Goodwin, Lueilwitz and Kovacek",Abuja,22-06-2020,Completed,01-01-2021,288273,9009,,KES,HR,Critical,31-07-2020,154,-279264,-96.87,6,3,50
+569,Reinger Inc,Benin City,23-03-2019,Not Started,,494844,13654,Temitope Angela,USD,Finance,Low,14-05-2019,,-481190,-97.24,5,3,60
+570,Roob LLC,Jos,16-10-2019,Completed,01-01-2021,398308,5271,Emeka Emeka,GHS,Operations,Medium,20-12-2019,378,-393037,-98.68,4,3,75
+571,Hilll LLC,Enugu,13-05-2019,Not Started,,298368,13795,Emeka Emeka,KES,IT,High,30-07-2019,,-284573,-95.38,3,3,100
+572,Gleason and Sons,Enugu,28-06-2020,In Progress,,480244,3236,Emmanuel Chude,NGN,Marketing,Critical,27-09-2020,,-477008,-99.33,10,10,100
+573,"Schumm, Ankunding and Mertz",Jos,14-09-2020,Delayed,,318895,13359,Patric NwaezeUbong,GHS,HR,Low,27-12-2020,,-305536,-95.81,9,1,11.11
+574,Walker-Brekke,Enugu,14-04-2019,Not Started,,300061,11548,,USD,Finance,Medium,09-08-2019,,-288513,-96.15,8,2,25
+575,"Lueilwitz, King and Feeney",Aba,13-02-2020,Not Started,,307541,10106,Emmanuel Chude,KES,Operations,High,22-06-2020,,-297435,-96.71,7,2,28.57
+576,"Hahn, Ondricka and Olson",Enugu,06-05-2019,In Progress,,335310,2081,Temitope Angela,KES,IT,Critical,26-09-2019,,-333229,-99.38,6,2,33.33
+577,Lynch-Cruickshank,Aba,11-06-2019,Completed,01-01-2021,293409,13550,,KES,Marketing,Low,14-11-2019,414,-279859,-95.38,5,3,60
+578,Bernhard Inc,Kano,23-09-2020,Delayed,,333443,9361,Emeka Emeka,EURO,HR,Medium,11-03-2021,,-324082,-97.19,4,3,75
+579,"Marvin, Brekke and Cassin",Abuja,30-07-2020,Delayed,,123159,12582,Edmund,USD,Finance,High,28-01-2021,,-110577,-89.78,3,2,66.67
+580,McDermott-Block,Abuja,14-08-2020,Not Started,,83829,11033,Emeka Emeka,KES,Operations,Critical,25-02-2021,,-72796,-86.84,10,8,80
+581,"Hammes, Spinka and Reilly",Head Office,22-10-2019,In Progress,,314029,12631,Emmanuel Chude,KES,IT,Low,17-05-2020,,-301398,-95.98,9,9,100
+582,Beer Inc,Aba,16-07-2019,Delayed,,285171,6635,Nancy Oluomachi,GHS,Marketing,Medium,26-08-2019,,-278536,-97.67,8,1,12.5
+583,Doyle Group,Abuja,12-08-2018,Delayed,,418725,4259,Emmanuel Chude,GHS,HR,High,05-10-2018,,-414466,-98.98,7,1,14.29
+584,"Gerlach, Wolff and Luettgen",Onitsha,13-04-2020,In Progress,,423690,8865,Temitope Angela,KES,Finance,Critical,19-06-2020,,-414825,-97.91,6,2,33.33
+585,Stanton-Hettinger,Aba,09-07-2018,Completed,01-01-2021,335723,12748,Emmanuel Chude,NGN,Operations,Low,27-09-2018,827,-322975,-96.2,5,2,40
+586,Lockman-Feeney,Aba,17-07-2019,Completed,01-01-2021,34497,7142,Edmund,EURO,IT,Medium,18-10-2019,441,-27355,-79.3,4,2,50
+587,Nikolaus-Hilpert,Lagos,04-09-2020,Delayed,,448819,14686,Emmanuel Chude,KES,Marketing,High,19-12-2020,,-434133,-96.73,3,2,66.67
+588,"Hegmann, Koelpin and Cassin",Enugu,06-06-2019,In Progress,,433832,3522,Temitope Angela,USD,HR,Critical,03-10-2019,,-430310,-99.19,10,7,70
+589,"Cassin, Trantow and Feil",Aba,08-07-2019,In Progress,,301569,9449,Emeka Emeka,USD,Finance,Low,17-11-2019,,-292120,-96.87,9,8,88.89
+590,"Thiel, Huels and Yundt",Abuja,19-07-2020,Not Started,,486210,711,,EURO,Operations,Medium,11-12-2020,,-485499,-99.85,8,8,100
+591,"Kovacek, Hansen and Marvin",Aba,07-06-2019,In Progress,,183684,12719,Emeka Emeka,KES,IT,High,12-11-2019,,-170965,-93.08,7,0,0
+592,Bergnaum-McGlynn,Kano,12-01-2019,Delayed,,127017,1076,,KES,Marketing,Critical,02-07-2019,,-125941,-99.15,6,1,16.67
+593,Altenwerth-Schamberger,Kano,27-02-2019,In Progress,,43128,7155,Edmund,EURO,HR,Low,30-08-2019,,-35973,-83.41,5,1,20
+594,Purdy-Schiller,Benin City,04-07-2020,Not Started,,102114,11005,Emmanuel Chude,KES,Finance,Medium,17-01-2021,,-91109,-89.22,4,2,50
+595,O'Reilly-Schowalter,Kano,08-01-2019,In Progress,,215556,12117,Emmanuel Chude,GHS,Operations,High,07-02-2019,,-203439,-94.38,3,2,66.67
+596,Bauch-Daugherty,Kano,28-09-2018,Completed,01-01-2021,72259,14787,,KES,IT,Critical,10-11-2018,783,-57472,-79.54,10,6,60
+597,Hermann Inc,Onitsha,25-05-2019,Not Started,,170297,11645,Nancy Oluomachi,USD,Marketing,Low,20-07-2019,,-158652,-93.16,9,6,66.67
+598,"Roberts, Raynor and Pfeffer",Benin City,19-07-2020,Completed,01-01-2021,8831,3692,Patric NwaezeUbong,EURO,HR,Medium,26-09-2020,97,-5139,-58.19,8,7,87.5
+599,"Moore, Grant and Carroll",Kano,31-01-2020,Not Started,,484285,1378,Edmund,NGN,Finance,High,22-04-2020,,-482907,-99.72,7,7,100
+600,Rolfson Inc,Lagos,15-02-2019,Completed,01-01-2021,381415,4853,Emeka Emeka,KES,Operations,Critical,21-05-2019,591,-376562,-98.73,6,0,0
+601,"Abshire, Vandervort and Bruen",Aba,06-07-2019,In Progress,,66694,2821,Edmund,USD,IT,Low,22-10-2019,,-63873,-95.77,5,1,20
+602,Sawayn Group,Head Office,09-12-2019,In Progress,,118448,10558,,EURO,Marketing,Medium,08-04-2020,,-107890,-91.09,4,1,25
+603,"Dibbert, Torp and Tremblay",Kano,03-08-2019,In Progress,,23796,10216,Temitope Angela,NGN,HR,High,15-12-2019,,-13580,-57.07,3,1,33.33
+604,"Stanton, Robel and Beier",Aba,09-11-2019,In Progress,,12479,5497,Nancy Oluomachi,EURO,Finance,Critical,04-04-2020,,-6982,-55.95,10,5,50
+605,"Schiller, Wiegand and Jones",Benin City,19-03-2019,In Progress,,43877,4082,Patric NwaezeUbong,NGN,Operations,Low,26-08-2019,,-39795,-90.7,9,5,55.56
+606,Rice-Carter,Head Office,19-05-2019,Not Started,,472439,12267,,GHS,IT,Medium,08-11-2019,,-460172,-97.4,8,6,75
+607,Gusikowski and Sons,Port Harcourt,31-07-2020,Delayed,,457523,4535,,NGN,Marketing,High,02-02-2021,,-452988,-99.01,7,6,85.71
+608,Stark and Sons,Ila,02-07-2020,Delayed,,181951,8747,,KES,HR,Critical,17-01-2021,,-173204,-95.19,6,6,100
+609,"Pouros, Glover and Koch",Abuja,11-10-2018,In Progress,,372016,319,,NGN,Finance,Low,12-11-2018,,-371697,-99.91,5,0,0
+610,"Bradtke, McClure and Runolfsson",Aba,19-08-2019,Completed,01-01-2021,249786,2785,Nancy Oluomachi,EURO,Operations,Medium,03-10-2019,456,-247001,-98.89,4,1,25
+611,"Oberbrunner, Harber and Hauck",Ila,22-10-2019,In Progress,,97837,9467,,NGN,IT,High,19-12-2019,,-88370,-90.32,3,1,33.33
+612,Conn Group,Onitsha,24-06-2019,Not Started,,430108,6279,Patric NwaezeUbong,KES,Marketing,Critical,03-09-2019,,-423829,-98.54,10,4,40
+613,"Roob, Macejkovic and Gislason",Head Office,16-11-2018,Completed,01-01-2021,56747,7874,Patric NwaezeUbong,GHS,HR,Low,08-02-2019,693,-48873,-86.12,9,4,44.44
+614,Collier-Hand,Ila,05-03-2020,Delayed,,136922,3868,Emmanuel Chude,KES,Finance,Medium,10-06-2020,,-133054,-97.18,8,5,62.5
+615,Leffler Inc,Head Office,08-06-2019,In Progress,,91872,7526,Nancy Oluomachi,KES,Operations,High,26-09-2019,,-84346,-91.81,7,5,71.43
+616,"Kirlin, Huels and Beer",Jos,22-12-2018,Delayed,,14286,5577,Temitope Angela,GHS,IT,Critical,24-04-2019,,-8709,-60.96,6,5,83.33
+617,Krajcik-Bins,Benin City,08-10-2019,Not Started,,268435,7004,,NGN,Marketing,Low,21-02-2020,,-261431,-97.39,5,5,100
+618,Gutkowski and Sons,Enugu,22-03-2020,In Progress,,67601,12315,Emeka Emeka,GHS,HR,Medium,18-08-2020,,-55286,-81.78,4,0,0
+619,"Barrows, Ernser and Marks",Port Harcourt,09-07-2018,In Progress,,320787,12391,Patric NwaezeUbong,GHS,Finance,High,18-12-2018,,-308396,-96.14,3,0,0
+620,"Wolff, Daugherty and Pagac",Ila,29-07-2020,In Progress,,201889,10575,Nancy Oluomachi,GHS,Operations,Critical,20-01-2021,,-191314,-94.76,10,2,20
+621,"Bogisich, Walsh and Auer",Lagos,19-10-2018,Completed,01-01-2021,321945,1322,Edmund,GHS,IT,Low,25-04-2019,617,-320623,-99.59,9,3,33.33
+622,Runolfsson and Sons,Kano,29-06-2019,Not Started,,37345,10262,,NGN,Marketing,Medium,16-01-2020,,-27083,-72.52,8,4,50
+623,"Bartell, Miller and Flatley",Jos,23-01-2019,Delayed,,436445,10934,Edmund,USD,HR,High,26-02-2019,,-425511,-97.49,7,4,57.14
+624,"Hudson, Hamill and Reynolds",Jos,12-07-2018,Delayed,,17406,11253,Nancy Oluomachi,USD,Finance,Critical,28-08-2018,,-6153,-35.35,6,4,66.67
+625,Goyette-Daugherty,Enugu,30-09-2018,In Progress,,265386,10578,Patric NwaezeUbong,NGN,Operations,Low,29-11-2018,,-254808,-96.01,5,4,80
+626,Crooks-Bernhard,Lagos,02-10-2020,In Progress,,4432,8477,,USD,IT,Medium,14-12-2020,,4045,91.27,4,4,100
+627,Hegmann Group,Abuja,27-04-2019,In Progress,,177845,757,Nancy Oluomachi,KES,Marketing,High,22-07-2019,,-177088,-99.57,3,0,0
+628,"Ryan, Rutherford and Dietrich",Port Harcourt,26-12-2019,In Progress,,175756,2506,Edmund,GHS,HR,Critical,03-04-2020,,-173250,-98.57,10,1,10
+629,Parisian and Sons,Enugu,14-08-2019,Completed,01-01-2021,-112065,1426,Emeka Emeka,USD,Finance,Low,04-12-2019,394,113491,-101.27,9,2,22.22
+630,"Bednar, Streich and Rowe",Enugu,25-11-2018,Completed,01-01-2021,284282,4322,Nancy Oluomachi,EURO,Operations,Medium,30-03-2019,643,-279960,-98.48,8,3,37.5
+631,Leuschke-Runolfsson,Benin City,02-05-2019,In Progress,,449705,4765,Emeka Emeka,GHS,IT,High,17-09-2019,,-444940,-98.94,7,3,42.86
+632,Conn Inc,Benin City,24-06-2019,Completed,01-01-2021,205847,3003,Nancy Oluomachi,GHS,Marketing,Critical,22-11-2019,406,-202844,-98.54,6,3,50
+633,Mann-Swift,Benin City,29-12-2019,Completed,01-01-2021,245464,9011,Emeka Emeka,NGN,HR,Low,10-06-2020,205,-236453,-96.33,5,3,60
+634,Huel LLC,Aba,01-02-2019,Not Started,,55025,9625,Emmanuel Chude,KES,Finance,Medium,28-07-2019,,-45400,-82.51,4,3,75
+635,Goodwin-Abbott,Jos,25-10-2019,Not Started,,134153,5015,,EURO,Operations,High,02-05-2020,,-129138,-96.26,3,3,100
+636,Lindgren Inc,Enugu,24-09-2018,In Progress,,238174,6138,Emeka Emeka,EURO,IT,Critical,15-04-2019,,-232036,-97.42,10,0,0
+637,Bogisich LLC,Jos,03-01-2020,Delayed,,179905,8647,,NGN,Marketing,Low,08-02-2020,,-171258,-95.19,9,1,11.11
+638,Gorczany Group,Ila,18-07-2019,Delayed,,226988,14445,Emeka Emeka,GHS,HR,Medium,05-09-2019,,-212543,-93.64,8,2,25
+639,Wintheiser LLC,Abuja,03-02-2020,Completed,01-01-2021,163110,12762,Edmund,NGN,Finance,High,05-04-2020,271,-150348,-92.18,7,2,28.57
+640,"Jacobs, Pouros and Jerde",Kano,24-05-2020,In Progress,,452366,11967,Emmanuel Chude,NGN,Operations,Critical,07-08-2020,,-440399,-97.35,6,3,50
+641,"Spencer, Donnelly and Marvin",Enugu,10-08-2019,In Progress,,81101,10989,Temitope Angela,EURO,IT,Low,06-11-2019,,-70112,-86.45,5,3,60
+642,"Pouros, Bauch and Satterfield",Port Harcourt,24-12-2019,Delayed,,4292,10849,Temitope Angela,GHS,Marketing,Medium,03-04-2020,,6557,152.77,4,3,75
+643,Metz-Gutkowski,Enugu,11-05-2018,Delayed,,41391,10258,Patric NwaezeUbong,USD,HR,High,02-09-2018,,-31133,-75.22,3,2,66.67
+644,Rosenbaum-Predovic,Jos,23-09-2018,Delayed,,260361,5344,,GHS,Finance,Critical,28-01-2019,,-255017,-97.95,10,9,90
+645,"Luettgen, Renner and Schinner",Benin City,20-10-2019,In Progress,,305588,3071,Temitope Angela,NGN,Operations,Low,08-03-2020,,-302517,-99,9,0,0
+646,Schamberger-VonRueden,Abuja,12-09-2019,Completed,01-01-2021,17799,8209,Patric NwaezeUbong,EURO,IT,Medium,12-02-2020,324,-9590,-53.88,8,1,12.5
+647,Shields-Reinger,Benin City,09-02-2020,Completed,01-01-2021,286280,9498,Patric NwaezeUbong,EURO,Marketing,High,24-07-2020,161,-276782,-96.68,7,2,28.57
+648,"Lebsack, Harvey and O'Keefe",Onitsha,18-01-2020,Not Started,,289439,13248,Nancy Oluomachi,USD,HR,Critical,15-07-2020,,-276191,-95.42,6,2,33.33
+649,"Reilly, Dickinson and Tromp",Kano,23-10-2018,Not Started,,242846,10699,Nancy Oluomachi,USD,Finance,Low,03-05-2019,,-232147,-95.59,5,2,40
+650,"Batz, Spinka and Strosin",Ila,10-10-2019,Completed,01-01-2021,418995,8755,,EURO,Operations,Medium,02-05-2020,244,-410240,-97.91,4,2,50
+651,Kunze LLC,Lagos,11-09-2018,Delayed,,288451,4452,Patric NwaezeUbong,GHS,IT,High,19-10-2018,,-283999,-98.46,3,2,66.67
+652,"Prohaska, Kihn and Ullrich",Aba,26-07-2020,Delayed,,78305,1131,,GHS,Marketing,Critical,15-09-2020,,-77174,-98.56,10,8,80
+653,Spencer-Ferry,Jos,22-05-2020,Delayed,,382089,4952,Temitope Angela,KES,HR,Low,25-07-2020,,-377137,-98.7,9,8,88.89
+654,"Jast, Schimmel and Daniel",Jos,18-06-2019,Delayed,,446949,5409,,USD,Finance,Medium,03-09-2019,,-441540,-98.79,8,8,100
+655,Lubowitz Inc,Enugu,15-08-2019,In Progress,,383085,9266,Emmanuel Chude,USD,Operations,High,13-11-2019,,-373819,-97.58,7,1,14.29
+656,Quitzon-Goldner,Lagos,27-08-2019,Completed,01-01-2021,7213,5869,Emmanuel Chude,GHS,IT,Critical,08-12-2019,390,-1344,-18.63,6,1,16.67
+657,Padberg-Braun,Aba,13-01-2020,Not Started,,139765,5928,,GHS,Marketing,Low,08-05-2020,,-133837,-95.76,5,2,40
+658,Jerde-Cruickshank,Ila,12-11-2018,In Progress,,370549,7160,Emmanuel Chude,NGN,HR,Medium,21-03-2019,,-363389,-98.07,4,2,50
+659,Kilback Group,Head Office,19-11-2018,Not Started,,243932,12486,Emeka Emeka,EURO,Finance,High,10-04-2019,,-231446,-94.88,3,2,66.67
+660,"Kautzer, Zieme and Breitenberg",Ila,09-02-2019,Completed,01-01-2021,366292,6178,Nancy Oluomachi,NGN,Operations,Critical,14-07-2019,537,-360114,-98.31,10,6,60
+661,"Green, Runolfsson and Lehner",Aba,23-05-2020,Delayed,,462880,2613,Patric NwaezeUbong,GHS,IT,Low,07-11-2020,,-460267,-99.44,9,7,77.78
+662,Altenwerth-Dicki,Onitsha,12-05-2019,In Progress,,21730,6700,Nancy Oluomachi,USD,Marketing,Medium,09-11-2019,,-15030,-69.17,8,7,87.5
+663,Gislason-Kub,Enugu,26-09-2018,Not Started,,418675,8752,Nancy Oluomachi,GHS,HR,High,08-04-2019,,-409923,-97.91,7,7,100
+664,"Johnston, Heidenreich and Leffler",Port Harcourt,04-04-2020,Delayed,,41270,3000,Temitope Angela,KES,Finance,Critical,28-10-2020,,-38270,-92.73,6,1,16.67
+665,Mayert-Berge,Head Office,09-10-2020,Not Started,,259234,2683,Patric NwaezeUbong,GHS,Operations,Low,18-11-2020,,-256551,-98.97,5,1,20
+666,Wuckert and Sons,Aba,11-08-2019,In Progress,,282654,6642,Nancy Oluomachi,USD,IT,Medium,03-10-2019,,-276012,-97.65,4,1,25
+667,"Wehner, Pfeffer and Goodwin",Head Office,18-07-2020,Not Started,,303040,14051,,KES,Marketing,High,22-09-2020,,-288989,-95.36,3,1,33.33
+668,"Gusikowski, Nikolaus and Hyatt",Benin City,14-03-2019,Delayed,,339700,10078,Nancy Oluomachi,EURO,HR,Critical,01-06-2019,,-329622,-97.03,10,5,50
+669,Rodriguez Group,Lagos,13-11-2019,In Progress,,129870,4766,Patric NwaezeUbong,USD,Finance,Low,13-02-2020,,-125104,-96.33,9,6,66.67
+670,"Armstrong, Herzog and Rohan",Jos,03-10-2020,In Progress,,292770,10767,Temitope Angela,EURO,Operations,Medium,16-01-2021,,-282003,-96.32,8,6,75
+671,Howe-Lubowitz,Head Office,22-02-2020,Delayed,,492112,5515,Patric NwaezeUbong,NGN,IT,High,19-06-2020,,-486597,-98.88,7,6,85.71
+672,"Vandervort, Emard and Ferry",Abuja,14-05-2020,Completed,01-01-2021,420306,1594,Patric NwaezeUbong,USD,Marketing,Critical,22-09-2020,101,-418712,-99.62,6,6,100
+673,Lubowitz LLC,Benin City,13-05-2020,Not Started,,224646,11341,Temitope Angela,KES,HR,Low,04-10-2020,,-213305,-94.95,5,0,0
+674,"Hickle, Olson and Feest",Jos,08-02-2019,In Progress,,23734,11084,Emeka Emeka,USD,Finance,Medium,15-07-2019,,-12650,-53.3,4,1,25
+675,"Sporer, Robel and Grant",Ila,07-08-2020,In Progress,,362235,10371,Temitope Angela,USD,Operations,High,24-01-2021,,-351864,-97.14,3,1,33.33
+676,Bernier-VonRueden,Port Harcourt,21-09-2018,Completed,01-01-2021,74743,2820,,NGN,IT,Critical,23-03-2019,650,-71923,-96.23,10,4,40
+677,"Rolfson, Tillman and Kessler",Lagos,11-11-2018,Delayed,,138596,4910,,KES,Marketing,Low,26-05-2019,,-133686,-96.46,9,5,55.56
+678,"Sporer, Crona and Jenkins",Head Office,07-09-2019,Delayed,,243907,7421,Emmanuel Chude,GHS,HR,Medium,03-04-2020,,-236486,-96.96,8,5,62.5
+679,Welch LLC,Aba,11-10-2019,Completed,01-01-2021,31092,14530,Nancy Oluomachi,EURO,Finance,High,22-11-2019,406,-16562,-53.27,7,5,71.43
+680,"Yundt, Beer and Welch",Onitsha,10-11-2019,Not Started,,369019,12067,Emeka Emeka,EURO,Operations,Critical,04-01-2020,,-356952,-96.73,6,5,83.33
+681,"Tromp, Lynch and Reilly",Jos,26-11-2018,Not Started,,18022,1904,,KES,IT,Low,02-02-2019,,-16118,-89.44,5,5,100
+682,Strosin and Sons,Jos,08-10-2019,Delayed,,203615,10666,,EURO,Marketing,Medium,28-12-2019,,-192949,-94.76,4,0,0
+683,"Gibson, Bernier and Fay",Jos,30-04-2019,In Progress,,141472,880,Emeka Emeka,USD,HR,High,02-08-2019,,-140592,-99.38,3,1,33.33
+684,Skiles and Sons,Lagos,08-06-2019,Completed,01-01-2021,332172,1013,,GHS,Finance,Critical,23-09-2019,466,-331159,-99.7,10,3,30
+685,"Cassin, Leffler and Larson",Ila,11-12-2019,Not Started,,53906,9269,,USD,Operations,Low,09-04-2020,,-44637,-82.81,9,4,44.44
+686,"Daniel, Reichel and Kulas",Enugu,18-10-2019,Delayed,,374542,994,Temitope Angela,GHS,IT,Medium,28-02-2020,,-373548,-99.73,8,4,50
+687,Stroman LLC,Abuja,11-05-2019,Completed,01-01-2021,433270,2561,,GHS,Marketing,High,04-10-2019,455,-430709,-99.41,7,4,57.14
+688,"Emard, Kilback and Cormier",Onitsha,28-02-2020,Not Started,,138502,5426,Nancy Oluomachi,NGN,HR,Critical,05-08-2020,,-133076,-96.08,6,4,66.67
+689,Kshlerin LLC,Kano,10-09-2018,Delayed,,71408,7703,Emmanuel Chude,USD,Finance,Low,01-03-2019,,-63705,-89.21,5,4,80
+690,"Kunze, Hettinger and Senger",Enugu,30-09-2018,In Progress,,87437,2881,Emmanuel Chude,NGN,Operations,Medium,03-04-2019,,-84556,-96.71,4,4,100
+691,Sawayn-Wilderman,Enugu,08-10-2019,In Progress,,279717,14059,Nancy Oluomachi,EURO,IT,High,23-04-2020,,-265658,-94.97,3,0,0
+692,"Ratke, Keeling and Gislason",Benin City,23-01-2020,In Progress,,343768,12478,Emeka Emeka,USD,Marketing,Critical,23-02-2020,,-331290,-96.37,10,2,20
+693,"Kunze, Bradtke and Oberbrunner",Jos,15-12-2018,Not Started,,414972,1482,Nancy Oluomachi,KES,HR,Low,28-01-2019,,-413490,-99.64,9,3,33.33
+694,"Bergstrom, Williamson and Smith",Aba,02-04-2019,Completed,01-01-2021,344342,3020,,USD,Finance,Medium,29-05-2019,583,-341322,-99.12,8,3,37.5
+695,"Gottlieb, Kautzer and Bogisich",Aba,22-01-2019,In Progress,,489290,14683,Edmund,KES,Operations,High,02-04-2019,,-474607,-97,7,4,57.14
+696,Christiansen-Homenick,Jos,28-05-2020,Completed,01-01-2021,126949,3383,,KES,IT,Critical,19-08-2020,135,-123566,-97.34,6,4,66.67
+697,"Jast, Beer and Reynolds",Port Harcourt,26-11-2019,Completed,01-01-2021,53776,551,Emmanuel Chude,USD,Marketing,Low,01-03-2020,306,-53225,-98.98,5,4,80
+698,Nolan and Sons,Head Office,28-11-2018,Delayed,,98753,13169,Emmanuel Chude,USD,HR,Medium,17-03-2019,,-85584,-86.66,4,3,75
+699,Altenwerth-Watsica,Ila,08-10-2019,Delayed,,477440,7224,Emmanuel Chude,KES,Finance,High,07-02-2020,,-470216,-98.49,3,3,100
+700,Greenholt-Davis,Kano,29-04-2019,Not Started,,229156,7320,Temitope Angela,KES,Operations,Critical,11-09-2019,,-221836,-96.81,10,0,0
+701,Gusikowski Group,Benin City,05-12-2019,In Progress,,86784,7070,Emeka Emeka,GHS,IT,Low,01-05-2020,,-79714,-91.85,9,1,11.11
+702,"Nienow, Rippin and Wilderman",Abuja,02-12-2020,Completed,01-01-2021,466701,12969,,NGN,Marketing,Medium,12-05-2021,-131,-453732,-97.22,8,2,25
+703,Cassin and Sons,Head Office,07-10-2020,In Progress,,499649,7198,Emmanuel Chude,USD,HR,High,30-03-2021,,-492451,-98.56,7,3,42.86
+704,"Runolfsson, Johnston and Graham",Benin City,19-08-2020,In Progress,,201089,11624,Nancy Oluomachi,EURO,Finance,Critical,22-02-2021,,-189465,-94.22,6,3,50
+705,"Nienow, Champlin and Ruecker",Port Harcourt,27-09-2020,Delayed,,225606,1608,Patric NwaezeUbong,EURO,Operations,Low,15-04-2021,,-223998,-99.29,5,3,60
+706,"Stanton, Rutherford and Wisoky",Ila,12-10-2019,Delayed,,313526,11789,Emmanuel Chude,USD,IT,Medium,14-11-2019,,-301737,-96.24,4,3,75
+707,Koss Group,Aba,30-11-2018,Delayed,,425960,3500,Patric NwaezeUbong,GHS,Marketing,High,15-01-2019,,-422460,-99.18,3,2,66.67
+708,Considine and Sons,Onitsha,10-02-2019,In Progress,,302592,5604,Temitope Angela,EURO,HR,Critical,10-04-2019,,-296988,-98.15,10,9,90
+709,"Bashirian, Bartoletti and Zieme",Onitsha,04-05-2020,Not Started,,466881,3568,,GHS,Finance,Low,15-07-2020,,-463313,-99.24,9,0,0
+710,Shanahan-Spinka,Head Office,08-05-2019,Not Started,,258943,12009,Nancy Oluomachi,USD,Operations,Medium,01-08-2019,,-246934,-95.36,8,1,12.5
+711,Hayes-Jerde,Port Harcourt,15-06-2020,Not Started,,181081,10989,Nancy Oluomachi,NGN,IT,High,21-09-2020,,-170092,-93.93,7,2,28.57
+712,Russel-Lockman,Abuja,05-02-2019,Delayed,,443487,1893,Edmund,GHS,Marketing,Critical,27-05-2019,,-441594,-99.57,6,2,33.33
+713,"Fritsch, Schowalter and Glover",Kano,23-09-2019,In Progress,,232457,12031,,EURO,HR,Low,25-01-2020,,-220426,-94.82,5,2,40
+714,"Lind, Ferry and Lowe",Enugu,03-03-2019,Not Started,,315392,7475,Patric NwaezeUbong,EURO,Finance,Medium,18-07-2019,,-307917,-97.63,4,2,50
+715,Veum-Reilly,Aba,23-06-2020,Completed,01-01-2021,67118,13439,Patric NwaezeUbong,GHS,Operations,High,20-11-2020,42,-53679,-79.98,3,2,66.67
+716,Jerde Inc,Kano,19-05-2019,Completed,01-01-2021,92365,4595,,EURO,IT,Critical,29-10-2019,430,-87770,-95.03,10,8,80
+717,"Vandervort, Halvorson and Bogan",Port Harcourt,24-01-2019,Not Started,,353412,5204,Emeka Emeka,USD,Marketing,Low,19-07-2019,,-348208,-98.53,9,8,88.89
+718,Nitzsche and Sons,Onitsha,18-05-2020,Not Started,,360314,3155,Nancy Oluomachi,EURO,HR,Medium,23-11-2020,,-357159,-99.12,8,0,0
+719,Deckow-Nikolaus,Onitsha,15-09-2019,In Progress,,233751,14054,,USD,Finance,High,04-04-2020,,-219697,-93.99,7,1,14.29
+720,"Daugherty, Armstrong and Mosciski",Ila,08-01-2020,In Progress,,311017,12867,Emeka Emeka,EURO,Operations,Critical,12-02-2020,,-298150,-95.86,6,2,33.33
+721,Nikolaus Group,Kano,11-01-2019,Not Started,,152942,11423,,NGN,IT,Low,28-02-2019,,-141519,-92.53,5,2,40
+722,Cruickshank and Sons,Benin City,29-08-2019,Completed,01-01-2021,16717,1643,Temitope Angela,GHS,Marketing,Medium,29-10-2019,430,-15074,-90.17,4,2,50
+723,Langosh-Smitham,Head Office,13-09-2019,Not Started,,99014,6111,,KES,HR,High,26-11-2019,,-92903,-93.83,3,2,66.67
+724,Langworth-Lowe,Enugu,15-12-2018,Delayed,,418182,3008,Edmund,USD,Finance,Critical,12-03-2019,,-415174,-99.28,10,7,70
+725,Emmerich-O'Hara,Ila,05-08-2019,Not Started,,483298,4987,,EURO,Operations,Low,13-11-2019,,-478311,-98.97,9,7,77.78
+726,Hudson LLC,Enugu,18-03-2019,Completed,01-01-2021,88172,9908,Nancy Oluomachi,GHS,IT,Medium,09-07-2019,542,-78264,-88.76,8,7,87.5
+727,Reilly Inc,Abuja,10-08-2019,Completed,01-01-2021,27001,4200,Patric NwaezeUbong,USD,Marketing,High,14-12-2019,384,-22801,-84.45,7,0,0
+728,"Carroll, Jones and Klein",Lagos,23-10-2018,In Progress,,276191,1755,Temitope Angela,USD,HR,Critical,11-03-2019,,-274436,-99.36,6,1,16.67
+729,Kuhn and Sons,Onitsha,06-10-2019,Not Started,,4865,8162,,GHS,Finance,Low,06-03-2020,,3297,67.77,5,1,20
+730,"Rutherford, Emmerich and Wiegand",Onitsha,23-02-2019,Completed,01-01-2021,301780,13732,Nancy Oluomachi,USD,Operations,Medium,07-08-2019,513,-288048,-95.45,4,1,25
+731,Oberbrunner-Jast,Enugu,28-10-2018,In Progress,,316440,2107,Emeka Emeka,GHS,IT,High,24-04-2019,,-314333,-99.33,3,1,33.33
+732,"Rice, Kertzmann and Harber",Lagos,18-01-2020,Not Started,,362037,2314,Patric NwaezeUbong,USD,Marketing,Critical,27-07-2020,,-359723,-99.36,10,6,60
+733,Kertzmann-Mohr,Port Harcourt,20-11-2018,In Progress,,373645,3607,,EURO,HR,Low,12-06-2019,,-370038,-99.03,9,6,66.67
+734,Jacobi LLC,Ila,17-01-2020,Completed,01-01-2021,282748,6647,Emeka Emeka,EURO,Finance,Medium,23-02-2020,313,-276101,-97.65,8,6,75
+735,"Ondricka, Champlin and Hilll",Lagos,13-11-2018,Completed,01-01-2021,201345,6368,Emeka Emeka,KES,Operations,High,02-01-2019,730,-194977,-96.84,7,6,85.71
+736,Toy-Howe,Enugu,24-02-2019,In Progress,,211389,5683,Temitope Angela,USD,IT,Critical,28-04-2019,,-205706,-97.31,6,0,0
+737,"Ziemann, Dickinson and Walter",Kano,20-12-2018,Completed,01-01-2021,148586,12495,Nancy Oluomachi,EURO,Marketing,Low,06-03-2019,667,-136091,-91.59,5,1,20
+738,"Stroman, Borer and Stark",Onitsha,21-06-2019,Delayed,,141120,9928,Nancy Oluomachi,EURO,HR,Medium,18-09-2019,,-131192,-92.96,4,1,25
+739,Schmeler-DuBuque,Onitsha,01-03-2019,Not Started,,119599,10580,Edmund,NGN,Finance,High,11-06-2019,,-109019,-91.15,3,1,33.33
+740,Bartoletti Inc,Abuja,08-12-2020,Completed,01-01-2021,16796,9877,Emmanuel Chude,GHS,Operations,Critical,02-04-2021,-91,-6919,-41.19,10,4,40
+741,Runte-Krajcik,Ila,09-03-2019,Delayed,,278200,10397,Emmanuel Chude,GHS,IT,Low,15-07-2019,,-267803,-96.26,9,5,55.56
+742,"Kuvalis, Ledner and Nader",Head Office,22-01-2020,Completed,01-01-2021,297418,9541,Temitope Angela,USD,Marketing,Medium,11-06-2020,204,-287877,-96.79,8,5,62.5
+743,Quigley-Walsh,Benin City,23-05-2019,Not Started,,490446,12743,,EURO,HR,High,24-10-2019,,-477703,-97.4,7,5,71.43
+744,Tillman-Witting,Port Harcourt,20-02-2019,Completed,01-01-2021,139749,10463,Emeka Emeka,KES,Finance,Critical,06-08-2019,514,-129286,-92.51,6,5,83.33
+745,McGlynn LLC,Jos,30-08-2020,Completed,01-01-2021,481777,13792,,KES,Operations,Low,26-02-2021,-56,-467985,-97.14,5,0,0
+746,Krajcik-Koch,Ila,17-05-2019,Completed,01-01-2021,461419,10571,,KES,IT,Medium,26-11-2019,402,-450848,-97.71,4,0,0
+747,Quigley-Schowalter,Ila,09-12-2018,Not Started,,206372,484,,USD,Marketing,High,03-07-2019,,-205888,-99.77,3,1,33.33
+748,Willms Group,Lagos,31-01-2020,Delayed,,474178,11788,Patric NwaezeUbong,USD,HR,Critical,10-03-2020,,-462390,-97.51,10,3,30
+749,Walsh-Purdy,Benin City,03-06-2020,In Progress,,128694,8620,Patric NwaezeUbong,NGN,Finance,Low,25-07-2020,,-120074,-93.3,9,4,44.44
+750,Adams-Hilpert,Lagos,11-12-2018,Not Started,,78684,8900,Temitope Angela,GHS,Operations,Medium,14-02-2019,,-69784,-88.69,8,4,50
+751,Schmidt-Schiller,Lagos,12-06-2018,Completed,01-01-2021,463593,12970,Emmanuel Chude,GHS,IT,High,29-08-2018,856,-450623,-97.2,7,5,71.43
+752,"Hintz, MacGyver and Auer",Benin City,05-01-2019,Delayed,,119407,14805,,KES,Marketing,Critical,06-04-2019,,-104602,-87.6,6,5,83.33
+753,Stoltenberg Group,Head Office,29-09-2020,Delayed,,494120,2361,Temitope Angela,KES,HR,Low,11-01-2021,,-491759,-99.52,5,4,80
+754,Leannon-Koch,Ila,11-07-2018,In Progress,,483548,5722,Edmund,USD,Finance,Medium,05-11-2018,,-477826,-98.82,4,4,100
+755,Ondricka and Sons,Aba,02-08-2020,In Progress,,458220,13886,Edmund,GHS,Operations,High,10-12-2020,,-444334,-96.97,3,0,0
+756,Pollich and Sons,Aba,02-08-2020,Not Started,,356282,10493,Emmanuel Chude,KES,IT,Critical,23-12-2020,,-345789,-97.05,10,2,20
+757,"Gottlieb, Lubowitz and Hoeger",Head Office,22-10-2019,Completed,01-01-2021,393070,8327,Temitope Angela,USD,Marketing,Low,26-03-2020,281,-384743,-97.88,9,3,33.33
+758,"Roob, Lueilwitz and Hodkiewicz",Enugu,06-07-2019,In Progress,,311652,14923,Edmund,KES,HR,Medium,22-12-2019,,-296729,-95.21,8,3,37.5
+759,Jenkins Inc,Abuja,15-03-2019,Delayed,,203208,12689,Temitope Angela,NGN,Finance,High,13-09-2019,,-190519,-93.76,7,4,57.14
+760,"Halvorson, Hayes and Will",Kano,12-05-2018,Delayed,,393584,6813,Emeka Emeka,KES,Operations,Critical,23-11-2018,,-386771,-98.27,6,4,66.67
+761,Cole and Sons,Kano,25-09-2018,Not Started,,348281,5983,Emmanuel Chude,NGN,IT,Low,21-04-2019,,-342298,-98.28,5,4,80
+762,Bauch-Lindgren,Benin City,03-08-2019,Not Started,,34002,12687,Emeka Emeka,KES,Marketing,Medium,13-09-2019,,-21315,-62.69,4,3,75
+763,"Botsford, Jacobson and Koss",Lagos,19-07-2019,Not Started,,184978,2077,Edmund,KES,HR,High,11-09-2019,,-182901,-98.88,3,3,100
+764,"Johnston, Kessler and Johnston",Aba,07-05-2020,Delayed,,7263,1769,,NGN,Finance,Critical,13-07-2020,,-5494,-75.64,10,1,10
+765,Bradtke-Morar,Kano,14-01-2020,Not Started,,132589,663,,EURO,Operations,Low,03-04-2020,,-131926,-99.5,9,2,22.22
+766,Kessler Group,Enugu,16-04-2020,Completed,01-01-2021,108264,11198,Emeka Emeka,NGN,IT,Medium,18-07-2020,167,-97066,-89.66,8,2,25
+767,Heaney LLC,Jos,25-08-2019,Delayed,,319445,14005,Emeka Emeka,NGN,Marketing,High,09-12-2019,,-305440,-95.62,7,3,42.86
+768,Schuster-Stark,Jos,31-05-2020,Not Started,,287894,2962,Emmanuel Chude,KES,HR,Critical,27-09-2020,,-284932,-98.97,6,3,50
+769,"Kertzmann, Rolfson and Anderson",Onitsha,04-10-2020,Delayed,,115153,10846,Emeka Emeka,EURO,Finance,Low,13-02-2021,,-104307,-90.58,5,3,60
+770,Sanford-Fritsch,Aba,13-09-2020,Delayed,,467699,12460,,KES,Operations,Medium,05-02-2021,,-455239,-97.34,4,3,75
+771,Maggio Inc,Onitsha,15-09-2020,Not Started,,29241,1737,Patric NwaezeUbong,NGN,IT,High,20-02-2021,,-27504,-94.06,3,3,100
+772,"Senger, Schiller and Jacobson",Ila,02-06-2020,Not Started,,454731,5609,Edmund,NGN,Marketing,Critical,20-11-2020,,-449122,-98.77,10,10,100
+773,"Johnson, Murray and Ebert",Aba,01-11-2020,Delayed,,235255,7853,Emeka Emeka,EURO,HR,Low,04-05-2021,,-227402,-96.66,9,1,11.11
+774,Schultz LLC,Onitsha,10-06-2018,Completed,01-01-2021,432300,13726,Emeka Emeka,USD,Finance,Medium,24-12-2018,739,-418574,-96.82,8,2,25
+775,Brakus-Romaguera,Port Harcourt,15-10-2019,Not Started,,191174,14587,Emeka Emeka,EURO,Operations,High,14-11-2019,,-176587,-92.37,7,2,28.57
+776,"Reilly, VonRueden and Glover",Port Harcourt,30-11-2018,In Progress,,29128,12716,Emeka Emeka,KES,IT,Critical,12-01-2019,,-16412,-56.34,6,2,33.33
+777,"Lemke, Ortiz and Kuhn",Lagos,09-06-2020,Delayed,,420742,8339,Nancy Oluomachi,GHS,Marketing,Low,04-08-2020,,-412403,-98.02,5,3,60
+778,"Hickle, Murray and Macejkovic",Kano,23-02-2019,Delayed,,122915,9101,,KES,HR,Medium,03-05-2019,,-113814,-92.6,4,3,75
+779,Stark Group,Kano,13-01-2019,Not Started,,438008,2246,Edmund,KES,Finance,High,05-04-2019,,-435762,-99.49,3,2,66.67
+780,Marks and Sons,Benin City,18-12-2018,Not Started,,43076,4786,Edmund,KES,Operations,Critical,23-03-2019,,-38290,-88.89,10,8,80
+781,Koch-Kunze,Lagos,28-01-2020,Delayed,,354484,11382,Nancy Oluomachi,USD,IT,Low,15-05-2020,,-343102,-96.79,9,9,100
+782,"Lind, Schuppe and Goodwin",Head Office,07-01-2020,Not Started,,63667,11058,Emeka Emeka,USD,Marketing,Medium,07-05-2020,,-52609,-82.63,8,1,12.5
+783,"Gerhold, Bauch and Harvey",Lagos,23-09-2018,In Progress,,478198,8772,Patric NwaezeUbong,NGN,HR,High,04-02-2019,,-469426,-98.17,7,1,14.29
+784,"Green, Romaguera and Armstrong",Aba,15-09-2020,In Progress,,383829,2765,Emeka Emeka,KES,Finance,Critical,09-02-2021,,-381064,-99.28,6,2,33.33
+785,Krajcik-Kulas,Lagos,30-09-2018,Completed,01-01-2021,120349,13644,Temitope Angela,EURO,Operations,Low,09-03-2019,664,-106705,-88.66,5,2,40
+786,"Kub, Metz and Spinka",Jos,23-09-2020,Delayed,,324549,7179,Nancy Oluomachi,EURO,IT,Medium,15-03-2021,,-317370,-97.79,4,2,50
+787,"Satterfield, White and Schumm",Port Harcourt,28-07-2020,Not Started,,14197,3946,Emmanuel Chude,GHS,Marketing,High,30-01-2021,,-10251,-72.21,3,2,66.67
+788,Jones and Sons,Kano,24-02-2020,Delayed,,431875,7948,Edmund,NGN,HR,Critical,10-09-2020,,-423927,-98.16,10,7,70
+789,Dickens Group,Abuja,09-05-2019,In Progress,,265681,11288,Nancy Oluomachi,USD,Finance,Low,10-06-2019,,-254393,-95.75,9,8,88.89
+790,Bergstrom LLC,Onitsha,29-12-2019,Delayed,,146556,12999,Edmund,KES,Operations,Medium,12-02-2020,,-133557,-91.13,8,8,100
+791,"Erdman, Hessel and Miller",Enugu,09-11-2018,Not Started,,172711,9847,,KES,IT,High,06-01-2019,,-162864,-94.3,7,0,0
+792,Hills-Hane,Benin City,27-01-2020,Delayed,,252756,12024,Nancy Oluomachi,NGN,Marketing,Critical,07-04-2020,,-240732,-95.24,6,1,16.67
+793,Gislason-Abshire,Aba,26-07-2019,Not Started,,392901,1298,Temitope Angela,EURO,HR,Low,18-10-2019,,-391603,-99.67,5,1,20
+794,Hickle-Abernathy,Benin City,20-07-2019,Delayed,,133167,3391,Temitope Angela,GHS,Finance,Medium,25-10-2019,,-129776,-97.45,4,2,50
+795,Wehner-Bergnaum,Head Office,27-04-2020,Not Started,,221507,7570,Patric NwaezeUbong,EURO,Operations,High,15-08-2020,,-213937,-96.58,3,2,66.67
+796,"Boyle, Kertzmann and Emmerich",Jos,31-10-2018,Not Started,,183690,4815,Temitope Angela,NGN,IT,Critical,03-03-2019,,-178875,-97.38,10,6,60
+797,Mraz-Goyette,Aba,12-09-2018,Delayed,,266000,3050,,USD,Marketing,Low,26-01-2019,,-262950,-98.85,9,6,66.67
+798,Huels and Sons,Enugu,18-03-2020,Not Started,,101965,13279,Edmund,KES,HR,Medium,14-08-2020,,-88686,-86.98,8,7,87.5
+799,"Powlowski, Bogisich and D'Amore",Enugu,06-08-2019,Delayed,,326216,6613,Nancy Oluomachi,KES,Finance,High,15-01-2020,,-319603,-97.97,7,7,100
+800,Doyle Inc,Lagos,21-04-2019,Completed,01-01-2021,379718,7679,Patric NwaezeUbong,KES,Operations,Critical,13-10-2019,446,-372039,-97.98,6,0,0
+801,Nader and Sons,Head Office,09-07-2019,In Progress,,55471,4637,Patric NwaezeUbong,GHS,IT,Low,13-01-2020,,-50834,-91.64,5,1,20
+802,"Nitzsche, Medhurst and Wisoky",Benin City,07-03-2019,Completed,01-01-2021,434244,12378,Emeka Emeka,NGN,Marketing,Medium,24-09-2019,465,-421866,-97.15,4,1,25
+803,"Littel, Bergstrom and Buckridge",Lagos,18-12-2018,Completed,01-01-2021,133108,5607,,KES,HR,High,21-01-2019,711,-127501,-95.79,3,1,33.33
+804,Armstrong-Kertzmann,Jos,24-05-2019,In Progress,,34686,9025,,NGN,Finance,Critical,10-07-2019,,-25661,-73.98,10,5,50
+805,Hoeger-Bernhard,Aba,11-10-2018,Completed,01-01-2021,477687,14650,Patric NwaezeUbong,EURO,Operations,Low,10-12-2018,753,-463037,-96.93,9,5,55.56
+806,"Krajcik, Schaefer and Kuhn",Port Harcourt,10-06-2019,Delayed,,268251,4493,Nancy Oluomachi,NGN,IT,Medium,22-08-2019,,-263758,-98.33,8,6,75
+807,Dare LLC,Onitsha,04-10-2020,Not Started,,334217,3675,Emmanuel Chude,GHS,Marketing,High,29-12-2020,,-330542,-98.9,7,6,85.71
+808,Gerhold-Herman,Kano,15-08-2019,Completed,01-01-2021,412328,14654,,GHS,HR,Critical,22-11-2019,406,-397674,-96.45,6,6,100
+809,"Friesen, Torphy and Kemmer",Benin City,19-06-2020,In Progress,,389472,10301,Nancy Oluomachi,USD,Finance,Low,09-10-2020,,-379171,-97.36,5,0,0
+810,"Simonis, Predovic and Fadel",Benin City,22-10-2019,In Progress,,491108,4709,,NGN,Operations,Medium,24-02-2020,,-486399,-99.04,4,1,25
+811,Senger Inc,Benin City,26-08-2019,Not Started,,23661,11087,Emeka Emeka,GHS,IT,High,11-01-2020,,-12574,-53.14,3,1,33.33
+812,"Miller, Ward and Hilpert",Kano,25-01-2020,In Progress,,221331,14453,Emeka Emeka,USD,Marketing,Critical,24-06-2020,,-206878,-93.47,10,4,40
+813,"Larkin, Botsford and Marvin",Jos,30-12-2019,Delayed,,64298,13416,Emeka Emeka,GHS,HR,Low,11-06-2020,,-50882,-79.13,9,4,44.44
+814,"O'Kon, Tremblay and Zieme",Ila,16-06-2019,Not Started,,58390,6819,Nancy Oluomachi,NGN,Finance,Medium,10-12-2019,,-51571,-88.32,8,5,62.5
+815,Metz and Sons,Aba,05-09-2019,Not Started,,374033,8689,Temitope Angela,USD,Operations,High,13-03-2020,,-365344,-97.68,7,5,71.43
+816,"Bahringer, White and Fritsch",Aba,16-08-2019,In Progress,,26822,5238,Emmanuel Chude,USD,IT,Critical,06-03-2020,,-21584,-80.47,6,5,83.33
+817,Greenholt Inc,Kano,16-04-2019,Not Started,,154869,8230,Temitope Angela,GHS,Marketing,Low,22-05-2019,,-146639,-94.69,5,5,100
+818,Olson-Leannon,Jos,21-02-2020,Not Started,,389294,11211,Temitope Angela,KES,HR,Medium,10-04-2020,,-378083,-97.12,4,0,0
+819,"Cole, Reinger and Cummings",Onitsha,17-07-2020,Not Started,,55833,13017,Nancy Oluomachi,KES,Finance,High,17-09-2020,,-42816,-76.69,3,0,0
+820,Koelpin-Gleichner,Jos,19-12-2018,Not Started,,306089,9744,Edmund,GHS,Operations,Critical,04-03-2019,,-296345,-96.82,10,2,20
+821,Oberbrunner Inc,Aba,06-05-2020,In Progress,,87581,7218,Patric NwaezeUbong,EURO,IT,Low,02-08-2020,,-80363,-91.76,9,3,33.33
+822,"Schulist, Deckow and Bartoletti",Port Harcourt,25-01-2020,In Progress,,132308,7650,Edmund,GHS,Marketing,Medium,05-05-2020,,-124658,-94.22,8,4,50
+823,Pollich Inc,Lagos,21-09-2019,Delayed,,371539,6037,,KES,HR,High,13-01-2020,,-365502,-98.38,7,4,57.14
+824,Kulas and Sons,Kano,05-02-2019,Delayed,,287957,1810,Emeka Emeka,GHS,Finance,Critical,12-06-2019,,-286147,-99.37,6,4,66.67
+825,"Walter, Dach and Streich",Onitsha,18-07-2019,Completed,01-01-2021,270522,14457,Patric NwaezeUbong,NGN,Operations,Low,05-12-2019,393,-256065,-94.66,5,4,80
+826,"Franecki, Schumm and Mitchell",Ila,06-06-2020,Completed,01-01-2021,15628,7224,Nancy Oluomachi,NGN,IT,Medium,06-11-2020,56,-8404,-53.78,4,4,100
+827,Lehner-Lebsack,Aba,05-05-2019,Delayed,,143079,14933,Nancy Oluomachi,USD,Marketing,High,18-10-2019,,-128146,-89.56,3,0,0
+828,Cummerata Inc,Enugu,27-06-2020,Completed,01-01-2021,358057,12006,Emeka Emeka,GHS,HR,Critical,23-12-2020,9,-346051,-96.65,10,1,10
+829,Cummings and Sons,Onitsha,19-05-2020,In Progress,,268100,10266,,USD,Finance,Low,27-11-2020,,-257834,-96.17,9,2,22.22
+830,Marks-Mraz,Lagos,11-10-2019,Not Started,,122494,14578,,GHS,Operations,Medium,03-05-2020,,-107916,-88.1,8,3,37.5
+831,"Macejkovic, Shields and Donnelly",Lagos,10-01-2018,In Progress,,431938,13165,Edmund,GHS,IT,High,17-02-2018,,-418773,-96.95,7,3,42.86
+832,Schaefer Group,Head Office,11-06-2019,Completed,01-01-2021,435810,1439,Emmanuel Chude,GHS,Marketing,Critical,01-08-2019,519,-434371,-99.67,6,3,50
+833,Witting and Sons,Jos,18-12-2018,Completed,01-01-2021,449986,12158,Emeka Emeka,GHS,HR,Low,20-02-2019,681,-437828,-97.3,5,3,60
+834,"Thompson, Heathcote and Kemmer",Enugu,10-03-2018,Completed,01-01-2021,327584,13989,Emeka Emeka,USD,Finance,Medium,26-05-2018,951,-313595,-95.73,4,3,75
+835,Hodkiewicz LLC,Jos,23-05-2019,Completed,01-01-2021,18195,485,Nancy Oluomachi,GHS,Operations,High,21-08-2019,499,-17710,-97.33,3,3,100
+836,Veum-Sanford,Onitsha,23-07-2019,In Progress,,130527,11527,Emmanuel Chude,GHS,IT,Critical,03-11-2019,,-119000,-91.17,10,0,0
+837,"Towne, Corwin and Roberts",Head Office,18-06-2020,Not Started,,368968,11731,Temitope Angela,KES,Marketing,Low,12-10-2020,,-357237,-96.82,9,1,11.11
+838,Wehner-Hermiston,Ila,04-05-2019,In Progress,,149069,9772,Emmanuel Chude,NGN,HR,Medium,10-09-2019,,-139297,-93.44,8,2,25
+839,Lynch-Gusikowski,Lagos,08-12-2020,Completed,09-12-2020,274555,2750,Nancy Oluomachi,EURO,Finance,High,29-04-2021,-141,-271805,-99,7,2,28.57
+840,Aufderhar-Harris,Abuja,09-10-2019,Delayed,,498161,1702,Nancy Oluomachi,EURO,Operations,Critical,12-03-2020,,-496459,-99.66,6,3,50
+841,Keebler-Feeney,Jos,09-05-2019,In Progress,,186450,8919,,GHS,IT,Low,24-10-2019,,-177531,-95.22,5,3,60
+842,O'Kon-Keebler,Benin City,19-07-2019,In Progress,,402360,4323,Emmanuel Chude,GHS,Marketing,Medium,16-01-2020,,-398037,-98.93,4,3,75
+843,Cassin-Bechtelar,Kano,08-04-2019,Completed,01-01-2021,418005,2433,Nancy Oluomachi,EURO,HR,High,19-10-2019,440,-415572,-99.42,3,2,66.67
+844,"Weissnat, Tromp and Crooks",Benin City,18-09-2018,In Progress,,11875,8397,Emmanuel Chude,NGN,Finance,Critical,13-04-2019,,-3478,-29.29,10,9,90
+845,"Ferry, Murazik and Borer",Lagos,24-07-2019,Delayed,,4358,5834,Edmund,NGN,Operations,Low,02-09-2019,,1476,33.87,9,0,0
+846,"Will, Johns and Feeney",Benin City,04-01-2019,Not Started,,232006,3509,,NGN,IT,Medium,26-02-2019,,-228497,-98.49,8,1,12.5
+847,Reichel and Sons,Jos,27-02-2019,Delayed,,189368,12102,Emeka Emeka,USD,Marketing,High,04-05-2019,,-177266,-93.61,7,2,28.57
+848,Mayer Inc,Head Office,27-11-2018,Delayed,,168613,13962,Patric NwaezeUbong,USD,HR,Critical,14-02-2019,,-154651,-91.72,6,2,33.33
+849,Hermann Group,Enugu,18-03-2020,In Progress,,47409,6096,,KES,Finance,Low,18-06-2020,,-41313,-87.14,5,2,40
+850,"Kshlerin, O'Hara and Tromp",Abuja,03-01-2020,In Progress,,194689,4406,Edmund,NGN,Operations,Medium,17-04-2020,,-190283,-97.74,4,2,50
+851,Braun and Sons,Abuja,20-09-2018,Not Started,,122026,9290,Emmanuel Chude,NGN,IT,High,16-01-2019,,-112736,-92.39,3,2,66.67
+852,"Johns, Morar and Thompson",Abuja,26-07-2019,Not Started,,39556,5080,Emmanuel Chude,USD,Marketing,Critical,04-12-2019,,-34476,-87.16,10,8,80
+853,Gusikowski-Ziemann,Kano,17-05-2020,In Progress,,444038,14988,Emeka Emeka,USD,HR,Low,08-10-2020,,-429050,-96.62,9,8,88.89
+854,Vandervort LLC,Kano,17-02-2020,In Progress,,96352,1790,Emeka Emeka,NGN,Finance,Medium,23-07-2020,,-94562,-98.14,8,8,100
+855,Jakubowski Group,Ila,14-03-2019,In Progress,,318466,7379,Emeka Emeka,USD,Operations,High,31-08-2019,,-311087,-97.68,7,1,14.29
+856,Collier Group,Lagos,18-09-2020,Not Started,,136019,2614,,USD,IT,Critical,20-03-2021,,-133405,-98.08,6,1,16.67
+857,Kohler-Yundt,Onitsha,14-05-2020,In Progress,,458685,6990,Edmund,EURO,Marketing,Low,26-11-2020,,-451695,-98.48,5,2,40
+858,Fay-Abernathy,Lagos,04-01-2019,Completed,09-12-2019,229053,12147,,KES,HR,Medium,01-08-2019,130,-216906,-94.7,4,2,50
+859,"Torphy, Prohaska and Little",Jos,10-05-2018,Not Started,,468301,4771,Nancy Oluomachi,GHS,Finance,High,21-06-2018,,-463530,-98.98,3,2,66.67
+860,Gaylord LLC,Head Office,20-12-2018,In Progress,,184506,3753,,USD,Operations,Critical,13-02-2019,,-180753,-97.97,10,6,60
+861,Wintheiser-Morissette,Kano,25-05-2020,Completed,09-12-2020,177136,3782,Emmanuel Chude,KES,IT,Low,01-08-2020,130,-173354,-97.86,9,7,77.78
+862,Windler and Sons,Aba,28-09-2020,Completed,09-12-2021,355817,5175,Temitope Angela,EURO,Marketing,Medium,18-12-2020,356,-350642,-98.55,8,7,87.5
+863,"Haley, Yost and Douglas",Enugu,31-08-2020,In Progress,,398258,14284,Temitope Angela,EURO,HR,High,03-12-2020,,-383974,-96.41,7,7,100
+864,"Kris, Hane and DuBuque",Enugu,17-10-2019,In Progress,,380652,13274,Temitope Angela,USD,Finance,Critical,01-02-2020,,-367378,-96.51,6,1,16.67
+865,"Price, Halvorson and Kub",Abuja,09-04-2019,In Progress,,320255,11625,Nancy Oluomachi,GHS,Operations,Low,07-08-2019,,-308630,-96.37,5,1,20
+866,Douglas Group,Head Office,05-01-2020,Delayed,,222870,1165,Patric NwaezeUbong,NGN,IT,Medium,17-05-2020,,-221705,-99.48,4,1,25
+867,Gaylord and Sons,Onitsha,12-02-2019,Delayed,,373688,2213,,NGN,Marketing,High,08-07-2019,,-371475,-99.41,3,1,33.33
+868,Kutch and Sons,Port Harcourt,28-05-2019,In Progress,,290178,6098,Nancy Oluomachi,GHS,HR,Critical,03-11-2019,,-284080,-97.9,10,5,50
+869,Reynolds and Sons,Abuja,02-04-2020,In Progress,,188257,4585,Nancy Oluomachi,KES,Finance,Low,21-09-2020,,-183672,-97.56,9,6,66.67
+870,Koepp-Wisoky,Benin City,12-10-2019,In Progress,,281499,5544,,EURO,Operations,Medium,14-04-2020,,-275955,-98.03,8,6,75
+871,McGlynn LLC,Jos,11-09-2018,Not Started,,374914,12560,Emmanuel Chude,GHS,IT,High,28-03-2019,,-362354,-96.65,7,6,85.71
+872,Bogisich-Johnston,Benin City,01-08-2020,Not Started,,218783,14242,Patric NwaezeUbong,KES,Marketing,Critical,01-09-2020,,-204541,-93.49,6,6,100
+873,"Spinka, Connelly and Dicki",Aba,26-06-2020,Not Started,,457967,7824,,EURO,HR,Low,09-08-2020,,-450143,-98.29,5,0,0
+874,Littel LLC,Onitsha,23-06-2020,Delayed,,59157,6167,,EURO,Finance,Medium,19-08-2020,,-52990,-89.58,4,1,25
+875,Borer Inc,Kano,20-12-2019,Completed,24-12-2019,467834,12894,Edmund,GHS,Operations,High,28-02-2020,-66,-454940,-97.24,3,1,33.33
+876,Keebler Group,Enugu,28-12-2018,Completed,09-12-2019,183493,13006,,KES,IT,Critical,21-03-2019,263,-170487,-92.91,10,4,40
+877,Douglas-Koss,Onitsha,10-05-2018,Completed,01-01-2021,27306,7011,Nancy Oluomachi,KES,Marketing,Low,14-08-2018,871,-20295,-74.32,9,5,55.56
+878,Beer Group,Kano,29-02-2020,In Progress,,171653,2904,Emmanuel Chude,KES,HR,Medium,17-06-2020,,-168749,-98.31,8,5,62.5
+879,Streich-Larson,Benin City,20-05-2020,In Progress,,458812,8092,Nancy Oluomachi,USD,Finance,High,19-09-2020,,-450720,-98.24,7,5,71.43
+880,"Bins, Schumm and Runolfsson",Jos,01-04-2019,Delayed,,12167,903,Emeka Emeka,GHS,Operations,Critical,14-08-2019,,-11264,-92.58,6,5,83.33
+881,"Shanahan, Keebler and Schmitt",Onitsha,14-01-2020,Completed,03-12-2021,181758,1911,Nancy Oluomachi,GHS,IT,Low,10-06-2020,541,-179847,-98.95,5,5,100
+882,"Boyer, Runte and Hilpert",Aba,09-03-2018,Completed,09-12-2019,111931,3297,,USD,Marketing,Medium,17-08-2018,479,-108634,-97.05,4,0,0
+883,Stehr LLC,Abuja,07-07-2020,Delayed,,360044,3804,Emmanuel Chude,KES,HR,High,28-12-2020,,-356240,-98.94,3,1,33.33
+884,"Hickle, Rempel and Labadie",Kano,06-08-2020,Completed,01-01-2021,341163,8604,Temitope Angela,KES,Finance,Critical,09-02-2021,-39,-332559,-97.48,10,3,30
+885,Schuppe-Weimann,Kano,04-09-2020,Delayed,,361034,11604,,EURO,Operations,Low,23-03-2021,,-349430,-96.79,9,4,44.44
+886,Huel Inc,Jos,02-02-2019,Not Started,,335886,13068,Patric NwaezeUbong,USD,IT,Medium,07-03-2019,,-322818,-96.11,8,4,50
+887,"Greenholt, Tillman and Harber",Lagos,09-11-2020,In Progress,,318254,13539,Emmanuel Chude,EURO,Marketing,High,25-12-2020,,-304715,-95.75,7,4,57.14
+888,Ledner Group,Enugu,09-01-2020,Completed,09-12-2020,295317,9962,Edmund,KES,HR,Critical,08-03-2020,276,-285355,-96.63,6,4,66.67
+889,Herzog-Oberbrunner,Benin City,01-11-2019,Delayed,,58546,6014,Emeka Emeka,USD,Finance,Low,12-01-2020,,-52532,-89.73,5,4,80
+890,Brown LLC,Lagos,21-08-2020,In Progress,,476127,5156,,EURO,Operations,Medium,14-11-2020,,-470971,-98.92,4,4,100
+891,Swaniawski-Dicki,Ila,03-04-2020,Not Started,,289018,14643,Edmund,USD,IT,High,10-07-2020,,-274375,-94.93,3,0,0
+892,"Gaylord, Cassin and Thiel",Enugu,19-01-2020,Not Started,,262242,4316,Temitope Angela,GHS,Marketing,Critical,09-05-2020,,-257926,-98.35,10,2,20
+893,Roberts-Rogahn,Abuja,30-05-2020,Not Started,,376571,12618,Emeka Emeka,NGN,HR,Low,01-10-2020,,-363953,-96.65,9,3,33.33
+894,"Langosh, Hamill and Goodwin",Benin City,10-08-2018,Delayed,,226068,11105,Patric NwaezeUbong,GHS,Finance,Medium,25-12-2018,,-214963,-95.09,8,3,37.5
+895,"Nikolaus, Goyette and Bashirian",Jos,08-12-2020,Delayed,,305962,9580,,GHS,Operations,High,07-05-2021,,-296382,-96.87,7,4,57.14
+896,Bayer LLC,Ila,25-03-2019,Completed,09-12-2019,300501,7390,Patric NwaezeUbong,USD,IT,Critical,04-09-2019,96,-293111,-97.54,6,4,66.67
+897,Pfeffer-Tremblay,Abuja,17-02-2020,In Progress,,301475,3771,Temitope Angela,USD,Marketing,Low,11-08-2020,,-297704,-98.75,5,4,80
+898,"Ratke, Wunsch and Miller",Onitsha,04-05-2020,Delayed,,182627,3640,Patric NwaezeUbong,KES,HR,Medium,09-11-2020,,-178987,-98.01,4,3,75
+899,"Kessler, Crooks and Quitzon",Aba,05-02-2019,Not Started,,160393,10933,Nancy Oluomachi,KES,Finance,High,26-08-2019,,-149460,-93.18,3,3,100
+900,"Kling, Gulgowski and Kertzmann",Head Office,12-05-2019,Delayed,,230112,3765,Patric NwaezeUbong,NGN,Operations,Critical,16-06-2019,,-226347,-98.36,10,0,0
+901,Metz and Sons,Ila,13-07-2020,Completed,09-12-2020,317469,1062,Emmanuel Chude,KES,IT,Low,30-08-2020,101,-316407,-99.67,9,1,11.11
+902,Crooks-Mayert,Onitsha,20-07-2019,Delayed,,334135,3044,Emeka Emeka,USD,Marketing,Medium,19-09-2019,,-331091,-99.09,8,2,25
+903,Labadie and Sons,Kano,25-12-2019,Completed,09-12-2020,183794,6905,,KES,HR,High,08-03-2020,276,-176889,-96.24,7,3,42.86
+904,Willms-Breitenberg,Jos,06-05-2020,Delayed,,235370,5084,Emmanuel Chude,USD,Finance,Critical,01-08-2020,,-230286,-97.84,6,3,50
+905,"Nitzsche, Mann and Emard",Ila,06-04-2020,Completed,02-02-2021,280246,6049,Edmund,EURO,Operations,Low,15-07-2020,202,-274197,-97.84,5,3,60
+906,Johns and Sons,Port Harcourt,26-08-2019,In Progress,,444796,14630,Nancy Oluomachi,GHS,IT,Medium,17-12-2019,,-430166,-96.71,4,3,75
+907,Fay-Conn,Aba,20-12-2019,In Progress,,327884,6324,Emeka Emeka,EURO,Marketing,High,24-04-2020,,-321560,-98.07,3,2,66.67
+908,Yost Inc,Onitsha,21-06-2019,In Progress,,285925,10237,Edmund,KES,HR,Critical,07-11-2019,,-275688,-96.42,10,9,90
+909,Kozey and Sons,Lagos,04-11-2020,Delayed,,324039,6135,,USD,Finance,Low,05-04-2021,,-317904,-98.11,9,0,0
+910,Kohler LLC,Abuja,21-12-2019,In Progress,,109139,14269,Nancy Oluomachi,USD,Operations,Medium,03-06-2020,,-94870,-86.93,8,1,12.5
+911,"Grant, Jacobi and Cummerata",Enugu,03-08-2020,Not Started,,284905,7243,Edmund,EURO,IT,High,28-01-2021,,-277662,-97.46,7,2,28.57
+912,Miller-Hane,Abuja,19-01-2020,In Progress,,210078,8962,Edmund,NGN,Marketing,Critical,28-07-2020,,-201116,-95.73,6,2,33.33
+913,O'Kon-Okuneva,Onitsha,08-09-2019,Delayed,,437191,7563,Patric NwaezeUbong,KES,HR,Low,30-03-2020,,-429628,-98.27,5,2,40
+914,Weber-Corkery,Ila,19-02-2019,Completed,09-12-2019,263818,3097,Temitope Angela,KES,Finance,Medium,28-03-2019,256,-260721,-98.83,4,2,50
+915,"Ritchie, Wiegand and Parker",Onitsha,26-02-2019,In Progress,,186041,1319,Patric NwaezeUbong,GHS,Operations,High,17-04-2019,,-184722,-99.29,3,2,66.67
+916,Murphy-Kirlin,Enugu,23-03-2019,In Progress,,251787,9627,Nancy Oluomachi,USD,IT,Critical,25-05-2019,,-242160,-96.18,10,8,80
+917,"Fay, Stracke and Mante",Abuja,08-07-2020,In Progress,,193287,4926,Emmanuel Chude,GHS,Marketing,Low,22-09-2020,,-188361,-97.45,9,8,88.89
+918,Sipes-Spinka,Jos,30-03-2020,In Progress,,345776,9323,Emmanuel Chude,KES,HR,Medium,27-06-2020,,-336453,-97.3,8,0,0
+919,Rodriguez-Strosin,Kano,15-06-2019,In Progress,,71764,2341,Emmanuel Chude,KES,Finance,High,25-09-2019,,-69423,-96.74,7,1,14.29
+920,"Kilback, Ratke and Koepp",Onitsha,26-08-2019,Delayed,,193897,6254,Emeka Emeka,NGN,Operations,Critical,19-12-2019,,-187643,-96.77,6,2,33.33
+921,Muller and Sons,Abuja,18-04-2019,Completed,01-01-2021,309601,13812,Temitope Angela,NGN,IT,Low,24-08-2019,496,-295789,-95.54,5,2,40
+922,Parker and Sons,Kano,20-01-2019,In Progress,,67037,7630,Temitope Angela,NGN,Marketing,Medium,10-06-2019,,-59407,-88.62,4,2,50
+923,Ullrich-Jerde,Head Office,12-07-2018,Not Started,,237111,5661,Emeka Emeka,EURO,HR,High,13-12-2018,,-231450,-97.61,3,2,66.67
+924,Abshire Group,Lagos,12-11-2019,Delayed,,456464,10088,,NGN,Finance,Critical,27-04-2020,,-446376,-97.79,10,7,70
+925,White-Ernser,Jos,25-02-2019,Completed,03-12-2019,248826,12472,Temitope Angela,NGN,Operations,Low,24-08-2019,101,-236354,-94.99,9,7,77.78
+926,"Abbott, Harvey and Farrell",Benin City,21-05-2020,Not Started,,80982,2410,Temitope Angela,EURO,IT,Medium,30-11-2020,,-78572,-97.02,8,7,87.5
+927,Berge-Zboncak,Lagos,21-07-2020,In Progress,,163128,9554,Emmanuel Chude,USD,Marketing,High,12-02-2021,,-153574,-94.14,7,0,0
+928,Dicki Group,Aba,06-09-2019,Completed,09-01-2029,102274,4876,,NGN,HR,Critical,15-10-2019,3374,-97398,-95.23,6,1,16.67
+929,Littel-Nitzsche,Jos,05-03-2020,Completed,06-12-2020,-19218,11479,Emmanuel Chude,EURO,Finance,Low,26-04-2020,224,30697,-159.73,5,1,20
+930,Bradtke-Herzog,Port Harcourt,19-05-2019,Not Started,,448263,14095,Emmanuel Chude,GHS,Operations,Medium,23-07-2019,,-434168,-96.86,4,1,25
+931,"Cassin, Koepp and Dietrich",Ila,16-08-2020,In Progress,,272644,3629,Temitope Angela,GHS,IT,High,02-11-2020,,-269015,-98.67,3,1,33.33
+932,Schinner-Turner,Abuja,04-08-2020,In Progress,,174678,14798,Emeka Emeka,GHS,Marketing,Critical,03-11-2020,,-159880,-91.53,10,6,60
+933,Carroll LLC,Jos,22-07-2019,Delayed,,208535,3535,Nancy Oluomachi,EURO,HR,Low,03-11-2019,,-205000,-98.3,9,6,66.67
+934,Lesch Group,Onitsha,16-02-2019,Not Started,,18367,4066,Nancy Oluomachi,NGN,Finance,Medium,13-06-2019,,-14301,-77.86,8,6,75
+935,Schuster-Hills,Jos,03-07-2019,Completed,09-12-2020,468354,3017,Emmanuel Chude,GHS,Operations,High,10-11-2019,395,-465337,-99.36,7,6,85.71
+936,Gaylord-Boyer,Head Office,09-06-2020,Delayed,,488867,13628,,EURO,IT,Critical,30-10-2020,,-475239,-97.21,6,0,0
+937,Satterfield Group,Lagos,27-11-2018,In Progress,,337596,8095,,EURO,Marketing,Low,02-05-2019,,-329501,-97.6,5,1,20
+938,Wintheiser-Ondricka,Ila,13-01-2019,Not Started,,272015,9387,Emeka Emeka,EURO,HR,Medium,01-07-2019,,-262628,-96.55,4,1,25
+939,Haley Group,Benin City,18-03-2019,Not Started,,46644,2881,Temitope Angela,EURO,Finance,High,16-09-2019,,-43763,-93.82,3,1,33.33
+940,Rice-Bergstrom,Kano,27-06-2020,Not Started,,394854,845,,KES,Operations,Critical,08-01-2021,,-394009,-99.79,10,4,40
+941,Corwin-O'Keefe,Head Office,14-10-2019,Delayed,,6708,12287,Temitope Angela,EURO,IT,Low,09-05-2020,,5579,83.17,9,5,55.56
+942,Price Group,Onitsha,29-03-2019,Not Started,,405020,9939,,USD,Marketing,Medium,09-05-2019,,-395081,-97.55,8,5,62.5
+943,Sauer Group,Onitsha,20-03-2020,Delayed,,352037,1904,Nancy Oluomachi,EURO,HR,High,13-05-2020,,-350133,-99.46,7,5,71.43
+944,Dach LLC,Benin City,28-08-2019,Delayed,,131892,4167,Temitope Angela,EURO,Finance,Critical,03-11-2019,,-127725,-96.84,6,5,83.33
+945,"Halvorson, Graham and Gerhold",Ila,24-06-2020,Not Started,,268294,10299,Edmund,USD,Operations,Low,12-09-2020,,-257995,-96.16,5,0,0
+946,Ward Inc,Abuja,24-09-2019,In Progress,,426048,11458,Emeka Emeka,GHS,IT,Medium,26-12-2019,,-414590,-97.31,4,0,0
+947,"Collier, Kulas and Bins",Head Office,22-04-2019,Not Started,,414595,7670,,USD,Marketing,High,06-08-2019,,-406925,-98.15,3,1,33.33
+948,Schaefer Inc,Lagos,23-07-2019,Not Started,,397206,7162,Emmanuel Chude,NGN,HR,Critical,19-11-2019,,-390044,-98.2,10,3,30
+949,"Ferry, Kohler and Lakin",Abuja,06-09-2019,Not Started,,229028,14576,Emeka Emeka,USD,Finance,Low,16-01-2020,,-214452,-93.64,9,4,44.44
+950,McClure-Hegmann,Onitsha,13-11-2018,Not Started,,75890,11332,Emmanuel Chude,KES,Operations,Medium,07-04-2019,,-64558,-85.07,8,4,50
+951,"Stehr, Schimmel and Smith",Onitsha,21-03-2019,Delayed,,77421,7751,Emmanuel Chude,EURO,IT,High,26-08-2019,,-69670,-89.99,7,5,71.43
+952,MacGyver-Gibson,Port Harcourt,16-01-2020,Completed,09-12-2020,357186,5536,Edmund,KES,Marketing,Critical,05-07-2020,157,-351650,-98.45,6,5,83.33
+953,Block-Green,Jos,22-09-2019,In Progress,,94371,2109,Emmanuel Chude,EURO,HR,Low,24-03-2020,,-92262,-97.77,5,4,80
+954,Larkin Inc,Jos,25-03-2019,Delayed,,147259,7590,Edmund,NGN,Finance,Medium,08-10-2019,,-139669,-94.85,4,4,100
+955,Morissette Group,Abuja,17-10-2018,Completed,12-12-2018,320194,2614,Patric NwaezeUbong,EURO,Operations,High,16-11-2018,26,-317580,-99.18,3,0,0
+956,"Mraz, Sawayn and O'Conner",Onitsha,01-01-2020,Delayed,,214342,528,Edmund,GHS,IT,Critical,13-02-2020,,-213814,-99.75,10,2,20
+957,Bahringer Group,Head Office,17-10-2019,Completed,12-12-2019,148260,10968,Emmanuel Chude,KES,Marketing,Low,12-12-2019,0,-137292,-92.6,9,3,33.33
+958,Hammes Group,Port Harcourt,29-01-2020,Completed,02-02-2020,54606,11823,Emmanuel Chude,GHS,HR,Medium,07-04-2020,-65,-42783,-78.35,8,3,37.5
+959,Dicki-Bednar,Port Harcourt,20-03-2019,In Progress,,447973,7891,Emmanuel Chude,USD,Finance,High,10-06-2019,,-440082,-98.24,7,4,57.14
+960,"Senger, Will and Kuhlman",Abuja,12-06-2019,Delayed,,498260,12555,Nancy Oluomachi,NGN,Operations,Critical,15-09-2019,,-485705,-97.48,6,4,66.67
+961,Gottlieb-Ferry,Enugu,10-03-2019,In Progress,,106772,13854,Patric NwaezeUbong,GHS,IT,Low,26-06-2019,,-92918,-87.02,5,4,80
+962,Doyle-Graham,Onitsha,04-11-2020,Completed,06-12-2020,459730,3590,Patric NwaezeUbong,NGN,Marketing,Medium,05-03-2021,-89,-456140,-99.22,4,3,75
+963,Bergstrom and Sons,Enugu,26-05-2020,Delayed,,13131,3025,Temitope Angela,GHS,HR,High,07-10-2020,,-10106,-76.96,3,3,100
+964,"Kemmer, Nolan and Simonis",Lagos,05-11-2019,Not Started,,368479,11797,Edmund,GHS,Finance,Critical,31-03-2020,,-356682,-96.8,10,1,10
+965,Stark LLC,Kano,29-05-2019,Delayed,,264843,14371,Emmanuel Chude,USD,Operations,Low,05-11-2019,,-250472,-94.57,9,2,22.22
+966,Rippin Group,Aba,31-01-2019,Delayed,,374029,6193,Nancy Oluomachi,NGN,IT,Medium,23-07-2019,,-367836,-98.34,8,2,25
+967,Hyatt-Cartwright,Head Office,25-01-2019,Not Started,,412479,12076,Emeka Emeka,GHS,Marketing,High,30-07-2019,,-400403,-97.07,7,3,42.86
+968,Ward LLC,Port Harcourt,16-05-2019,Delayed,,164618,3298,Temitope Angela,NGN,HR,Critical,01-12-2019,,-161320,-98,6,3,50
+969,"Fritsch, Streich and Cronin",Onitsha,07-08-2020,Completed,01-01-2021,222265,13301,Edmund,GHS,Finance,Low,08-09-2020,115,-208964,-94.02,5,3,60
+970,"Graham, Harvey and Fritsch",Onitsha,16-08-2019,Completed,01-01-2021,292875,12655,Nancy Oluomachi,EURO,Operations,Medium,30-09-2019,459,-280220,-95.68,4,3,75
+971,"Frami, Pollich and Barrows",Ila,06-11-2020,In Progress,,41790,1801,Temitope Angela,EURO,IT,High,03-01-2021,,-39989,-95.69,3,3,100
+972,Pouros-Hagenes,Enugu,29-04-2019,In Progress,,305361,9882,Patric NwaezeUbong,KES,Marketing,Critical,09-07-2019,,-295479,-96.76,10,10,100
+973,Funk-Collier,Kano,31-05-2020,Delayed,,159862,2767,Emmanuel Chude,EURO,HR,Low,23-08-2020,,-157095,-98.27,9,1,11.11
+974,"Wisoky, Homenick and O'Keefe",Port Harcourt,23-09-2020,Completed,10-12-2020,-193842,7302,Edmund,GHS,Finance,Medium,29-12-2020,-19,201144,-103.77,8,2,25
+975,Mohr-O'Conner,Abuja,05-03-2020,In Progress,,156393,13341,Temitope Angela,GHS,Operations,High,23-06-2020,,-143052,-91.47,7,2,28.57
+976,Howe-Heidenreich,Abuja,02-12-2019,Delayed,,443725,6757,,GHS,IT,Critical,03-04-2020,,-436968,-98.48,6,2,33.33
+977,Harvey Inc,Ila,04-07-2020,Delayed,,226122,5025,Temitope Angela,GHS,Marketing,Low,17-11-2020,,-221097,-97.78,5,3,60
+978,"Paucek, Okuneva and Kshlerin",Lagos,11-06-2018,Delayed,,45233,4765,Edmund,GHS,HR,Medium,07-11-2018,,-40468,-89.47,4,3,75
+979,Tremblay-Abshire,Enugu,01-04-2020,Completed,07-08-2020,224600,8301,Emeka Emeka,GHS,Finance,High,10-09-2020,-34,-216299,-96.3,3,2,66.67
+980,Kuhic-Schaden,Ila,17-01-2019,Completed,23-09-2019,245655,10181,,GHS,Operations,Critical,11-07-2019,74,-235474,-95.86,10,8,80
+981,Ritchie and Sons,Head Office,24-11-2018,In Progress,,362469,1174,Emeka Emeka,KES,IT,Low,31-05-2019,,-361295,-99.68,9,9,100
+982,Lubowitz LLC,Onitsha,23-10-2018,Completed,02-02-2019,204957,5693,Emeka Emeka,KES,Marketing,Medium,12-05-2019,-99,-199264,-97.22,8,1,12.5
+983,Treutel-Gorczany,Onitsha,27-11-2018,Not Started,,163569,8221,Nancy Oluomachi,GHS,HR,High,31-12-2018,,-155348,-94.97,7,1,14.29
+984,"Block, O'Connell and Ankunding",Kano,31-05-2019,Completed,09-11-2019,18819,8030,,KES,Finance,Critical,17-07-2019,115,-10789,-57.33,6,2,33.33
+985,Gislason Group,Jos,31-12-2018,In Progress,,433922,13079,,USD,Operations,Low,01-03-2019,,-420843,-96.99,5,2,40
+986,Konopelski LLC,Jos,29-06-2020,Delayed,,465148,7095,,GHS,IT,Medium,10-09-2020,,-458053,-98.47,4,2,50
+987,Luettgen LLC,Jos,21-08-2019,Delayed,,74856,5174,Nancy Oluomachi,NGN,Marketing,High,15-11-2019,,-69682,-93.09,3,2,66.67
+988,Jast-D'Amore,Kano,25-01-2019,Delayed,,20712,13446,Edmund,KES,HR,Critical,04-05-2019,,-7266,-35.08,10,7,70
+989,"Gottlieb, Conn and Boyer",Jos,17-02-2020,In Progress,,86546,1529,Nancy Oluomachi,EURO,Finance,Low,08-06-2020,,-85017,-98.23,9,8,88.89
+990,"Pagac, O'Connell and Wintheiser",Head Office,27-04-2019,Not Started,,93051,10206,,KES,Operations,Medium,30-08-2019,,-82845,-89.03,8,8,100
+991,Mann-Olson,Abuja,26-09-2019,Completed,10-12-2019,242170,683,Emeka Emeka,USD,IT,High,11-02-2020,-63,-241487,-99.72,7,0,0
+992,McDermott Group,Ila,04-07-2019,In Progress,,241517,11573,Patric NwaezeUbong,USD,Marketing,Critical,02-12-2019,,-229944,-95.21,6,1,16.67
+993,Homenick and Sons,Kano,20-02-2019,Not Started,,473229,2187,Edmund,USD,HR,Low,03-08-2019,,-471042,-99.54,5,1,20
+994,"Senger, Orn and Smitham",Lagos,29-03-2019,Delayed,,60745,1758,,NGN,Finance,Medium,22-09-2019,,-58987,-97.11,4,2,50
+995,Weimann-Miller,Onitsha,21-11-2019,In Progress,,477577,5305,Emmanuel Chude,NGN,Operations,High,29-05-2020,,-472272,-98.89,3,2,66.67
+996,Lowe Inc,Benin City,14-09-2018,Not Started,,314498,4947,Emmanuel Chude,NGN,IT,Critical,05-04-2019,,-309551,-98.43,10,6,60
+997,"Lang, Beer and McKenzie",Aba,28-11-2019,Completed,12-12-2019,425542,5905,,GHS,Marketing,Low,03-01-2020,-22,-419637,-98.61,9,6,66.67
+998,O'Hara Inc,Jos,13-04-2019,In Progress,,371005,5810,Temitope Angela,EURO,HR,Medium,01-06-2019,,-365195,-98.43,8,7,87.5
+999,Hyatt-Lind,Onitsha,24-02-2020,Completed,09-12-2020,-113091,8352,Nancy Oluomachi,NGN,Finance,High,26-04-2020,227,121443,-107.39,7,7,100
+1000,"Pacocha, Kerluke and McCullough",Onitsha,28-04-2020,In Progress,,459626,4137,,USD,Operations,Critical,12-07-2020,,-455489,-99.1,6,0,0
