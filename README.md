@@ -109,8 +109,13 @@ Key analyses:
 | `README.md` | Project documentation |
 ---
 
-## Author
+## 👤 Author
+
 **Vigneshwari Nalla**
+📍 Based in France | Open to internships and junior analyst roles
+
+🔗 [LinkedIn](https://www.linkedin.com/in/vigna24/)
+📧 vigna2408@gmail.com
 
 Aspiring Operations Analyst | Business Analyst | Project Coordinator
 
