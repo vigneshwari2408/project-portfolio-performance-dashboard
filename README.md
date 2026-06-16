@@ -112,12 +112,9 @@ Key analyses:
 ## 👤 Author
 
 **Vigneshwari Nalla**
+
 📍 Based in France | Open to internships and junior analyst roles
 
-🔗 [LinkedIn](https://www.linkedin.com/in/vigna24/)
-📧 vigna2408@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/vigna24/) | 📧 vigna2408@gmail.com | [GitHub Profile](https://github.com/vigneshwari2408)
 
 Aspiring Operations Analyst | Business Analyst | Project Coordinator
-
-📍 France
-[GitHub Profile](https://github.com/vigneshwari2408)
