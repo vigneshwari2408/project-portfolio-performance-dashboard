@@ -3,6 +3,11 @@
 ## Overview
 This project simulates a real-world PMO (Project Management Office) dashboard built to help management monitor project performance across budget, milestones, and regional delivery. It demonstrates skills in data preparation, SQL analysis, and Power BI visualization.
 
+> 🎓 **Portfolio Project** — This is an independent analytical project 
+> built to demonstrate Business Intelligence and PMO analysis skills. 
+> It uses a public Kaggle dataset and does not represent work 
+> performed for any employer.
+
 ---
 
 ## Business Problem
