@@ -4,8 +4,7 @@
 -- Author: Vigneshwari
 -- Dataset: project_portfolio_clean.csv
 -- Tool: DB Browser for SQLite
--- Description: Business questions answered using SQL to support
---              a 4-page Power BI dashboard for PMO analysis
+-- Description: Business questions answered using SQL to support a 4-page Power BI dashboard for PMO analysis
 -- ============================================================
 
 
