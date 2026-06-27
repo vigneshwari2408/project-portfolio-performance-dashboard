@@ -32,11 +32,27 @@ This dashboard answers all of these questions in one place.
 ---
 
 ## Dataset
-- **Source:** Kaggle — Project Management Dataset
+
+- **Source:** [https://www.kaggle.com/datasets/derrickkuria/project-management)
 - **Base rows:** 1,000 projects
-- **Columns:** 19
-- **Enrichment:** Original dataset enriched with budget variance, milestone tracking, and planned timeline columns using Power Query
-- **Note:** Delay_Days calculation was impacted by inconsistent date formats in source data. Timeline analysis is based on Project_Status instead.
+- **Original columns:** Project ID, Company, Site Name, Entry Date, Work Status, Complete Date, Recurring Revenue, NRR, Task Owner, Currency
+
+**Data Enrichment & Methodology**
+The source dataset provided project identity, dates, and status information. To build a realistic PMO analysis, the following fields were **synthetically generated** using Power Query, derived from existing fields to maintain internal consistency:
+
+| Field | How it was generated |
+|---|---|
+| `Department` | Assigned via formula across 5 departments |
+| `Priority` | Assigned via formula across 4 priority levels |
+| `Planned_End_Date` | Calculated from Start_Date + randomized duration |
+| `Actual_Spend` | Derived from Planned_Budget ± randomized variance |
+| `Budget_Variance` / `Budget_Variance_Pct` | Calculated from Planned_Budget vs Actual_Spend |
+| `Milestone_Total` / `Milestone_Completed` | Assigned via formula to simulate milestone tracking |
+| `Milestone_Completion_Pct` | Calculated from milestone fields above |
+
+This approach was chosen because the original dataset did not contain budget, milestone, or department-level detail needed for PMO analysis. All names, departments, and performance figures are synthetic and used for demonstration purposes only — they do not reflect real individuals or companies.
+
+**Note:** `Delay_Days` calculation was impacted by inconsistent date formats in the source data and was excluded from final analysis. Timeline analysis is based on `Project_Status` instead.
 
 ---
 
@@ -49,16 +65,16 @@ High-level portfolio summary for senior management.
 - Total Budget Variance: 11.59M over budget
 - Projects At Risk: 222 (22% of portfolio)
 
-![Executive Overview](executive_overview.png)
+![Executive Overview](screenshots/executive_overview.png)
 
 ### Page 2 — Budget Analysis
 Deep dive into budget performance by department, priority, and project manager.
 - HR department most over budget at 8.1% variance
 - IT department most efficient at 2.83% variance
 - Critical priority projects have highest budget overruns
-- Edmund has highest average budget variance among managers
+- Highest average budget variance observed among certain managers
 
-![Budget Analysis](budget_analysis.png)
+![Budget Analysis](screenshots/budget_analysis.png)
 
 ### Page 3 — Regional & Status Analysis
 Project status distribution across regions and departments.
@@ -66,15 +82,15 @@ Project status distribution across regions and departments.
 - Enugu and Benin City performing best
 - Budget overruns are systemic across all departments
 
-![Regional & Status Analysis](regional_status_analysis.png)
+![Regional & Status Analysis](screenshots/regional_status_analysis.png)
 
 ### Page 4 — Milestone & Manager Performance
 Milestone delivery tracking and project manager comparison.
-- Nancy Oluomachi is top performer (54% completion, 4.3% variance)
-- Patric NwaezeUbong needs support (45.31% completion)
+- Top performer shows 54% completion with 4.3% budget variance
+- Lowest performer shows 45.31% completion
 - 203 projects have no assigned manager — resource gap identified
 
-![Milestone & Manager Performance](milestone_manager_performance.png)
+![Milestone & Manager Performance](screenshots/milestone_manager_performance.png)
 
 ---
 
@@ -89,7 +105,7 @@ Milestone delivery tracking and project manager comparison.
 
 ## SQL Analysis
 Business questions answered using SQL in DB Browser for SQLite.
-Full queries available in `sql_queries.sql`
+Full queries available in [`sql/sql_queries.sql`](sql/sql_queries.sql)
 
 Key analyses:
 - Portfolio budget variance by department
@@ -104,14 +120,15 @@ Key analyses:
 
 | File | Description |
 |---|---|
-| `project_portfolio_clean.csv` | Cleaned dataset (1000 rows, 19 columns) |
-| `sql_queries.sql` | SQL business analysis queries |
-| `project_portfolio_dashboard.pbix` | Power BI dashboard file |
-| `executive_overview.png` | Page 1 screenshot |
-| `budget_analysis.png` | Page 2 screenshot |
-| `regional_status_analysis.png` | Page 3 screenshot |
-| `milestone_manager_performance.png` | Page 4 screenshot |
+| `data/project_portfolio_clean.csv` | Cleaned dataset (1000 rows, 19 columns) |
+| `sql/sql_queries.sql` | SQL business analysis queries |
+| `dashboard/project_portfolio_dashboard.pbix` | Power BI dashboard file |
+| `screenshots/executive_overview.png` | Page 1 screenshot |
+| `screenshots/budget_analysis.png` | Page 2 screenshot |
+| `screenshots/regional_status_analysis.png` | Page 3 screenshot |
+| `screenshots/milestone_manager_performance.png` | Page 4 screenshot |
 | `README.md` | Project documentation |
+
 ---
 
 ## 👤 Author
