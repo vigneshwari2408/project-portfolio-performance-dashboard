@@ -33,7 +33,7 @@ This dashboard answers all of these questions in one place.
 
 ## Dataset
 
-- **Source:** [https://www.kaggle.com/datasets/derrickkuria/project-management)
+- **Source:** - [Kaggle — Project Management Dataset](https://www.kaggle.com/datasets/derrickkuria/project-management)
 - **Base rows:** 1,000 projects
 - **Original columns:** Project ID, Company, Site Name, Entry Date, Work Status, Complete Date, Recurring Revenue, NRR, Task Owner, Currency
 
