@@ -1,44 +1,63 @@
 # Project Portfolio Performance Dashboard
 
-## Overview
-This project simulates a real-world PMO (Project Management Office) dashboard built to help management monitor project performance across budget, milestones, and regional delivery. It demonstrates skills in data preparation, SQL analysis, and Power BI visualization.
+> *Turning scattered project trackers into one clear view of what's on time, on budget, and at risk.*
 
-> 🎓 **Portfolio Project** — This is an independent analytical project 
-> built to demonstrate Business Intelligence and PMO analysis skills. 
-> It uses a public Kaggle dataset and does not represent work 
+> 🎓 **Portfolio Project** — This is an independent analytical project
+> built to demonstrate Business Intelligence and PMO analysis skills.
+> It uses a public Kaggle dataset and does not represent work
 > performed for any employer.
 
 ---
 
-## Business Problem
-Organizations managing large project portfolios struggle to answer critical questions:
-- Are projects on time and on budget?
-- Which departments are underperforming?
-- Where are resources being inefficiently allocated?
-- Which project managers need support?
+## The Problem
 
-This dashboard answers all of these questions in one place.
+Organizations running large project portfolios rarely struggle with a lack of data — they struggle with a lack of *visibility*. Budget overruns go unnoticed until quarter-end, milestone slippage is buried across dozens of trackers, and no one can say with confidence which department, manager, or region needs intervention right now.
+
+This project builds an end-to-end PMO analytics solution that turns a raw 1,000-project dataset into a 4-page Power BI dashboard, giving managers a single place to spot risk, control cost, and act on resourcing gaps.
 
 ---
 
-## Tools Used
-| Tool | Purpose |
+## Business Objective
+
+This dashboard answers six questions that PMO and operations leaders actually ask:
+
+| # | Business Question |
 |---|---|
-| Microsoft Excel + Power Query | Data cleaning and enrichment |
-| DB Browser for SQLite | SQL analysis and query validation |
-| Power BI Desktop | Dashboard development |
-| GitHub | Version control and portfolio hosting |
+| 1 | Are projects on time and on budget? |
+| 2 | Which departments are over budget — and by how much? |
+| 3 | Which regions have the most delivery delays? |
+| 4 | How many projects are at risk of failing? |
+| 5 | Which project managers are delivering best — and who needs support? |
+| 6 | Where are the highest-impact opportunities to improve delivery? |
 
 ---
 
 ## Dataset
 
-- **Source:** - [Kaggle — Project Management Dataset](https://www.kaggle.com/datasets/derrickkuria/project-management)
-- **Base rows:** 1,000 projects
-- **Original columns:** Project ID, Company, Site Name, Entry Date, Work Status, Complete Date, Recurring Revenue, NRR, Task Owner, Currency
+| Attribute | Detail |
+|---|---|
+| **Source** | [Kaggle — Project Management Dataset](https://www.kaggle.com/datasets/derrickkuria/project-management) |
+| **Size** | 1,000 project records |
+| **Format** | CSV |
+
+**Original Columns (from Kaggle):**
+
+| Column | Description |
+|---|---|
+| `id` | Unique project identifier |
+| `Company` | Project/company name |
+| `Site Name` | Delivery region |
+| `EntryDate` | Project start date |
+| `WorkStatus` | Project status (In Progress, Completed, Not Started, Stopped) |
+| `CompleteDate` | Actual completion date |
+| `ReccuringRevenue` | Recurring revenue figure |
+| `NRR` | Net revenue retention figure |
+| `Task Owner` | Assigned project manager |
+| `Currency` | Project currency |
 
 **Data Enrichment & Methodology**
-The source dataset provided project identity, dates, and status information. To build a realistic PMO analysis, the following fields were **synthetically generated** using Power Query, derived from existing fields to maintain internal consistency:
+
+The source dataset provided project identity, dates, and status — but no budget, milestone, or department-level detail, which a PMO dashboard requires. The following fields were **synthetically generated** using Power Query, derived from existing fields to keep results internally consistent:
 
 | Field | How it was generated |
 |---|---|
@@ -50,61 +69,107 @@ The source dataset provided project identity, dates, and status information. To 
 | `Milestone_Total` / `Milestone_Completed` | Assigned via formula to simulate milestone tracking |
 | `Milestone_Completion_Pct` | Calculated from milestone fields above |
 
-This approach was chosen because the original dataset did not contain budget, milestone, or department-level detail needed for PMO analysis. All names, departments, and performance figures are synthetic and used for demonstration purposes only — they do not reflect real individuals or companies.
+All department names, priorities, and performance figures are synthetic and used for demonstration purposes only — they do not reflect real companies or individuals.
 
-**Note:** `Delay_Days` calculation was impacted by inconsistent date formats in the source data and was excluded from final analysis. Timeline analysis is based on `Project_Status` instead.
+**Note:** `Delay_Days` was excluded from final analysis due to inconsistent date formats in the source data. Timeline risk is assessed via `Project_Status` instead.
 
 ---
 
-## Dashboard Pages
+## Tools & Technologies
 
-### Page 1 — Executive Overview
-High-level portfolio summary for senior management.
-- Total Projects: 1,000
-- Average Milestone Completion: 49.54%
-- Total Budget Variance: 11.59M over budget
-- Projects At Risk: 222 (22% of portfolio)
+| Tool | Purpose |
+|---|---|
+| **Microsoft Excel + Power Query** | Data cleaning, enrichment, mixed-date-format resolution |
+| **SQL (SQLite / DB Browser)** | Business-question validation, exploratory analysis |
+| **Power BI Desktop** | Interactive 4-page dashboard |
+| **GitHub** | Version control and portfolio hosting |
 
+---
+
+## Project Structure
+
+```
+project-portfolio-performance-dashboard/
+├── data/
+│   └── project_portfolio_clean.csv
+├── sql/
+│   └── sql_queries.sql
+├── dashboard/
+│   └── project_portfolio_dashboard.pbix
+├── screenshots/
+│   ├── executive_overview.png
+│   ├── budget_analysis.png
+│   ├── regional_status_analysis.png
+│   └── milestone_manager_performance.png
+└── README.md
+```
+
+---
+
+## Dashboard Overview
+
+The dashboard is structured across four analytical pages:
+
+**Page 1 — Executive Overview**
+High-level KPIs for senior management: total projects, average milestone completion, total budget variance, and projects at risk. Includes a status breakdown and budget/milestone comparison by department.
+
+**Page 2 — Budget Analysis**
+Drill-down into where money is being lost. Planned vs. actual spend by department, budget variance by priority level, and variance by project manager.
+
+**Page 3 — Regional & Status Analysis**
+Where delivery is breaking down geographically. Delayed projects by region, status distribution across regions, and status breakdown by priority and department.
+
+**Page 4 — Milestone & Manager Performance**
+Who is delivering, and who needs support. Milestone completion by department, completed vs. total milestones, and a full project manager performance summary table.
+
+---
+
+## Screenshots
+
+### Executive Overview
 ![Executive Overview](screenshots/executive_overview.png)
 
-### Page 2 — Budget Analysis
-Deep dive into budget performance by department, priority, and project manager.
-- HR department most over budget at 8.1% variance
-- IT department most efficient at 2.83% variance
-- Critical priority projects have highest budget overruns
-- Highest average budget variance observed among certain managers
-
+### Budget Analysis
 ![Budget Analysis](screenshots/budget_analysis.png)
 
-### Page 3 — Regional & Status Analysis
-Project status distribution across regions and departments.
-- Jos region has most delayed projects (35)
-- Enugu and Benin City performing best
-- Budget overruns are systemic across all departments
-
+### Regional & Status Analysis
 ![Regional & Status Analysis](screenshots/regional_status_analysis.png)
 
-### Page 4 — Milestone & Manager Performance
-Milestone delivery tracking and project manager comparison.
-- Top performer shows 54% completion with 4.3% budget variance
-- Lowest performer shows 45.31% completion
-- 203 projects have no assigned manager — resource gap identified
-
+### Milestone & Manager Performance
 ![Milestone & Manager Performance](screenshots/milestone_manager_performance.png)
 
 ---
 
-## Key Business Insights
-1. **Portfolio is 4.75% over budget overall** — immediate cost control needed
-2. **22% of projects are at risk** — delayed or in progress with under 50% milestones done
-3. **HR department needs intervention** — highest budget variance at 8.1%
-4. **Operations is double risk** — over budget AND lowest milestone completion
-5. **203 projects unassigned** — critical resource management gap
+## Key Findings
+
+- The portfolio is running **4.75% over budget overall** — €11.59M over a planned €244M, across 1,000 projects.
+- **22% of the portfolio (222 projects)** are at risk — delayed or in progress with under 50% of milestones completed.
+- **HR has the worst budget control** at 8.1% variance, while **IT is most efficient** at 2.83%.
+- Budget overruns are **not isolated to low-priority work** — Critical-priority projects show overrun rates just as high as Low-priority ones, pointing to a systemic issue rather than poor prioritization.
+- **Jos and Aba** have the highest concentration of delayed projects, while **Enugu and Benin City** are the most reliable delivery regions.
+- **Operations is a double risk area** — it has both the highest budget variance and the lowest milestone completion rate (46.54%) of any department.
+- **203 projects (just over 20% of the portfolio) have no assigned project manager** — a clear resourcing gap.
+- Among assigned managers, completion rates range from **45.3% to 54.0%**, with a roughly 1.5-point spread in average budget variance — performance is uneven but not extreme.
+
+---
+
+## Recommendations
+
+1. **Audit HR's budget process first.** At 8.1% variance — nearly 3x IT's rate — HR is the single biggest lever for closing the portfolio's €11.59M gap. Start with a cost-control review of HR's largest active projects.
+
+2. **Treat "Critical" priority as a budget risk flag, not a delivery guarantee.** Since overrun rates don't improve with priority level, raising a project's priority alone won't protect its budget — pair priority escalation with a dedicated budget checkpoint.
+
+3. **Investigate regional bottlenecks in Jos and Aba.** With the highest delay counts in the portfolio, these regions likely share a common root cause (resourcing, local approvals, supply chain) worth a focused review before scaling further work there.
+
+4. **Close the manager assignment gap.** With 203 projects unmanaged, assigning ownership is a low-cost, high-impact fix — unmanaged projects are a likely contributor to the 22% at-risk figure.
+
+5. **Use Operations as a pilot for combined budget-and-milestone tracking.** Since it scores worst on both dimensions simultaneously, a single intervention there — rather than two separate budget and milestone initiatives — would have the most concentrated impact.
 
 ---
 
 ## SQL Analysis
-Business questions answered using SQL in DB Browser for SQLite.
+
+Business questions validated using SQL in DB Browser for SQLite.
 Full queries available in [`sql/sql_queries.sql`](sql/sql_queries.sql)
 
 Key analyses:
@@ -116,27 +181,15 @@ Key analyses:
 
 ---
 
-## Project Structure
-
-| File | Description |
-|---|---|
-| `data/project_portfolio_clean.csv` | Cleaned dataset (1000 rows, 19 columns) |
-| `sql/sql_queries.sql` | SQL business analysis queries |
-| `dashboard/project_portfolio_dashboard.pbix` | Power BI dashboard file |
-| `screenshots/executive_overview.png` | Page 1 screenshot |
-| `screenshots/budget_analysis.png` | Page 2 screenshot |
-| `screenshots/regional_status_analysis.png` | Page 3 screenshot |
-| `screenshots/milestone_manager_performance.png` | Page 4 screenshot |
-| `README.md` | Project documentation |
-
----
-
-## 👤 Author
+## Author
 
 **Vigneshwari Nalla**
+Aspiring Operations Analyst | Business Analyst | Project Coordinator
 
 📍 Based in France | Open to internships and junior analyst roles
 
-🔗 [LinkedIn](https://www.linkedin.com/in/vigna24/) | 📧 vigna2408@gmail.com | [GitHub Profile](https://github.com/vigneshwari2408)
+🔗 [LinkedIn](https://www.linkedin.com/in/vigna24/) · [GitHub](https://github.com/vigneshwari2408) · 📧 vigna2408@gmail.com
 
-Aspiring Operations Analyst | Business Analyst | Project Coordinator
+---
+
+*Built to demonstrate end-to-end analytics thinking: from data cleaning through SQL validation to dashboard delivery and business recommendations.*
