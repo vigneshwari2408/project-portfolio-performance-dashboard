@@ -1,34 +1,44 @@
-# Project Portfolio Performance Dashboard
+# Project Portfolio Dashboard
 
-> *Turning scattered project trackers into one clear view of what's on time, on budget, and at risk.*
+**If you're responsible for 1,000 projects, how do you see which ones are slipping before the quarter ends?**
 
-> 🎓 **Portfolio Project** — This is an independent analytical project
-> built to demonstrate Business Intelligence and PMO analysis skills.
-> It uses a public Kaggle dataset and does not represent work
-> performed for any employer.
+A PMO-style dashboard in Power BI: budget, milestones, regions and project managers, all on four pages. The cleaning and enrichment were done in Power Query, and every number was checked again in SQL.
 
----
+**Tools:** Excel + Power Query · SQL (SQLite) · Power BI
 
-## The Problem
+> **Honest note on the data:** the projects, dates, status and regions come from a public Kaggle dataset. Budgets, departments, priorities and milestones were not in it, so I generated them in Power Query (method below). The findings show what the dashboard can surface. They aren't facts about a real company.
 
-Organizations running large project portfolios rarely struggle with a lack of data — they struggle with a lack of *visibility*. Budget overruns go unnoticed until quarter-end, milestone slippage is buried across dozens of trackers, and no one can say with confidence which department, manager, or region needs intervention right now.
-
-This project builds an end-to-end PMO analytics solution that turns a raw 1,000-project dataset into a 4-page Power BI dashboard, giving managers a single place to spot risk, control cost, and act on resourcing gaps.
+![Executive Overview](screenshots/executive_overview.png)
 
 ---
 
-## Business Objective
+## What the dashboard shows
 
-This dashboard answers six questions that PMO and operations leaders actually ask:
+- **The portfolio is 4.75% over budget overall:** €11.59M over a planned €244M.
+- **222 projects (22%) are at risk,** meaning delayed, or in progress with under half their milestones done.
+- **203 projects have no project manager.** That's the cheapest problem to fix.
+- **Critical-priority projects overrun as much as low-priority ones,** so a "critical" label doesn't protect a budget.
+- **HR has the highest budget variance (8.1%)** and IT the lowest (2.83%). Operations is weak on both budget and milestones (46.54% complete).
+- **Jos and Aba have the most delayed projects;** Enugu and Benin City deliver most reliably.
 
-| # | Business Question |
+## What I'd do with it
+
+1. **Give the 203 unowned projects an owner first.**
+2. **Treat "critical" as a budget risk too:** add a budget checkpoint when a project is escalated.
+3. **Review HR's largest active projects** for cost control.
+4. **Look for a shared cause in Jos and Aba** (staffing, approvals, suppliers) before adding more work there.
+5. **Pilot combined budget-and-milestone tracking in Operations,** where both are weakest.
+
+## The questions
+
+| # | Question |
 |---|---|
 | 1 | Are projects on time and on budget? |
-| 2 | Which departments are over budget — and by how much? |
-| 3 | Which regions have the most delivery delays? |
-| 4 | How many projects are at risk of failing? |
-| 5 | Which project managers are delivering best — and who needs support? |
-| 6 | Where are the highest-impact opportunities to improve delivery? |
+| 2 | Which departments are over budget, and by how much? |
+| 3 | Which regions have the most delays? |
+| 4 | How many projects are at risk? |
+| 5 | Which project managers deliver best, and who needs support? |
+| 6 | Where would a fix make the biggest difference? |
 
 ---
 
@@ -82,7 +92,6 @@ All department names, priorities, and performance figures are synthetic and used
 | **Microsoft Excel + Power Query** | Data cleaning, enrichment, mixed-date-format resolution |
 | **SQL (SQLite / DB Browser)** | Business-question validation, exploratory analysis |
 | **Power BI Desktop** | Interactive 4-page dashboard |
-| **GitHub** | Version control and portfolio hosting |
 
 ---
 
@@ -126,9 +135,6 @@ Who is delivering, and who needs support. Milestone completion by department, co
 
 ## Screenshots
 
-### Executive Overview
-![Executive Overview](screenshots/executive_overview.png)
-
 ### Budget Analysis
 ![Budget Analysis](screenshots/budget_analysis.png)
 
@@ -137,33 +143,6 @@ Who is delivering, and who needs support. Milestone completion by department, co
 
 ### Milestone & Manager Performance
 ![Milestone & Manager Performance](screenshots/milestone_manager_performance.png)
-
----
-
-## Key Findings
-
-- The portfolio is running **4.75% over budget overall** — €11.59M over a planned €244M, across 1,000 projects.
-- **22% of the portfolio (222 projects)** are at risk — delayed or in progress with under 50% of milestones completed.
-- **HR has the worst budget control** at 8.1% variance, while **IT is most efficient** at 2.83%.
-- Budget overruns are **not isolated to low-priority work** — Critical-priority projects show overrun rates just as high as Low-priority ones, pointing to a systemic issue rather than poor prioritization.
-- **Jos and Aba** have the highest concentration of delayed projects, while **Enugu and Benin City** are the most reliable delivery regions.
-- **Operations is a double risk area** — it has both the highest budget variance and the lowest milestone completion rate (46.54%) of any department.
-- **203 projects (just over 20% of the portfolio) have no assigned project manager** — a clear resourcing gap.
-- Among assigned managers, completion rates range from **45.3% to 54.0%**, with a roughly 1.5-point spread in average budget variance — performance is uneven but not extreme.
-
----
-
-## Recommendations
-
-1. **Audit HR's budget process first.** At 8.1% variance — nearly 3x IT's rate — HR is the single biggest lever for closing the portfolio's €11.59M gap. Start with a cost-control review of HR's largest active projects.
-
-2. **Treat "Critical" priority as a budget risk flag, not a delivery guarantee.** Since overrun rates don't improve with priority level, raising a project's priority alone won't protect its budget — pair priority escalation with a dedicated budget checkpoint.
-
-3. **Investigate regional bottlenecks in Jos and Aba.** With the highest delay counts in the portfolio, these regions likely share a common root cause (resourcing, local approvals, supply chain) worth a focused review before scaling further work there.
-
-4. **Close the manager assignment gap.** With 203 projects unmanaged, assigning ownership is a low-cost, high-impact fix — unmanaged projects are a likely contributor to the 22% at-risk figure.
-
-5. **Use Operations as a pilot for combined budget-and-milestone tracking.** Since it scores worst on both dimensions simultaneously, a single intervention there — rather than two separate budget and milestone initiatives — would have the most concentrated impact.
 
 ---
 
@@ -181,15 +160,7 @@ Key analyses:
 
 ---
 
-## Author
-
-**Vigneshwari Nalla**
-Aspiring Operations Analyst | Business Analyst | Project Coordinator
-
-📍 Based in France | Open to internships and junior analyst roles
-
-🔗 [LinkedIn](https://www.linkedin.com/in/vigna24/) · [GitHub](https://github.com/vigneshwari2408) · 📧 vigna2408@gmail.com
-
 ---
 
-*Built to demonstrate end-to-end analytics thinking: from data cleaning through SQL validation to dashboard delivery and business recommendations.*
+Made by **Vigneshwari Nalla (Vee)** · MSc Data Analytics for Business, KEDGE Business School
+[website](https://vigneshwari2408.github.io/vigneshwari-portfolio/) · [linkedin](https://www.linkedin.com/in/vigna24/) · [all projects](https://github.com/vigneshwari2408)
